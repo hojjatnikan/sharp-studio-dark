@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+file for overriding ReSharper highlighter color for Darcula editor scheme
+-->
+  <list>
+  <option name="DEBUGGER_PREDICTED_VALUE_FALSE">
+    <value>
+      <option name="BACKGROUND" value="6D3030"/>
+    </value>
+  </option>
+  <option name="DEBUGGER_PREDICTED_VALUE_FALSE_ALT">
+    <value>
+      <option name="BACKGROUND" value="723939"/>
+    </value>
+  </option>
+  <option name="DEBUGGER_PREDICTED_VALUE_TRUE">
+    <value>
+      <option name="BACKGROUND" value="2D5C2F"/>
+    </value>
+  </option>
+  <option name="DEBUGGER_PREDICTED_VALUE_TRUE_ALT">
+    <value>
+      <option name="BACKGROUND" value="225424"/>
+    </value>
+  </option>
+  <option name="DEBUGGER_PREDICTED_FLOW">
+    <value>
+      <option name="EFFECT_COLOR" value="9A63E9"/>
+      <option name="EFFECT_TYPE" value="0"/>
+    </value>
+  </option>
+  <option name="DEBUGGER_PREDICTED_EXCEPTION">
+    <value>
+      <option name="EFFECT_COLOR" value="9A63E9"/>
+      <option name="EFFECT_TYPE" value="2"/>
+    </value>
+  </option>
+  <option name="DEBUGGER_PREDICTED_SCOPE">
+    <value>
+      <option name="EFFECT_COLOR" value="6B4B99"/>
+      <option name="EFFECT_TYPE" value="2"/>
+    </value>
+  </option>
+  <option name="DEBUGGER_UNREACHABLE_DECORATION">
+    <value>
+      <option name="EFFECT_COLOR" value="334466"/>
+      <option name="EFFECT_TYPE" value="3"/>
+      <option name="FOREGROUND" value="72737A" />
+    </value>
+  </option>
+  <option name="CODE_VISION_DEFAULT">
+    <value>
+      <option name="FOREGROUND" value="a9a9a9" />
+    </value>
+  </option>
+  <option name="CODE_VISION_HOVERED">
+    <value>
+      <option name="FOREGROUND" value="589df6" />
+    </value>
+  </option>
+  <option name="DEBUG_THREAD_LABEL">
+    <value>
+      <option name="FOREGROUND" value="C0C0C0" />
+    </value>
+  </option>
+  <option name="ReSharper.FORMAT_STRING_ITEM">
+    <value>
+      <option name="FOREGROUND" value="80FF80" />
+    </value>
+  </option>
+  <option name="ReSharper.FORMAT_STRING_ITEM_2">
+    <value>
+      <option name="FOREGROUND" value="BBFFBB" />
+    </value>
+  </option>
+  <option name="ReSharper.STRING_ESCAPE_CHARACTER_2">
+    <value>
+      <option name="FOREGROUND" value="FF8D1C" />
+    </value>
+  </option>
+  <option name="SUGGESTION">
+    <value>
+      <option name="EFFECT_COLOR" value="FF00" />
+      <option name="EFFECT_TYPE" value="2" />
+      <option name="ERROR_STRIPE_COLOR" value="1A6DCE" />
+    </value>
+  </option>
+</list>

@@ -1,0 +1,388 @@
+{
+  "schema_version": "mimosa-task-review/v2",
+  "run_id": "20260921T130808621Z-127544-e3c4277eb746",
+  "run_status": "inconclusive",
+  "errors": [
+    {
+      "stage": "baseline-read",
+      "target": "tools/build_plugin.py",
+      "reason": "baseline_snapshot_unreadable: file is missing from task baseline"
+    },
+    {
+      "stage": "baseline-read",
+      "target": "tools/build_theme.py",
+      "reason": "baseline_snapshot_unreadable: file is missing from task baseline"
+    },
+    {
+      "stage": "baseline-read",
+      "target": "tools/contact_sheet.py",
+      "reason": "baseline_snapshot_unreadable: file is missing from task baseline"
+    },
+    {
+      "stage": "baseline-read",
+      "target": "tools/gen_icons.py",
+      "reason": "baseline_snapshot_unreadable: file is missing from task baseline"
+    },
+    {
+      "stage": "baseline-read",
+      "target": "tools/icons_common.py",
+      "reason": "baseline_snapshot_unreadable: file is missing from task baseline"
+    },
+    {
+      "stage": "baseline-read",
+      "target": "tools/icons_files.py",
+      "reason": "baseline_snapshot_unreadable: file is missing from task baseline"
+    },
+    {
+      "stage": "baseline-read",
+      "target": "tools/vs_palette.py",
+      "reason": "baseline_snapshot_unreadable: file is missing from task baseline"
+    }
+  ],
+  "coverage": {
+    "schema_version": "mimosa-hook-coverage/v1",
+    "status": "partial",
+    "scope": "hook_observed_diff",
+    "baseline": {
+      "complete": true,
+      "captured_files": 7,
+      "candidate_limit": 5000,
+      "truncated": false,
+      "enumeration_error_count": 0,
+      "snapshot_error_count": 0,
+      "compensated_target_count": 5
+    },
+    "change_tracking": {
+      "touched_observed": 5,
+      "touched_retained": 5,
+      "truncated": false,
+      "bash_mutation": true,
+      "bash_discovered": 11,
+      "bash_discovery_limit": 80,
+      "bash_discovery_truncated": false
+    },
+    "candidates": {
+      "eligible_files": 12,
+      "selected_files": 12,
+      "limit": 20,
+      "truncated": false
+    },
+    "scanning": {
+      "required_files": 12,
+      "scanned_files": 12,
+      "skipped_files": 0,
+      "failed_files": 0,
+      "project_checks_required": 1,
+      "project_checks_completed": 1
+    },
+    "notification": {
+      "eligible_findings": 0,
+      "detailed_findings": 0,
+      "detail_limit": 3,
+      "truncated": false
+    },
+    "reason_counts": {
+      "baseline_snapshot_unreadable": 7,
+      "project_check_failed": 7
+    },
+    "reasons": [
+      {
+        "code": "baseline_snapshot_unreadable",
+        "stage": "baseline-read",
+        "target": "tools/build_plugin.py",
+        "detail": "file is missing from task baseline",
+        "affects_completion": true
+      },
+      {
+        "code": "baseline_snapshot_unreadable",
+        "stage": "baseline-read",
+        "target": "tools/build_theme.py",
+        "detail": "file is missing from task baseline",
+        "affects_completion": true
+      },
+      {
+        "code": "baseline_snapshot_unreadable",
+        "stage": "baseline-read",
+        "target": "tools/contact_sheet.py",
+        "detail": "file is missing from task baseline",
+        "affects_completion": true
+      },
+      {
+        "code": "baseline_snapshot_unreadable",
+        "stage": "baseline-read",
+        "target": "tools/gen_icons.py",
+        "detail": "file is missing from task baseline",
+        "affects_completion": true
+      },
+      {
+        "code": "baseline_snapshot_unreadable",
+        "stage": "baseline-read",
+        "target": "tools/icons_common.py",
+        "detail": "file is missing from task baseline",
+        "affects_completion": true
+      },
+      {
+        "code": "baseline_snapshot_unreadable",
+        "stage": "baseline-read",
+        "target": "tools/icons_files.py",
+        "detail": "file is missing from task baseline",
+        "affects_completion": true
+      },
+      {
+        "code": "baseline_snapshot_unreadable",
+        "stage": "baseline-read",
+        "target": "tools/vs_palette.py",
+        "detail": "file is missing from task baseline",
+        "affects_completion": true
+      },
+      {
+        "code": "project_check_failed",
+        "stage": "baseline-read",
+        "target": "tools/build_plugin.py",
+        "detail": "baseline_snapshot_unreadable: file is missing from task baseline",
+        "affects_completion": true
+      },
+      {
+        "code": "project_check_failed",
+        "stage": "baseline-read",
+        "target": "tools/build_theme.py",
+        "detail": "baseline_snapshot_unreadable: file is missing from task baseline",
+        "affects_completion": true
+      },
+      {
+        "code": "project_check_failed",
+        "stage": "baseline-read",
+        "target": "tools/contact_sheet.py",
+        "detail": "baseline_snapshot_unreadable: file is missing from task baseline",
+        "affects_completion": true
+      },
+      {
+        "code": "project_check_failed",
+        "stage": "baseline-read",
+        "target": "tools/gen_icons.py",
+        "detail": "baseline_snapshot_unreadable: file is missing from task baseline",
+        "affects_completion": true
+      },
+      {
+        "code": "project_check_failed",
+        "stage": "baseline-read",
+        "target": "tools/icons_common.py",
+        "detail": "baseline_snapshot_unreadable: file is missing from task baseline",
+        "affects_completion": true
+      },
+      {
+        "code": "project_check_failed",
+        "stage": "baseline-read",
+        "target": "tools/icons_files.py",
+        "detail": "baseline_snapshot_unreadable: file is missing from task baseline",
+        "affects_completion": true
+      },
+      {
+        "code": "project_check_failed",
+        "stage": "baseline-read",
+        "target": "tools/vs_palette.py",
+        "detail": "baseline_snapshot_unreadable: file is missing from task baseline",
+        "affects_completion": true
+      }
+    ],
+    "reasons_truncated": false
+  },
+  "generated_at": "2026-09-21T13:08:08.621Z",
+  "session_id": "sess_719daa4e-8ce4-47fc-b19d-88a6f4356de6",
+  "target": ".",
+  "revision": null,
+  "rules_version": "unavailable",
+  "diff_hash": "2bc5462e73b779a06d931c57330c81e9d6e769902ebe5b62d25a4ee7b71f460a",
+  "diff": {
+    "algorithm": "sha256",
+    "changed_file_count": 12,
+    "changed_files": [
+      {
+        "file": "build.gradle.kts",
+        "ranges": [
+          {
+            "start": 1,
+            "end": 59
+          }
+        ],
+        "before_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "after_hash": "855f46bba085955ba8bc5eee0f15a30258a09e4b3ed3d36148061431586b6f54"
+      },
+      {
+        "file": "build/sample/VsThemeSample/Program.cs",
+        "ranges": [
+          {
+            "start": 1,
+            "end": 19
+          }
+        ],
+        "before_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "after_hash": "62718f64e6127434149584cfe7aa1f1b50fb32d63a67a8a09e9a22481aaa8cb9"
+      },
+      {
+        "file": "settings.gradle.kts",
+        "ranges": [
+          {
+            "start": 1,
+            "end": 1
+          }
+        ],
+        "before_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "after_hash": "0aa856ff1b93cb25ffd8f336656cd2e04476bd519ec7269bc3368242e20a86c9"
+      },
+      {
+        "file": "tools/build_plugin.py",
+        "ranges": [
+          {
+            "start": 1,
+            "end": 74
+          }
+        ],
+        "before_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "after_hash": "25d093b87ee1b8d92a5c89a2fa06e5075fac99b90d762b9a532928235fecc289"
+      },
+      {
+        "file": "tools/build_theme.py",
+        "ranges": [
+          {
+            "start": 1,
+            "end": 120
+          }
+        ],
+        "before_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "after_hash": "ed6450294decf4f42199ffe385fa21dbeb73b7a739c665d0b197f1909a2197c7"
+      },
+      {
+        "file": "tools/contact_sheet.py",
+        "ranges": [
+          {
+            "start": 1,
+            "end": 52
+          }
+        ],
+        "before_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "after_hash": "f7febe78fb1c1f7b35f14b818306ae35aa1746e99caba323a5c14b01075c6088"
+      },
+      {
+        "file": "tools/gen_icons.py",
+        "ranges": [
+          {
+            "start": 1,
+            "end": 72
+          }
+        ],
+        "before_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "after_hash": "da95e432452cad020aab964cff22db00b8fe67aaa88bc14dd8dcd1909c57780a"
+      },
+      {
+        "file": "tools/icons_common.py",
+        "ranges": [
+          {
+            "start": 1,
+            "end": 168
+          }
+        ],
+        "before_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "after_hash": "c7ea962f8f47a45d92c3593ccbf9978f9dd0cec42838e27842a51c3b6af1a206"
+      },
+      {
+        "file": "tools/icons_files.py",
+        "ranges": [
+          {
+            "start": 1,
+            "end": 326
+          }
+        ],
+        "before_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "after_hash": "cde09c20e25a047be4847167bb9837874fcacb2fedde1faa9c2d999ac7895bf8"
+      },
+      {
+        "file": "tools/icons_ui.py",
+        "ranges": [
+          {
+            "start": 31,
+            "end": 31
+          },
+          {
+            "start": 106,
+            "end": 108
+          }
+        ],
+        "before_hash": "421b4252cb976711712cc8bd90bd3af9cfc664d194a208bd2f39d7702fabd68c",
+        "after_hash": "f691f7bc9909bc555987ebef8737658e30b07db92bf2334b6e239eb33439ec99"
+      },
+      {
+        "file": "tools/install_rider.py",
+        "ranges": [
+          {
+            "start": 1,
+            "end": 149
+          }
+        ],
+        "before_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "after_hash": "4c46a0be48af2790d1caaee274dbb726c23c5ae4ec4394de53979e03bcea3193"
+      },
+      {
+        "file": "tools/vs_palette.py",
+        "ranges": [
+          {
+            "start": 1,
+            "end": 315
+          }
+        ],
+        "before_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "after_hash": "3bba67c8ffa7d57eceeb4cfb40e9b7b4b3c24616a0c4d9e0759a0f6e290a1471"
+      }
+    ]
+  },
+  "timing": {
+    "started_at": "2026-09-21T13:08:06.378Z",
+    "completed_at": "2026-09-21T13:08:08.621Z",
+    "duration_ms": 2243,
+    "measurement": "hook_wall_clock"
+  },
+  "tokens": {
+    "input": 0,
+    "output": 0,
+    "total": 0,
+    "model_calls": 0,
+    "measurement": "known-zero"
+  },
+  "telemetry": {
+    "schemaVersion": "mimosa-gate-telemetry/v1",
+    "profile": "gate",
+    "operation": "Stop",
+    "outcome": "partial/INCONCLUSIVE",
+    "latencyMs": 2243,
+    "peakMemoryBytes": 134356992,
+    "memoryMeasurement": "max-observed-process-rss",
+    "scannedFiles": 12,
+    "cache": {
+      "hits": 0,
+      "misses": 0,
+      "measurement": "not-applicable"
+    },
+    "denyCount": 0,
+    "tokens": {
+      "input": 0,
+      "output": 0,
+      "total": 0,
+      "modelCalls": 0,
+      "measurement": "known-zero"
+    }
+  },
+  "finding_count": 0,
+  "rewake_finding_count": 0,
+  "evidence_boundary": {
+    "scan": "candidate",
+    "static_fix_verification": "observed_static_only",
+    "runtime_verification": "not_performed"
+  },
+  "finding_events": [],
+  "findings": [],
+  "artifacts": {
+    "immutable_report": ".mimosa/reports/task-review-sess_719daa4e-8ce4-47fc-b19d-88a6f4356de6-20260921T130808621Z-127544-e3c4277eb746.json",
+    "latest_report": ".mimosa/reports/task-review-sess_719daa4e-8ce4-47fc-b19d-88a6f4356de6.json",
+    "history_summary": ".mimosa/history/run-20260921T130808621Z-127544-e3c4277eb746.json"
+  }
+}

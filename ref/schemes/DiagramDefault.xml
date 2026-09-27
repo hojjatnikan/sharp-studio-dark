@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <colors>
+    <!-- @formatter:off -->
+    <!-- NODES -->
+
+    <option name="DIAGRAM_NODE_HEADER"              value="e0e0e0"/>
+    <option name="DIAGRAM_NODE_BACKGROUND"          value="ffffff"/>
+    <option name="DIAGRAM_NODE_SLOPPY_BACKGROUND"   value="ccccff"/>
+    <option name="DIAGRAM_NODE_BORDER"              value="c0c0c0"/>
+    <option name="DIAGRAM_SELECTED_NODE_BORDER"     value="ffc800"/>
+    <option name="DIAGRAM_HIGHLIGHTED_NODE_BORDER"  value="ff00ff"/>
+
+    <!-- NOTES -->
+
+    <option name="DIAGRAM_NOTE_BACKGROUND"          value="f9fed5"/>
+    <option name="DIAGRAM_NOTE_SLOPPY_BACKGROUND"   value="f9fed5"/>
+    <option name="DIAGRAM_NOTE_BORDER"              value="cccc00"/>
+
+    <!-- EDGES -->
+
+    <option name="DIAGRAM_REALIZATION_EDGE"         value="008200"/>
+    <option name="DIAGRAM_GENERALIZATION_EDGE"      value="000082"/>
+    <option name="DIAGRAM_DEFAULT_EDGE"             value="595959"/>
+    <option name="DIAGRAM_ANNOTATION_EDGE"          value="999900"/>
+    <option name="DIAGRAM_INNER_EDGE"               value="820000"/>
+    <option name="DIAGRAM_BAD_EDGE"                 value="ff0000"/>
+    <option name="DIAGRAM_EDGE_SELECTION"           value="ffc800"/>
+
+    <!-- BENDS and HOT SPOTS -->
+
+    <option name="DIAGRAM_BEND"                     value="c0c0c0"/>
+    <option name="DIAGRAM_BEND_SELECTION"           value="00ff00"/>
+
+    <!-- SELECTION BOX -->
+
+    <option name="DIAGRAM_SELECTION_BOX_BORDER"     value="c0c0c0"/>
+    <option name="DIAGRAM_SELECTION_BOX_BACKGROUND" value="00000014"/>
+
+    <!-- OTHER -->
+
+    <option name="DIAGRAM_PORT"                     value="c0c0c0"/>
+    <option name="DIAGRAM_HOT_SPOTS"                value="c0c0c0"/>
+    <option name="DIAGRAM_SNAPPING_LINES"           value="c0c0c0"/>
+    <option name="DIAGRAM_FINE_GRID"                value="f6f6f6"/>
+    <option name="DIAGRAM_COARSE_GRID"              value="e7e7e7"/>
+    <!-- @formatter:on -->
+  </colors>
+</list>

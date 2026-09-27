@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+file for overriding ReSharper highlighter color for Default editor scheme
+-->
+  <list>
+  <option name="DEBUGGER_PREDICTED_VALUE_FALSE">
+    <value>
+      <option name="BACKGROUND" value="FFAFB9"/>
+    </value>
+  </option>
+  <option name="DEBUGGER_PREDICTED_VALUE_FALSE_ALT">
+    <value>
+      <option name="BACKGROUND" value="F67B7B"/>
+      <option name="FOREGROUND" value="080808"/>
+    </value>
+  </option>
+  <option name="DEBUGGER_PREDICTED_VALUE_TRUE">
+    <value>
+      <option name="BACKGROUND" value="BFF8A7"/>
+    </value>
+  </option>
+  <option name="DEBUGGER_PREDICTED_VALUE_TRUE_ALT">
+    <value>
+      <option name="BACKGROUND" value="75C377"/>
+      <option name="FOREGROUND" value="080808"/>
+    </value>
+  </option>
+  <option name="DEBUGGER_PREDICTED_FLOW">
+    <value>
+      <option name="EFFECT_COLOR" value="9A63E9"/>
+      <option name="EFFECT_TYPE" value="0"/>
+    </value>
+  </option>
+  <option name="DEBUGGER_PREDICTED_EXCEPTION">
+    <value>
+      <option name="EFFECT_COLOR" value="9A63E9"/>
+      <option name="EFFECT_TYPE" value="2"/>
+    </value>
+  </option>
+  <option name="DEBUGGER_PREDICTED_SCOPE">
+    <value>
+      <option name="EFFECT_COLOR" value="DCC3FF"/>
+      <option name="EFFECT_TYPE" value="2"/>
+    </value>
+  </option>
+
+  <option name="DEBUGGER_UNREACHABLE_DECORATION">
+    <value>
+      <option name="FOREGROUND" value="808080"/>
+      <option name="EFFECT_COLOR" value="D8D8FF"/>
+      <option name="EFFECT_TYPE" value="3"/>
+    </value>
+  </option>
+  <option name="CODE_VISION_DEFAULT">
+    <value>
+      <option name="FOREGROUND" value="a9a9a9" />
+    </value>
+  </option>
+  <option name="CODE_VISION_HOVERED">
+    <value>
+      <option name="FOREGROUND" value="016cc1" />
+    </value>
+  </option>
+  <option name="DEBUG_THREAD_LABEL">
+    <value>
+      <option name="FOREGROUND" value="3E3E3E" />
+    </value>
+  </option>
+  <option name="ReSharper.ASP_NET_RAZOR_TAG_HELPER_ATTRIBUTE">
+    <value>
+      <option name="FOREGROUND" value="660e7a" />
+      <option name="FONT_TYPE" value="1" />
+    </value>
+  </option>
+  <option name="ReSharper.ASP_NET_RAZOR_TAG_HELPER_ELEMENT">
+    <value>
+      <option name="FOREGROUND" value="660e7a" />
+      <option name="FONT_TYPE" value="1" />
+    </value>
+  </option>
+  <option name="ReSharper.FORMAT_STRING_ITEM">
+    <value>
+      <option name="FOREGROUND" value="af805c" />
+    </value>
+  </option>
+  <option name="ReSharper.FORMAT_STRING_ITEM_2">
+    <value>
+      <option name="FOREGROUND" value="db9e76" />
+    </value>
+  </option>
+  <option name="ReSharper.HTML_ID_ATTRIBUTE">
+    <value>
+      <option name="FONT_TYPE" value="1" />
+    </value>
+  </option>
+  <option name="ReSharper.STRING_ESCAPE_CHARACTER_2">
+    <value>
+      <option name="FOREGROUND" value="295299" />
+    </value>
+  </option>
+  <option name="ReSharper.ST_METHOD">
+    <value>
+      <option name="FOREGROUND" value="660e7a" />
+    </value>
+  </option>
+  <option name="ReSharper.ST_TYPE">
+    <value>
+      <option name="FOREGROUND" value="6666" />
+    </value>
+  </option>
+  <option name="SUGGESTION">
+    <value>
+      <option name="EFFECT_COLOR" value="8000" />
+      <option name="ERROR_STRIPE_COLOR" value="a400" />
+      <option name="EFFECT_TYPE" value="2" />
+    </value>
+  </option>
+</list>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+file for overriding ReSharper highlighter color for Light editor scheme
+-->
+<list>
+  <option name="DEBUG_THREAD_LABEL">
+    <value>
+      <option name="FOREGROUND" value="FFFFFF"/>
+    </value>
+  </option>
+</list>

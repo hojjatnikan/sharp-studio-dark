@@ -1,0 +1,183 @@
+{
+  "schemaVersion": "mimosa-finding-ledger-batch/v1",
+  "batchId": "stop-20260921T130808621Z-127544-e3c4277eb746",
+  "runId": "20260921T130808621Z-127544-e3c4277eb746",
+  "runStatus": "inconclusive",
+  "coverage": {
+    "status": "partial",
+    "reasons": [
+      {
+        "code": "baseline_snapshot_unreadable",
+        "stage": "baseline-read",
+        "target": "tools/build_plugin.py",
+        "detail": "file is missing from task baseline",
+        "affectsCompletion": true
+      },
+      {
+        "code": "baseline_snapshot_unreadable",
+        "stage": "baseline-read",
+        "target": "tools/build_theme.py",
+        "detail": "file is missing from task baseline",
+        "affectsCompletion": true
+      },
+      {
+        "code": "baseline_snapshot_unreadable",
+        "stage": "baseline-read",
+        "target": "tools/contact_sheet.py",
+        "detail": "file is missing from task baseline",
+        "affectsCompletion": true
+      },
+      {
+        "code": "baseline_snapshot_unreadable",
+        "stage": "baseline-read",
+        "target": "tools/gen_icons.py",
+        "detail": "file is missing from task baseline",
+        "affectsCompletion": true
+      },
+      {
+        "code": "baseline_snapshot_unreadable",
+        "stage": "baseline-read",
+        "target": "tools/icons_common.py",
+        "detail": "file is missing from task baseline",
+        "affectsCompletion": true
+      },
+      {
+        "code": "baseline_snapshot_unreadable",
+        "stage": "baseline-read",
+        "target": "tools/icons_files.py",
+        "detail": "file is missing from task baseline",
+        "affectsCompletion": true
+      },
+      {
+        "code": "baseline_snapshot_unreadable",
+        "stage": "baseline-read",
+        "target": "tools/vs_palette.py",
+        "detail": "file is missing from task baseline",
+        "affectsCompletion": true
+      },
+      {
+        "code": "project_check_failed",
+        "stage": "baseline-read",
+        "target": "tools/build_plugin.py",
+        "detail": "baseline_snapshot_unreadable: file is missing from task baseline",
+        "affectsCompletion": true
+      },
+      {
+        "code": "project_check_failed",
+        "stage": "baseline-read",
+        "target": "tools/build_theme.py",
+        "detail": "baseline_snapshot_unreadable: file is missing from task baseline",
+        "affectsCompletion": true
+      },
+      {
+        "code": "project_check_failed",
+        "stage": "baseline-read",
+        "target": "tools/contact_sheet.py",
+        "detail": "baseline_snapshot_unreadable: file is missing from task baseline",
+        "affectsCompletion": true
+      },
+      {
+        "code": "project_check_failed",
+        "stage": "baseline-read",
+        "target": "tools/gen_icons.py",
+        "detail": "baseline_snapshot_unreadable: file is missing from task baseline",
+        "affectsCompletion": true
+      },
+      {
+        "code": "project_check_failed",
+        "stage": "baseline-read",
+        "target": "tools/icons_common.py",
+        "detail": "baseline_snapshot_unreadable: file is missing from task baseline",
+        "affectsCompletion": true
+      },
+      {
+        "code": "project_check_failed",
+        "stage": "baseline-read",
+        "target": "tools/icons_files.py",
+        "detail": "baseline_snapshot_unreadable: file is missing from task baseline",
+        "affectsCompletion": true
+      },
+      {
+        "code": "project_check_failed",
+        "stage": "baseline-read",
+        "target": "tools/vs_palette.py",
+        "detail": "baseline_snapshot_unreadable: file is missing from task baseline",
+        "affectsCompletion": true
+      }
+    ]
+  },
+  "source": {
+    "component": "zcode-hook",
+    "operationId": "Stop"
+  },
+  "revision": null,
+  "diffHash": "2bc5462e73b779a06d931c57330c81e9d6e769902ebe5b62d25a4ee7b71f460a",
+  "rulesVersion": "unavailable",
+  "sessionHash": "bc60fe603a3ff0cf591225f80f7279c039d3588d6562689a0f2db41de69c4834",
+  "reportRef": ".mimosa/reports/task-review-sess_719daa4e-8ce4-47fc-b19d-88a6f4356de6-20260921T130808621Z-127544-e3c4277eb746.json",
+  "events": [],
+  "observedFindingIds": [],
+  "verifiedFiles": [
+    {
+      "file": "tools/icons_ui.py",
+      "direct": "complete",
+      "projectContext": "partial"
+    },
+    {
+      "file": "tools/install_rider.py",
+      "direct": "complete",
+      "projectContext": "partial"
+    },
+    {
+      "file": "build/sample/VsThemeSample/Program.cs",
+      "direct": "complete",
+      "projectContext": "partial"
+    },
+    {
+      "file": "build.gradle.kts",
+      "direct": "complete",
+      "projectContext": "partial"
+    },
+    {
+      "file": "settings.gradle.kts",
+      "direct": "complete",
+      "projectContext": "partial"
+    },
+    {
+      "file": "tools/build_plugin.py",
+      "direct": "complete",
+      "projectContext": "partial"
+    },
+    {
+      "file": "tools/build_theme.py",
+      "direct": "complete",
+      "projectContext": "partial"
+    },
+    {
+      "file": "tools/contact_sheet.py",
+      "direct": "complete",
+      "projectContext": "partial"
+    },
+    {
+      "file": "tools/gen_icons.py",
+      "direct": "complete",
+      "projectContext": "partial"
+    },
+    {
+      "file": "tools/icons_common.py",
+      "direct": "complete",
+      "projectContext": "partial"
+    },
+    {
+      "file": "tools/icons_files.py",
+      "direct": "complete",
+      "projectContext": "partial"
+    },
+    {
+      "file": "tools/vs_palette.py",
+      "direct": "complete",
+      "projectContext": "partial"
+    }
+  ],
+  "recordedAt": "2026-09-21T13:08:09.104Z"
+}

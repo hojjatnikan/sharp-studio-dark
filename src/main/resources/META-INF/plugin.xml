@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<idea-plugin>
+  <id>com.hnikan.sharpstudiodark</id>
+  <name>Sharp Studio Dark</name>
+  <version>1.0.0</version>
+  <vendor email="__VENDOR_EMAIL__" url="__DONATE_URL__">hojjat nikan</vendor>
+
+  <description><![CDATA[
+    <b>Sharp Studio Dark</b> gives JetBrains Rider the look of Visual Studio 2026 &mdash;
+    built for C# developers who live in Visual Studio but want their Rider to feel the same.
+    <br/><br/>
+    Same IDE you know, familiar colours underneath: the chrome, the editor palette and the
+    icons all follow Visual Studio 2026 (Dark).
+    <br/><br/>
+
+    <b>What you get</b>
+    <ul>
+      <li><b>A Visual Studio 2026 dark chrome.</b> Every colour was sampled from a real
+          Visual Studio window instead of guessed: title bar <code>#1C1C1C</code>, menu and
+          toolbar strip <code>#262626</code>, tool windows <code>#282828</code>, editor
+          <code>#1E1E1E</code>, status bar <code>#141414</code>, and the flat grey selection
+          with the blue underline on the active tab that Visual Studio uses instead of a
+          coloured highlight.</li>
+      <li><b>A colour scheme named <i>Sharp Studio Dark</i></b> with the editor colours you
+          already read every day: keywords <code>#569CD6</code>, strings <code>#D69D85</code>,
+          numbers <code>#B5CEA8</code>, types <code>#4EC9B0</code>, methods
+          <code>#DCDCAA</code>, comments <code>#57A64A</code>.</li>
+      <li><b>210 hand-drawn icons over 719 platform paths.</b> Green <code>C#</code> files,
+          grey window tiles with the blue globe for web projects and the purple C# mark for
+          class libraries and solutions, golden folders, photo-frame images, flat monochrome
+          toolbars &mdash; the same visual language as Visual Studio, drawn from scratch for
+          Rider.</li>
+      <li><b>Nothing but resources.</b> No background services, no code running in your IDE,
+          no telemetry: a theme descriptor, one colour scheme and SVG files.</li>
+    </ul>
+
+    <b>Good to know</b>
+    <ul>
+      <li>Enable it in <b>Settings | Appearance &amp; Behavior | Appearance</b>:
+          <code>Theme</code> = <b>Sharp Studio Dark</b>, <code>Editor color scheme</code> =
+          <b>Sharp Studio Dark</b> (re-select them once after the first install).</li>
+      <li>Verified on Rider 2025.1 &ndash; 2026.x. If another icon-pack plugin is installed
+          (VSCode Icons, Catppuccin Icons, &hellip;) it wins over any theme's icons, so disable
+          it if you want the Visual Studio icons to show.</li>
+      <li>Dark theme only. Suggestions, bug reports and icon requests are welcome in the
+          issue tracker.</li>
+    </ul>
+
+    <b>Support the project</b><br/>
+    Sharp Studio Dark is free and stays free. If it saves you time, a coffee is welcome:
+    <a href="__DONATE_URL__">buy me a coffee via PayPal</a>.
+  ]]></description>
+
+  <change-notes><![CDATA[
+    <b>1.0.0</b> &mdash; first release
+    <ul>
+      <li>Visual Studio 2026 (Dark) chrome: title bar, menu and toolbar strip, tool windows,
+          editor tabs with the blue active-tab underline, dark status bar and flat grey
+          selection.</li>
+      <li>Editor colour scheme <b>Sharp Studio Dark</b> with the Visual Studio palette
+          (keywords, strings, numbers, types, methods, comments, selection and caret colours).</li>
+      <li>Icon pack with 210 icons covering 719 platform paths: green <code>C#</code> files,
+          grey window tiles with the blue globe badge for web projects and the purple C# mark
+          for class libraries and solutions, golden folders, photo-frame images and flat
+          monochrome toolbar icons.</li>
+      <li>Message boxes, buttons and the window frame deliberately keep Rider's own look, so
+          dialogs stay stock and readable.</li>
+    </ul>
+  ]]></change-notes>
+
+  <!-- No until-build on purpose: an open-ended range keeps the plugin available in
+       future IDE builds, and the marketplace validator flags guessed build numbers. -->
+  <idea-version since-build="251"/>
+
+  <depends>com.intellij.modules.platform</depends>
+
+  <extensions defaultExtensionNs="com.intellij">
+    <themeProvider id="hnikan-vs2022-dark-0f2c7ad4" path="/themes/visual-studio-2022-dark.theme.json"/>
+  </extensions>
+</idea-plugin>

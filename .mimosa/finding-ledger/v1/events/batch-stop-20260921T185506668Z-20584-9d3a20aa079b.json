@@ -1,0 +1,44 @@
+{
+  "schemaVersion": "mimosa-finding-ledger-batch/v1",
+  "batchId": "stop-20260921T185506668Z-20584-9d3a20aa079b",
+  "runId": "20260921T185506668Z-20584-9d3a20aa079b",
+  "runStatus": "completed",
+  "coverage": {
+    "status": "complete",
+    "reasons": []
+  },
+  "source": {
+    "component": "zcode-hook",
+    "operationId": "Stop"
+  },
+  "revision": null,
+  "diffHash": "49ca0985d32eea18eaced96a98d00e9d2be57cf1ffb965d4b3b72195d14218a7",
+  "rulesVersion": "unavailable",
+  "sessionHash": "bc60fe603a3ff0cf591225f80f7279c039d3588d6562689a0f2db41de69c4834",
+  "reportRef": ".mimosa/reports/task-review-sess_719daa4e-8ce4-47fc-b19d-88a6f4356de6-20260921T185506668Z-20584-9d3a20aa079b.json",
+  "events": [],
+  "observedFindingIds": [],
+  "verifiedFiles": [
+    {
+      "file": "tools/icons_files.py",
+      "direct": "complete",
+      "projectContext": "partial"
+    },
+    {
+      "file": "tools/build_plugin.py",
+      "direct": "complete",
+      "projectContext": "partial"
+    },
+    {
+      "file": "tools/install_rider.py",
+      "direct": "complete",
+      "projectContext": "partial"
+    },
+    {
+      "file": "tools/build_theme.py",
+      "direct": "complete",
+      "projectContext": "partial"
+    }
+  ],
+  "recordedAt": "2026-09-21T18:55:07.113Z"
+}

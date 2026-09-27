@@ -1,0 +1,27 @@
+<?xml version='1.0'?>
+<list>
+  <option name="COMPOSE_SERVICE_STATUS_ERROR">
+    <value>
+      <option name="FOREGROUND" value="DB5C5C"/>
+      <option name="BACKGROUND" value="E55765"/>
+    </value>
+  </option>
+  <option name="COMPOSE_SERVICE_STATUS_SUCCESS">
+    <value>
+      <option name="FOREGROUND" value="57965C"/>
+      <option name="BACKGROUND" value="208A3C"/>
+    </value>
+  </option>
+  <option name="COMPOSE_SERVICE_STATUS_NEUTRAL">
+    <value>
+      <option name="FOREGROUND" value="B4B8BF"/>
+      <option name="BACKGROUND" value="A8ADBD"/>
+    </value>
+  </option>
+  <option name="COMPOSE_INVISIBLE_PORT_BUTTON">
+    <value>
+      <option name="FOREGROUND" value="43454A"/>
+      <option name="EFFECT_COLOR" value="43454A"/>
+    </value>
+  </option>
+</list>

@@ -1,0 +1,27 @@
+<?xml version='1.0'?>
+<list>
+  <option name="KUBERNETES_POD_STATUS_ERROR">
+    <value>
+      <option name="FOREGROUND" value="CC3645"/>
+      <option name="BACKGROUND" value="E5576526"/>
+    </value>
+  </option>
+  <option name="KUBERNETES_POD_STATUS_SUCCESS">
+    <value>
+      <option name="FOREGROUND" value="1F8039"/>
+      <option name="BACKGROUND" value="208A3C26"/>
+    </value>
+  </option>
+  <option name="KUBERNETES_POD_STATUS_OTHER">
+    <value>
+      <option name="FOREGROUND" value="6C707E"/>
+      <option name="BACKGROUND" value="A8ADBD26"/>
+    </value>
+  </option>
+  <option name="INVISIBLE_INLAY_BUTTON">
+    <value>
+      <option name="FOREGROUND" value="D3D5DB"/>
+      <option name="EFFECT_COLOR" value="0000000F"/>
+    </value>
+  </option>
+</list>
