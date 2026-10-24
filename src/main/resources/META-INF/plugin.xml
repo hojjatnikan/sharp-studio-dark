@@ -2,7 +2,7 @@
 <idea-plugin>
   <id>com.hnikan.sharpstudiodark</id>
   <name>Sharp Studio Dark</name>
-  <version>1.0.0</version>
+  <version>1.0.2</version>
   <vendor email="__VENDOR_EMAIL__" url="__DONATE_URL__">hojjat nikan</vendor>
 
   <description><![CDATA[
@@ -52,6 +52,34 @@
   ]]></description>
 
   <change-notes><![CDATA[
+    <b>1.0.2</b>
+    <ul>
+      <li>The file-type and tree icons now come from Visual Studio's <b>real icon
+          library</b> (converted from the original XAML vector art) instead of
+          approximations: <code>.css</code> files show the authentic document with
+          the red <code>A</code> (<code>#F15262</code>), <code>.js</code> the
+          original orange <code>JS</code> (<code>#F68D50</code>) directly on the
+          tree background, and C# source files show the standalone green
+          <code>C#</code> glyph without a document page. Other authentic icons
+          include gold folders, the web folder with its globe, HTML, XML, JSON,
+          markdown, text, image, font, YAML, SQL, config and solution.</li>
+      <li>136 of the 210 plugin icons now use matching Visual Studio XAML artwork,
+          including file types, actions, tool windows and tree nodes. Rider-specific
+          icons without a matching Visual Studio source retain their existing
+          Visual Studio-style design.</li>
+      <li>The editor palette follows Visual Studio 2026: C# keywords and
+          attributes use purple <code>#D8A0DF</code>, Razor directives use
+          <code>#A699E6</code>, Razor components are teal, HTML tags are grey,
+          and HTML attribute values use the string orange.</li>
+      <li>The Visual Studio 2026 shell accent uses purple <code>#9184EE</code>
+          for focus rings, selected toolbar toggles, progress bars and counters;
+          tab underlines and links keep the sampled blue.</li>
+    </ul>
+    <b>1.0.1</b>
+    <ul>
+      <li>Declared Rider compatibility explicitly, so the Marketplace installs the plugin into
+          Rider 2025.1&ndash;2026.x without the "not compatible" warning.</li>
+    </ul>
     <b>1.0.0</b> &mdash; first release
     <ul>
       <li>Visual Studio 2026 (Dark) chrome: title bar, menu and toolbar strip, tool windows,
@@ -72,7 +100,11 @@
        future IDE builds, and the marketplace validator flags guessed build numbers. -->
   <idea-version since-build="251"/>
 
+  <!-- platform = base IDE support; rider = makes the Marketplace list this plugin as
+       compatible with Rider (without it the plugin page shows "Not compatible with the
+       version of your running IDE"). -->
   <depends>com.intellij.modules.platform</depends>
+  <depends>com.intellij.modules.rider</depends>
 
   <extensions defaultExtensionNs="com.intellij">
     <themeProvider id="hnikan-vs2022-dark-0f2c7ad4" path="/themes/visual-studio-2022-dark.theme.json"/>

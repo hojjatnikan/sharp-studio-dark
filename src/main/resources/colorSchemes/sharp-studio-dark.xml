@@ -15,7 +15,7 @@
 
   <colors>
     <option name="CARET_COLOR" value="bbbbbb" />
-    <option name="CARET_ROW_COLOR" value="282828" />
+    <option name="CARET_ROW_COLOR" value="272727" />
     <option name="SELECTION_BACKGROUND" value="264f78" />
     <option name="SELECTION_FOREGROUND" value="ffffff" />
     <option name="GUTTER_BACKGROUND" value="1e1e1e" />
@@ -38,9 +38,81 @@
         <option name="BACKGROUND" value="1e1e1e" />
       </value>
     </option>
+    <!--
+      Visual Studio 2026 editor palette (applied on top of Rider's bundled
+      "Visual Studio Dark" parent scheme; see tools/vs_editor.py):
+      the C# keyword family is purple #D8A0DF, Razor directives keep #A699E6,
+      Razor components are teal, HTML tags are grey and HTML attribute values
+      are string-orange -- exactly as in the user's Visual Studio screenshots.
+    -->
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="569cd6" />
+        <option name="FOREGROUND" value="d8a0df" />
+      </value>
+    </option>
+    <option name="DEFAULT_ATTRIBUTE">
+      <value>
+        <option name="FOREGROUND" value="d8a0df" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="d8a0df" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_CONTROL_FLOW_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="d8a0df" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_CONTROL_TRANSFER_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="d8a0df" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_BUILTIN_TYPE_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="d8a0df" />
+      </value>
+    </option>
+    <option name="ReSharper.ASP_NET_RAZOR_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="a699e6" />
+      </value>
+    </option>
+    <option name="ReSharper.ASP_NET_BLOCK_TAG">
+      <value>
+        <option name="FOREGROUND" value="a699e6" />
+      </value>
+    </option>
+    <option name="ReSharper.ASP_NET_RAZOR_TAG_HELPER_ELEMENT">
+      <value>
+        <option name="FOREGROUND" value="4ec9b0" />
+      </value>
+    </option>
+    <option name="ReSharper.ASP_NET_RAZOR_TAG_HELPER_ATTRIBUTE">
+      <value>
+        <option name="FOREGROUND" value="4ec9b0" />
+      </value>
+    </option>
+    <option name="HTML_TAG">
+      <value>
+        <option name="FOREGROUND" value="808080" />
+      </value>
+    </option>
+    <option name="HTML_TAG_NAME">
+      <value>
+        <option name="FOREGROUND" value="808080" />
+      </value>
+    </option>
+    <option name="HTML_ATTRIBUTE_NAME">
+      <value>
+        <option name="FOREGROUND" value="9cdcfe" />
+      </value>
+    </option>
+    <option name="HTML_ATTRIBUTE_VALUE">
+      <value>
+        <option name="FOREGROUND" value="d69d85" />
       </value>
     </option>
     <option name="DEFAULT_STRING">

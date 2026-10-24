@@ -38,6 +38,9 @@ FG_DISABLED = "#6D6D6D"
 
 ACCENT = "#51B3FF"         # accent line under the active tab
 ACCENT_DEEP = "#007ACC"    # classic Visual Studio blue
+ACCENT_PURPLE = "#9184EE"  # VS 2026 AccentFillDefault (focus rings, toggles, badges)
+ACCENT_PURPLE_FILL = "#9184EE4D"  # translucent purple fill (RGBA suffix format)
+ACCENT_SELECTED_TEXT = "#005FB7"  # VS 2026 AccentFillSelectedTextBackground
 SELECTION_BAR = "#9184EE"  # left indicator on the focused row
 
 SELECTION_BG = FIELD            # Visual Studio selects with flat grey, not blue
@@ -117,6 +120,15 @@ SIGNATURE: dict[str, str] = {
     "StatusBar.Widget.hoverForeground": "#FFFFFF",
     "StatusBar.Breadcrumbs.foreground": FG_SOFT,
 
+    # VS 2026 shell accent (AccentFill tokens) ---------------------------------
+    # The default shell accent is purple #9184EE; text selection is #005FB7.
+    "*.focusColor": ACCENT_PURPLE,
+    "ActionButton.focusedBorderColor": ACCENT_PURPLE,
+    "Component.focusedBorderColor": ACCENT_PURPLE,
+    "Link.focusedBorderColor": ACCENT_PURPLE,
+    "SegmentedButton.focusedSelectedButtonColor": ACCENT_PURPLE,
+    "TabbedPane.focusColor": ACCENT_PURPLE_FILL,
+
     # editor tabs ----------------------------------------------------------
     "EditorTabs.background": CHROME,
     "EditorTabs.underlinedTabBackground": CHROME,
@@ -141,7 +153,8 @@ SIGNATURE: dict[str, str] = {
     "ToolWindow.HeaderTab.hoverBackground": "#303030",
     "ToolWindow.HeaderTab.hoverInactiveBackground": "#2E2E2E",
     "ToolWindow.Stripe.separatorColor": "#1C1C1C",
-    "ToolWindow.Button.selectedBackground": ACCENT_DEEP,
+    "ToolWindow.Button.selectedBackground": ACCENT_PURPLE_FILL,
+    "ToolWindow.Button.selectedForeground": "#FFFFFF",
     "Toolwindow.Stripe.background": TITLE_BAR,
     "ToolWindow.background": PANEL,
 
@@ -230,19 +243,19 @@ SIGNATURE: dict[str, str] = {
     "ScrollBar.Transparent.hoverThumbBorderColor": "#00000000",
 
     # misc chrome ----------------------------------------------------------
-    "ProgressBar.progressColor": ACCENT_DEEP,
+    "ProgressBar.progressColor": ACCENT_PURPLE,
     "ProgressBar.trackColor": "#333333",
-    "ProgressBar.indeterminateStartColor": ACCENT_DEEP,
-    "ProgressBar.indeterminateEndColor": ACCENT,
-    "Counter.background": ACCENT_DEEP,
+    "ProgressBar.indeterminateStartColor": ACCENT_PURPLE,
+    "ProgressBar.indeterminateEndColor": "#D2CCF8",
+    "Counter.background": ACCENT_PURPLE,
     "Counter.foreground": "#FFFFFF",
     "Separator.separatorColor": "#3F3F46",
     "ToolBar.separatorColor": "#3F3F46",
     "Group.separatorColor": "#3F3F46",
-    "DragAndDrop.areaBackground": "#51B3FF33",
-    "DragAndDrop.areaBorderColor": ACCENT,
+    "DragAndDrop.areaBackground": f"{ACCENT_PURPLE}33",
+    "DragAndDrop.areaBorderColor": ACCENT_PURPLE,
     "SearchEverywhere.Header.background": CHROME,
-    "SearchEverywhere.Tab.selectedBackground": ACCENT_DEEP,
+    "SearchEverywhere.Tab.selectedBackground": ACCENT_PURPLE_FILL,
     "SearchEverywhere.List.settingsBackground": PANEL,
     "SearchMatch.startBackground": "#613214",
     "SearchMatch.endBackground": "#613214",

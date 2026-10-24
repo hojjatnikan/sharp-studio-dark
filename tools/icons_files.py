@@ -23,9 +23,6 @@ from icons_ui import FOLDER_PATH, add
 add("folder", path(FOLDER_PATH, GOLD),
     "/expui/nodes/folder.svg", "/nodes/folder.svg", "/icons/nodes/folder.svg")
 
-add("folderSolution", path(FOLDER_PATH, GOLD),
-    "/rider/expui/nodes/FolderSolution.svg")
-
 add("sourceRoot",
     path(FOLDER_PATH, GOLD) + f'<circle cx="11.4" cy="10.6" r="1.3" fill="{ACCENT}"/>',
     "/expui/nodes/sourceRoot.svg", "/expui/nodes/sourceRootFileLayer.svg",
@@ -189,6 +186,53 @@ def photo_icon() -> str:
     )
 
 
+def razor_icon() -> str:
+    """Visual Studio's Razor file icon: a purple tile with the white razor bolt.
+
+    The user's screenshots show ``.razor`` files as solid purple squares with a
+    white razor-blade (lightning) glyph -- not a grey page with an ``@`` badge.
+    """
+    return (
+        badge_filled(PURPLE, 1.4, 1.4, 13.2, 2.8)
+        + f'<path d="M9.7 3.1L5.1 9.3h2.6l-.9 3.6 4.6-6.2H8.7l1-3.6z" fill="{WHITE}"/>'
+    )
+
+
+def globe_small(colour: str, cx: float, cy: float, r: float) -> str:
+    """The small globe badge Visual Studio overlays on the wwwroot folder."""
+    return (
+        f'<circle cx="{cx}" cy="{cy}" r="{r}" stroke="{colour}" stroke-width="0.9" fill="none"/>'
+        + path(f"M{cx - r:.1f} {cy}h{2 * r:.1f}", colour, 0.8)
+        + path(
+            f"M{cx} {cy - r:.1f}c{r * 0.5:.2f} {r * 0.6:.2f} {r * 0.5:.2f} {r * 1.4:.2f} 0 {2 * r:.1f}"
+            f"M{cx} {cy - r:.1f}c-{r * 0.5:.2f} {r * 0.6:.2f} -{r * 0.5:.2f} {r * 1.4:.2f} 0 {2 * r:.1f}",
+            colour, 0.8)
+    )
+
+
+def js_icon() -> str:
+    """Visual Studio's JavaScript file icon: the orange JS letters, no page.
+
+    The user's screenshot shows ``.js`` files as plain orange ``JS`` letters
+    (``#F68D50``) on the tree background -- no document page, no filled tile.
+    """
+    orange = "#F68D50"
+    return (
+        letter_centered("J", orange, 5.5, 8.0, 7.6, 1.3)
+        + letter_centered("S", orange, 9.9, 8.0, 7.6, 1.3)
+    )
+
+
+def css_icon() -> str:
+    """Visual Studio's CSS file icon: the page carrying a red A.
+
+    The user's screenshot shows ``.css`` files as a document with a large
+    letter ``A`` drawn in ``#F15262`` -- not the purple hash badge used
+    before.
+    """
+    return sheet(GRAY) + letter_centered("A", "#F15262", 8, 9.2, 7.2, 1.15)
+
+
 def http_icon() -> str:
     return path("M5.6 4.4h7v9.2h-7z", VS_WINDOW) + path("M5.6 6.7h7", VS_WINDOW, 1.1) + globe_overlay()
 
@@ -233,18 +277,17 @@ FILE_SPECS: list[tuple[str, str, list[str]]] = [
      ["/expui/fileTypes/text.svg", "/fileTypes/text.svg"]),
     ("sql", file_badge("#D98E8E", GLYPHS["db"]),
      ["/expui/fileTypes/sql.svg", "/fileTypes/sql.svg"]),
-    ("javaScript", file_letters("#DCDC6C", "JS"),
+    ("javaScript", js_icon(),
      ["/expui/fileTypes/javaScript.svg", "/fileTypes/javaScript.svg"]),
     ("html", file_badge(ORANGE, GLYPHS["angles"]),
      ["/expui/fileTypes/html.svg", "/fileTypes/html.svg", "/expui/fileTypes/jsp.svg",
       "/expui/fileTypes/jspx.svg"]),
-    ("css", file_badge("#6E9ED8", GLYPHS["hash"]),
+    ("css", css_icon(),
      ["/expui/fileTypes/css.svg", "/fileTypes/css.svg"]),
     ("yaml", file_badge(GRAY_DIM, GLYPHS["dots"]),
      ["/expui/fileTypes/yaml.svg", "/fileTypes/yaml.svg"]),
     ("properties", file_badge(GRAY_DIM, GLYPHS["equals"]),
-     ["/expui/fileTypes/properties.svg", "/fileTypes/properties.svg",
-      "/expui/fileTypes/toml.svg"]),
+     ["/expui/fileTypes/properties.svg", "/fileTypes/properties.svg"]),
     ("shell", file_badge(GRAY, GLYPHS["prompt"]),
      ["/expui/fileTypes/shell.svg"]),
     ("docker", file_badge(BLUE, GLYPHS["box"]),
@@ -317,8 +360,7 @@ FILE_SPECS: list[tuple[str, str, list[str]]] = [
     ("solutionFolder",
      path(FOLDER_PATH, GOLD) + path("M9.6 8.6h3v3h-3z", ACCENT, 1.1),
      ["/rider/expui/nodes/FolderSolution.svg"]),
-    ("razorFile",
-     file_badge(PURPLE, GLYPHS["at"]),
+    ("razorFile", razor_icon(),
      ["/resharper/expui/PsiRazor/Razor.svg", "/resharper/PsiRazor/Razor.svg",
       "/resharper/expui/ServicesRazor/ScopeRazor.svg",
       "/rider/expui/templates/TemplateRazor.svg"]),
@@ -376,10 +418,18 @@ def _rs(*names: str) -> list[str]:
 
 
 add("dotnetFolder", path(FOLDER_PATH, GOLD),
-    *_rs("SolutionFolder", "Folder", "FolderWWWRootClosed", "FolderWWWRootOpened", "MissingFolder"))
+    *_rs("SolutionFolder", "Folder", "MissingFolder"))
+
+# wwwroot gets Visual Studio's globe badge on the golden folder (screenshots 1 & 3)
+add("wwwroot",
+    path(FOLDER_PATH, GOLD) + globe_small(VS_GLOBE, 11.2, 10.2, 2.2),
+    "/resharper/ProjectModel/FolderWWWRootClosed.svg",
+    "/resharper/ProjectModel/FolderWWWRootOpened.svg",
+    "/resharper/expui/ProjectModel/FolderWWWRootClosed.svg",
+    "/resharper/expui/ProjectModel/FolderWWWRootOpened.svg")
 
 add("dotnetProject", vs_window(csharp_overlay()),
-    *_rs("Project", "Projects", "Directory", "SharedProject", "MauiProject",
+    *_rs("Project", "Directory", "SharedProject", "MauiProject",
          "DotNetCoreProject", "DotNetLegacyProject", "UnloadedProject"))
 
 # --- Dependencies tree nodes (Visual Studio's Solutions Explorer palette) ---

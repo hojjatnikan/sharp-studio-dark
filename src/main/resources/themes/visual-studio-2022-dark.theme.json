@@ -123,7 +123,7 @@
       "shortcutForeground": "Gray7",
       "underlineColor": "#51B3FF",
       "inactiveUnderlineColor": "#3F3F46",
-      "focusColor": "Blue6",
+      "focusColor": "#9184EE",
       "separatorColor": "Gray3",
       "separatorForeground": "Gray7",
       "modifiedItemForeground": "Blue9",
@@ -135,7 +135,7 @@
       "hoverBorderColor": "#FFFFFF00",
       "pressedBackground": "#FFFFFF26",
       "pressedBorderColor": "#FFFFFF00",
-      "focusedBorderColor": "Blue6",
+      "focusedBorderColor": "#9184EE",
       "hoverSeparatorColor": "Gray6"
     },
     "Badge": {
@@ -203,7 +203,7 @@
       "selectedStartBorderColor": "Gray7",
       "selectedEndBorderColor": "Gray7",
       "selectedButtonColor": "Gray3",
-      "focusedSelectedButtonColor": "Blue3"
+      "focusedSelectedButtonColor": "#9184EE"
     },
     "ComboBox": {
       "ArrowButton": {
@@ -248,7 +248,7 @@
       }
     },
     "Counter": {
-      "background": "#007ACC",
+      "background": "#9184EE",
       "foreground": "#FFFFFF"
     },
     "Debugger": {
@@ -277,7 +277,7 @@
       "arc": 8,
       "arrowAreaWidth": "28",
       "borderColor": "Gray5",
-      "focusedBorderColor": "Gray2",
+      "focusedBorderColor": "#9184EE",
       "errorFocusColor": "Red5",
       "inactiveErrorFocusColor": "Red3",
       "warningFocusColor": "Yellow4",
@@ -286,8 +286,8 @@
     "DragAndDrop": {
       "borderColor": "Blue6",
       "rowBackground": "#3573F026",
-      "areaBackground": "#51B3FF33",
-      "areaBorderColor": "#51B3FF"
+      "areaBackground": "#9184EE33",
+      "areaBorderColor": "#9184EE"
     },
     "EditorTabs": {
       "underlineArc": 0,
@@ -336,7 +336,7 @@
       "pressedForeground": "Blue9",
       "visitedForeground": "#51B3FF",
       "secondaryForeground": "Blue9",
-      "focusedBorderColor": "Blue7"
+      "focusedBorderColor": "#9184EE"
     },
     "List": {
       "rowHeight": 24,
@@ -512,9 +512,9 @@
       "background": "#282828"
     },
     "ProgressBar": {
-      "progressColor": "#007ACC",
-      "indeterminateStartColor": "#007ACC",
-      "indeterminateEndColor": "#51B3FF",
+      "progressColor": "#9184EE",
+      "indeterminateStartColor": "#9184EE",
+      "indeterminateEndColor": "#D2CCF8",
       "passedColor": "Green6",
       "passedEndColor": "Green9",
       "failedColor": "Red6",
@@ -531,7 +531,7 @@
     "SearchEverywhere": {
       "List.settingsBackground": "Gray3",
       "Tab": {
-        "selectedBackground": "#007ACC",
+        "selectedBackground": "#9184EE4D",
         "selectedForeground": "Gray14"
       },
       "Advertiser": {
@@ -596,7 +596,7 @@
       "tabSelectionArc": 4,
       "hoverColor": "Gray4",
       "contentAreaColor": "Gray1",
-      "focusColor": "Blue2"
+      "focusColor": "#9184EE4D"
     },
     "Table": {
       "gridColor": "#2E2E2E",
@@ -683,8 +683,8 @@
       },
       "Button": {
         "foreground": "Gray9",
-        "selectedForeground": "Gray14",
-        "selectedBackground": "#007ACC",
+        "selectedForeground": "#FFFFFF",
+        "selectedBackground": "#9184EE4D",
         "DragAndDrop": {
           "stripeBackground": "Gray2",
           "buttonDropBackground": "#35538F99",
@@ -1426,8 +1426,8 @@
     "/expui/fileTypes/terraform_dark.svg": "/icons/vs/terraform.svg",
     "/expui/fileTypes/text.svg": "/icons/vs/text.svg",
     "/expui/fileTypes/text_dark.svg": "/icons/vs/text.svg",
-    "/expui/fileTypes/toml.svg": "/icons/vs/properties.svg",
-    "/expui/fileTypes/toml_dark.svg": "/icons/vs/properties.svg",
+    "/expui/fileTypes/toml.svg": "/icons/vs/ft_toml.svg",
+    "/expui/fileTypes/toml_dark.svg": "/icons/vs/ft_toml.svg",
     "/expui/fileTypes/unknown.svg": "/icons/vs/unknownFile.svg",
     "/expui/fileTypes/unknown_dark.svg": "/icons/vs/unknownFile.svg",
     "/expui/fileTypes/vue.svg": "/icons/vs/vue.svg",
@@ -1859,10 +1859,10 @@
     "/resharper/ProjectModel/DotNetLegacyProject.svg": "/icons/vs/dotnetProject.svg",
     "/resharper/ProjectModel/DotNetLegacyProject_dark.svg": "/icons/vs/dotnetProject.svg",
     "/resharper/ProjectModel/Folder.svg": "/icons/vs/dotnetFolder.svg",
-    "/resharper/ProjectModel/FolderWWWRootClosed.svg": "/icons/vs/dotnetFolder.svg",
-    "/resharper/ProjectModel/FolderWWWRootClosed_dark.svg": "/icons/vs/dotnetFolder.svg",
-    "/resharper/ProjectModel/FolderWWWRootOpened.svg": "/icons/vs/dotnetFolder.svg",
-    "/resharper/ProjectModel/FolderWWWRootOpened_dark.svg": "/icons/vs/dotnetFolder.svg",
+    "/resharper/ProjectModel/FolderWWWRootClosed.svg": "/icons/vs/wwwroot.svg",
+    "/resharper/ProjectModel/FolderWWWRootClosed_dark.svg": "/icons/vs/wwwroot.svg",
+    "/resharper/ProjectModel/FolderWWWRootOpened.svg": "/icons/vs/wwwroot.svg",
+    "/resharper/ProjectModel/FolderWWWRootOpened_dark.svg": "/icons/vs/wwwroot.svg",
     "/resharper/ProjectModel/Folder_dark.svg": "/icons/vs/dotnetFolder.svg",
     "/resharper/ProjectModel/FrameworkFolder.svg": "/icons/vs/depFrameworks.svg",
     "/resharper/ProjectModel/FrameworkFolder_dark.svg": "/icons/vs/depFrameworks.svg",
@@ -1880,8 +1880,8 @@
     "/resharper/ProjectModel/NuGet_dark.svg": "/icons/vs/depPackages.svg",
     "/resharper/ProjectModel/Project.svg": "/icons/vs/dotnetProject.svg",
     "/resharper/ProjectModel/Project_dark.svg": "/icons/vs/dotnetProject.svg",
-    "/resharper/ProjectModel/Projects.svg": "/icons/vs/dotnetProject.svg",
-    "/resharper/ProjectModel/Projects_dark.svg": "/icons/vs/dotnetProject.svg",
+    "/resharper/ProjectModel/Projects.svg": "/icons/vs/depProjectsNode.svg",
+    "/resharper/ProjectModel/Projects_dark.svg": "/icons/vs/depProjectsNode.svg",
     "/resharper/ProjectModel/SDKs.svg": "/icons/vs/depAnalyzers.svg",
     "/resharper/ProjectModel/SDKs_dark.svg": "/icons/vs/depAnalyzers.svg",
     "/resharper/ProjectModel/SharedProject.svg": "/icons/vs/dotnetProject.svg",
@@ -1925,10 +1925,10 @@
     "/resharper/expui/ProjectModel/DotNetLegacyProject.svg": "/icons/vs/dotnetProject.svg",
     "/resharper/expui/ProjectModel/DotNetLegacyProject_dark.svg": "/icons/vs/dotnetProject.svg",
     "/resharper/expui/ProjectModel/Folder.svg": "/icons/vs/dotnetFolder.svg",
-    "/resharper/expui/ProjectModel/FolderWWWRootClosed.svg": "/icons/vs/dotnetFolder.svg",
-    "/resharper/expui/ProjectModel/FolderWWWRootClosed_dark.svg": "/icons/vs/dotnetFolder.svg",
-    "/resharper/expui/ProjectModel/FolderWWWRootOpened.svg": "/icons/vs/dotnetFolder.svg",
-    "/resharper/expui/ProjectModel/FolderWWWRootOpened_dark.svg": "/icons/vs/dotnetFolder.svg",
+    "/resharper/expui/ProjectModel/FolderWWWRootClosed.svg": "/icons/vs/wwwroot.svg",
+    "/resharper/expui/ProjectModel/FolderWWWRootClosed_dark.svg": "/icons/vs/wwwroot.svg",
+    "/resharper/expui/ProjectModel/FolderWWWRootOpened.svg": "/icons/vs/wwwroot.svg",
+    "/resharper/expui/ProjectModel/FolderWWWRootOpened_dark.svg": "/icons/vs/wwwroot.svg",
     "/resharper/expui/ProjectModel/Folder_dark.svg": "/icons/vs/dotnetFolder.svg",
     "/resharper/expui/ProjectModel/FrameworkFolder.svg": "/icons/vs/depFrameworks.svg",
     "/resharper/expui/ProjectModel/FrameworkFolder_dark.svg": "/icons/vs/depFrameworks.svg",
@@ -1946,8 +1946,8 @@
     "/resharper/expui/ProjectModel/NuGet_dark.svg": "/icons/vs/depPackages.svg",
     "/resharper/expui/ProjectModel/Project.svg": "/icons/vs/dotnetProject.svg",
     "/resharper/expui/ProjectModel/Project_dark.svg": "/icons/vs/dotnetProject.svg",
-    "/resharper/expui/ProjectModel/Projects.svg": "/icons/vs/dotnetProject.svg",
-    "/resharper/expui/ProjectModel/Projects_dark.svg": "/icons/vs/dotnetProject.svg",
+    "/resharper/expui/ProjectModel/Projects.svg": "/icons/vs/depProjectsNode.svg",
+    "/resharper/expui/ProjectModel/Projects_dark.svg": "/icons/vs/depProjectsNode.svg",
     "/resharper/expui/ProjectModel/SDKs.svg": "/icons/vs/depAnalyzers.svg",
     "/resharper/expui/ProjectModel/SDKs_dark.svg": "/icons/vs/depAnalyzers.svg",
     "/resharper/expui/ProjectModel/SharedProject.svg": "/icons/vs/dotnetProject.svg",

@@ -19,7 +19,7 @@
 # لینک دونیت و ایمیل فروشنده پیش‌فرض همین‌ها هستند، پس کافی است:
 python tools/build_plugin.py
 # خروجی:
-#   build/distributions/sharp-studio-dark-1.0.0.zip     <- این را آپلود می‌کنید
+#   build/distributions/sharp-studio-dark-1.0.2.zip     <- این را آپلود می‌کنید
 #   build/distributions/sharp-studio-dark.jar           <- برای نصب دستی (Install Plugin from Disk)
 ```
 
@@ -30,7 +30,7 @@ python tools/build_plugin.py
 ## ۳) آپلود در پنل بازار (روش ساده، بدون Gradle)
 
 1. وارد پنل شوید: <https://plugins.jetbrains.com/> → `Upload plugin` (یا `Vendors → New Plugin`).
-2. **Choose vendor** و `<licence>` را انتخاب کنید، سپس فایل `sharp-studio-dark-1.0.0.zip` را آپلود کنید.
+2. **Choose vendor** و `<licence>` را انتخاب کنید، سپس فایل `sharp-studio-dark-1.0.2.zip` را آپلود کنید.
 3. اگر فرم پیشنهاد داد فایل را امضا کنید: می‌توانید رد کنید (اجباری نیست) و بعداً امضا اضافه کنید.
 4. صفحهٔ تنظیمات پلاگین را پر کنید:
    - **Name**: `Sharp Studio Dark` (از `plugin.xml` می‌آید)
@@ -107,6 +107,27 @@ Free to use, optional donations welcome via PayPal.
 - **لینک دونیت را در توضیحات پلاگین هم نگه دارید** (همان‌جایی که در `plugin.xml` داریم)؛ کاربر بیشتر همان‌جا کلیک می‌کند نه در پروفایل فروشنده.
 - چک‌باکس «show the email address on the Vendor Profile Page» را تیک نزنید؛ به‌جایش Support/Issue tracker را پر کنید تا گزارش‌ها در گیت‌هاب بیاید.
 - بعد از ساخت مخزن، همین لینک‌ها را به `plugin.xml` (فیلد `<vendor url>`) و README هم اضافه می‌کنیم تا همه‌جا یکسان باشد.
+
+---
+
+## ۸) صفحهٔ اختصاصی پلاگین (Custom page / Overview)
+
+صفحهٔ آماده: **[docs/marketplace-page.html](docs/marketplace-page.html)** — و چون بازار CSS را حذف می‌کند، زیبایی صفحه از **تصاویر** می‌آید که با `tools/make_assets.py` ساخته شده‌اند:
+
+| تصویر | فایل | محتوا |
+| --- | --- | --- |
+| بنر | `build/assets/banner.png` | نام پلاگین، زیرنویس «Visual Studio 2026»، نوار چیپ‌های رنگ و کاشی C# |
+| پالت | `build/assets/palette.png` | نُه چیپ رنگ ادیتور با نام و کد |
+| آیکن‌ها | `build/assets/icons.png` | ۱۳ آیکن شاخص روی کاشی‌های تیره |
+
+مراحل:
+
+1. `python tools/make_assets.py` (اگر آیکن‌ها را عوض کردید دوباره اجرا کنید).
+2. در ویرایشگر صفحهٔ پلاگین، پایین صفحه با **Choose File** این سه PNG + دو اسکرین‌شات خودتان را آپلود کنید و آدرس‌هایی که می‌دهد را کپی کنید.
+3. در `docs/marketplace-page.html` جای‌نگهدارها را عوض کنید: `BANNER-URL`، `PALETTE-URL`، `ICONS-URL`، `SCREENSHOT-1`، `SCREENSHOT-2`.
+4. محتوای بین `==== BEGIN CUSTOM PAGE ====` و `==== END CUSTOM PAGE ====` را در `Custom page` (یا `Overview`) پیست و ذخیره کنید.
+
+ساختار صفحه: بنر → نقل‌قول معرفی → جدول «چه چیزی می‌گیرید» → پالت → آیکن‌ها → جدول **Before/after** با تم پیش‌فرض Rider → نصب سه‌مرحله‌ای → دو اسکرین‌شات → نکته‌ها → حمایت PayPal → سلب مسئولیت برند.
 
 ---
 

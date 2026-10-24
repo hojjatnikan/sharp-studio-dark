@@ -18,7 +18,7 @@ RESOURCES = ROOT / "src" / "main" / "resources"
 DIST = ROOT / "build" / "distributions"
 
 NAME = "sharp-studio-dark"
-VERSION = "1.0.0"
+VERSION = "1.0.2"
 FIXED_TIME = (2026, 1, 1, 0, 0, 0)
 #: PayPal donation link (paypal.me/<username>) and the vendor e-mail shown in the
 #: JetBrains Marketplace listing -- Rider validates the e-mail format, so a

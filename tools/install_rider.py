@@ -21,6 +21,8 @@ import sys
 import zipfile
 from pathlib import Path
 
+from vs_editor import apply_overrides
+
 ROOT = Path(__file__).resolve().parent.parent
 DIST = ROOT / "build" / "distributions"
 NAME = "sharp-studio-dark"
@@ -164,13 +166,20 @@ def install_editor_scheme(config: Path) -> str:
     target_dir.mkdir(parents=True, exist_ok=True)
     target = target_dir / f"{EDITOR_SCHEME}.icls"
     text = re.sub(r'(<scheme\s+name=")[^"]*(")', rf"\g<1>{EDITOR_SCHEME}\g<2>", source, count=1)
+    # Pin the Visual Studio 2026 editor palette (purple keywords, teal Razor
+    # components, grey HTML tags, orange attribute values, ...) on top of the
+    # bundled scheme -- see tools/vs_editor.py.
+    text, inserted = apply_overrides(text)
     target.write_text(text, encoding="utf-8")
     # clean up the copy that an earlier version of this installer wrote to the
     # wrong folder, so it cannot confuse the scheme list
     stale = config / "colorSchemes" / f"{EDITOR_SCHEME}.icls"
     if stale.exists():
         stale.unlink()
-    return f"colors/{EDITOR_SCHEME}.icls"
+    note = f"colors/{EDITOR_SCHEME}.icls"
+    if inserted:
+        note += f" (+{len(inserted)} VS 2026 editor tokens pinned)"
+    return note
 
 
 def activate_theme(config: Path) -> str:
@@ -272,14 +281,17 @@ def main() -> None:
         print("restored: " + (", ".join(restored) if restored else "nothing (no backups found)"))
         return
 
+    if rider_running():
+        # The plugin JAR of a running Rider is memory-mapped and cannot be
+        # replaced, so nothing at all is installed while the IDE is up -- the
+        # check has to happen before the first file is touched.
+        print("theme  : Rider is running -- nothing was installed.")
+        print("         Close Rider completely, then run this installer again:")
+        print("             python tools/install_rider.py")
+        return
+
     jar = install_jar(config)
     print(f"plugin : {jar}")
-
-    if rider_running():
-        print("theme  : Rider is running, so options/laf.xml was left untouched.")
-        print("         Restart Rider and pick 'Visual Studio 2022 Dark' in")
-        print("         Settings | Appearance & Behavior | Appearance | Theme.")
-        return
 
     print(f"theme  : {activate_theme(config)}")
     if not args.keep_icon_packs:

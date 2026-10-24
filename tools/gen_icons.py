@@ -6,7 +6,8 @@ platform icon path -> plugin icon path into ``build/icon-map.json``, which
 
 Every platform path is validated against the icon inventory of the installed
 Rider (``ref/icon-paths.txt``).  Paths that do not exist in this build are
-skipped -- a theme may only patch icons that the IDE actually loads.
+skipped -- a theme may only patch icons that the IDE actually loads. Duplicate
+claims fail the build instead of silently letting the last icon win.
 """
 from __future__ import annotations
 
@@ -36,6 +37,8 @@ def main() -> None:
     ICON_DIR.mkdir(parents=True, exist_ok=True)
 
     mappings: dict[str, str] = {}
+    owners: dict[str, str] = {}
+    collisions: dict[str, list[str]] = {}
     used: dict[str, int] = {}
     missing: dict[str, list[str]] = {}
 
@@ -45,10 +48,21 @@ def main() -> None:
         for target in targets:
             platform_path = target.lstrip("/")
             if platform_path in inventory:
+                previous = owners.get(platform_path)
+                if previous is not None:
+                    collisions.setdefault(platform_path, [previous]).append(name)
+                    continue
+                owners[platform_path] = name
                 mappings[f"/{platform_path}"] = resource
                 used[name] = used.get(name, 0) + 1
             else:
                 missing.setdefault(name, []).append(target)
+
+    if collisions:
+        print("duplicate platform icon targets:")
+        for target, names in sorted(collisions.items()):
+            print(f"  /{target}: {', '.join(names)}")
+        raise SystemExit(1)
 
     OUT_MAP.parent.mkdir(parents=True, exist_ok=True)
     OUT_MAP.write_text(
