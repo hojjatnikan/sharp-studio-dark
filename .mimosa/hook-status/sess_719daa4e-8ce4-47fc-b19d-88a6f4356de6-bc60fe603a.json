@@ -1,14 +1,14 @@
 {
   "schemaVersion": "mimosa-hook-status/v1",
-  "recordedAt": "2026-09-27T07:08:42.860Z",
+  "recordedAt": "2026-09-30T18:45:42.889Z",
   "sessionId": "sess_719daa4e-8ce4-47fc-b19d-88a6f4356de6",
   "event": "PostToolUse",
   "toolName": "Edit",
-  "file": "JETBRAINS-MARKETPLACE.md",
+  "file": "tools/build_plugin.py",
   "outcome": "clear",
   "coverage": "complete",
   "findingCount": 0,
-  "durationMs": 6,
+  "durationMs": 24,
   "hostState": "hook_complete",
   "reportHint": ".mimosa/reports/"
 }

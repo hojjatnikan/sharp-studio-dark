@@ -1,0 +1,34 @@
+<!DOCTYPE html><html><head><meta charset="utf-8"><style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { background: #1E1E1E; font-family: 'Segoe UI', 'Segoe UI Variable', sans-serif; }
+
+  body { width: 1200px; height: 300px; overflow: hidden; }
+  .wrap { width: 1200px; height: 300px; position: relative;
+          background: linear-gradient(135deg, #141414 0%, #1E1E1E 45%, #262626 100%); }
+  .edge { position: absolute; left: 0; top: 0; width: 6px; height: 300px;
+          background: linear-gradient(#51B3FF, #007ACC); }
+  h1 { position: absolute; left: 56px; top: 74px; font-size: 58px; font-weight: 650;
+       color: #F0F0F0; letter-spacing: -0.5px; }
+  h1 .sharp { color: #67B466; }
+  p.sub { position: absolute; left: 58px; top: 152px; font-size: 23px; color: #9A9A9A; }
+  p.sub b { color: #C8C8C8; font-weight: 600; }
+  .chips { position: absolute; left: 58px; top: 208px; display: flex; gap: 12px; }
+  .chip { width: 64px; }
+  .chip .c { height: 30px; border-radius: 6px; border: 1px solid #3F3F46; }
+  .chip .l { text-align: center; font-size: 9.5px; color: #6F6F6F; margin-top: 3px;
+             letter-spacing: 0.3px; }
+  .tile { position: absolute; right: 64px; top: 70px; width: 150px; height: 150px;
+          border-radius: 18px; background: #1C1C1C; border: 1px solid #3F3F46;
+          display: flex; align-items: center; justify-content: center; }
+  .tile span { font-size: 64px; font-weight: 700; color: #67B466; letter-spacing: 2px; }
+  .tile small { position: absolute; right: 14px; bottom: 10px; width: 26px; height: 26px;
+                border-radius: 7px; background: #B47AD8; }
+</style></head><body>
+  <div class="wrap">
+    <div class="edge"></div>
+    <h1><span class="sharp">Sharp</span> Studio Dark</h1>
+    <p class="sub">The <b>Visual Studio 2026</b> look for JetBrains Rider</p>
+    <div class="chips"><div class="chip"><div class="c" style="background:#1C1C1C"></div><div class="l">#1C1C1C</div></div><div class="chip"><div class="c" style="background:#262626"></div><div class="l">#262626</div></div><div class="chip"><div class="c" style="background:#282828"></div><div class="l">#282828</div></div><div class="chip"><div class="c" style="background:#1E1E1E"></div><div class="l">#1E1E1E</div></div><div class="chip"><div class="c" style="background:#141414"></div><div class="l">#141414</div></div><div class="chip"><div class="c" style="background:#51B3FF"></div><div class="l">#51B3FF</div></div><div class="chip"><div class="c" style="background:#67B466"></div><div class="l">#67B466</div></div><div class="chip"><div class="c" style="background:#E8C46A"></div><div class="l">#E8C46A</div></div><div class="chip"><div class="c" style="background:#B47AD8"></div><div class="l">#B47AD8</div></div><div class="chip"><div class="c" style="background:#4EC9B0"></div><div class="l">#4EC9B0</div></div><div class="chip"><div class="c" style="background:#D69D85"></div><div class="l">#D69D85</div></div></div>
+    <div class="tile"><span>C#</span><small></small></div>
+  </div>
+</body></html>

@@ -1,0 +1,1270 @@
+{
+ "save": [
+  "/expui/general/save.svg",
+  "/expui/general/save_dark.svg",
+  "/actions/save.svg",
+  "/actions/save_dark.svg",
+  "/general/save.svg",
+  "/general/save_dark.svg"
+ ],
+ "saveAll": [
+  "/actions/menu-saveall.svg",
+  "/actions/menu-saveall_dark.svg",
+  "/expui/general/saveAll.svg",
+  "/expui/general/saveAll_dark.svg"
+ ],
+ "compile": [
+  "/expui/build/build.svg",
+  "/expui/build/build_dark.svg",
+  "/actions/compile.svg",
+  "/actions/compile_dark.svg",
+  "/expui/run/widget/build.svg",
+  "/expui/run/widget/build_dark.svg"
+ ],
+ "rebuild": [
+  "/expui/build/rebuild.svg",
+  "/expui/build/rebuild_dark.svg",
+  "/actions/rebuild.svg",
+  "/actions/rebuild_dark.svg"
+ ],
+ "undo": [
+  "/expui/general/undo.svg",
+  "/expui/general/undo_dark.svg",
+  "/actions/undo.svg",
+  "/actions/undo_dark.svg",
+  "/general/undo.svg",
+  "/general/undo_dark.svg"
+ ],
+ "redo": [
+  "/expui/general/redo.svg",
+  "/expui/general/redo_dark.svg",
+  "/actions/redo.svg",
+  "/actions/redo_dark.svg",
+  "/general/redo.svg",
+  "/general/redo_dark.svg"
+ ],
+ "copy": [
+  "/expui/general/copy.svg",
+  "/expui/general/copy_dark.svg",
+  "/actions/copy.svg",
+  "/actions/copy_dark.svg",
+  "/general/copy.svg",
+  "/general/copy_dark.svg"
+ ],
+ "cut": [
+  "/expui/general/cut.svg",
+  "/expui/general/cut_dark.svg",
+  "/actions/cut.svg",
+  "/actions/cut_dark.svg",
+  "/general/cut.svg",
+  "/general/cut_dark.svg"
+ ],
+ "paste": [
+  "/expui/general/paste.svg",
+  "/expui/general/paste_dark.svg",
+  "/actions/paste.svg",
+  "/actions/paste_dark.svg",
+  "/general/paste.svg",
+  "/general/paste_dark.svg"
+ ],
+ "delete": [
+  "/expui/general/delete.svg",
+  "/expui/general/delete_dark.svg",
+  "/actions/delete.svg",
+  "/actions/delete_dark.svg",
+  "/general/delete.svg",
+  "/general/delete_dark.svg",
+  "/expui/general/gc.svg",
+  "/expui/general/gc_dark.svg"
+ ],
+ "remove": [
+  "/expui/general/remove.svg",
+  "/expui/general/remove_dark.svg",
+  "/actions/remove.svg",
+  "/actions/remove_dark.svg",
+  "/general/remove.svg",
+  "/general/remove_dark.svg"
+ ],
+ "refresh": [
+  "/expui/general/refresh.svg",
+  "/expui/general/refresh_dark.svg",
+  "/actions/refresh.svg",
+  "/actions/refresh_dark.svg",
+  "/general/refresh.svg",
+  "/general/refresh_dark.svg"
+ ],
+ "settings": [
+  "/expui/general/settings.svg",
+  "/expui/general/settings_dark.svg",
+  "/actions/settings.svg",
+  "/actions/settings_dark.svg",
+  "/general/settings.svg",
+  "/general/settings_dark.svg"
+ ],
+ "search": [
+  "/expui/general/search.svg",
+  "/expui/general/search_dark.svg",
+  "/actions/searchEverywhere.svg",
+  "/actions/searchEverywhere_dark.svg",
+  "/general/search.svg",
+  "/general/search_dark.svg"
+ ],
+ "close": [
+  "/expui/general/close.svg",
+  "/expui/general/close_dark.svg",
+  "/actions/close.svg",
+  "/actions/close_dark.svg",
+  "/general/close.svg",
+  "/general/close_dark.svg"
+ ],
+ "closeSmall": [
+  "/expui/general/closeSmall.svg",
+  "/expui/general/closeSmall_dark.svg",
+  "/expui/general/closeSmallHovered.svg",
+  "/expui/general/closeSmallHovered_dark.svg"
+ ],
+ "chevronRight": [
+  "/expui/general/chevronRight.svg",
+  "/expui/general/chevronRight_dark.svg",
+  "/expui/general/chevronRightLarge.svg",
+  "/expui/general/chevronRightLarge_dark.svg"
+ ],
+ "chevronDown": [
+  "/expui/general/chevronDown.svg",
+  "/expui/general/chevronDown_dark.svg",
+  "/expui/general/chevronDownLarge.svg",
+  "/expui/general/chevronDownLarge_dark.svg"
+ ],
+ "chevronLeft": [
+  "/expui/general/chevronLeft.svg",
+  "/expui/general/chevronLeft_dark.svg"
+ ],
+ "chevronUp": [
+  "/expui/general/chevronUp.svg",
+  "/expui/general/chevronUp_dark.svg",
+  "/expui/general/chevronUpLarge.svg",
+  "/expui/general/chevronUpLarge_dark.svg"
+ ],
+ "expandAll": [
+  "/expui/general/expandAll.svg",
+  "/expui/general/expandAll_dark.svg",
+  "/actions/expandAll.svg",
+  "/actions/expandAll_dark.svg",
+  "/general/expandAll.svg",
+  "/general/expandAll_dark.svg"
+ ],
+ "collapseAll": [
+  "/expui/general/collapseAll.svg",
+  "/expui/general/collapseAll_dark.svg",
+  "/actions/collapseAll.svg",
+  "/actions/collapseAll_dark.svg",
+  "/general/collapseAll.svg",
+  "/general/collapseAll_dark.svg"
+ ],
+ "addFile": [
+  "/expui/actions/addFile.svg",
+  "/expui/actions/addFile_dark.svg",
+  "/actions/addFile.svg",
+  "/actions/addFile_dark.svg"
+ ],
+ "newFolder": [
+  "/expui/actions/newFolder.svg",
+  "/expui/actions/newFolder_dark.svg",
+  "/expui/actions/addDirectory.svg",
+  "/expui/actions/addDirectory_dark.svg",
+  "/actions/newFolder.svg",
+  "/actions/newFolder_dark.svg"
+ ],
+ "edit": [
+  "/expui/general/edit.svg",
+  "/expui/general/edit_dark.svg",
+  "/actions/edit.svg",
+  "/actions/edit_dark.svg",
+  "/general/edit.svg",
+  "/general/edit_dark.svg"
+ ],
+ "filter": [
+  "/expui/general/filter.svg",
+  "/expui/general/filter_dark.svg",
+  "/actions/filter.svg",
+  "/actions/filter_dark.svg",
+  "/general/filter.svg",
+  "/general/filter_dark.svg"
+ ],
+ "pin": [
+  "/expui/general/pin.svg",
+  "/expui/general/pin_dark.svg",
+  "/actions/pin.svg",
+  "/actions/pin_dark.svg",
+  "/general/pin.svg",
+  "/general/pin_dark.svg"
+ ],
+ "help": [
+  "/expui/general/help.svg",
+  "/expui/general/help_dark.svg",
+  "/actions/help.svg",
+  "/actions/help_dark.svg",
+  "/general/help.svg",
+  "/general/help_dark.svg"
+ ],
+ "moreHorizontal": [
+  "/expui/general/moreHorizontal.svg",
+  "/expui/general/moreHorizontal_dark.svg",
+  "/general/moreHorizontal.svg",
+  "/general/moreHorizontal_dark.svg"
+ ],
+ "moreVertical": [
+  "/expui/general/moreVertical.svg",
+  "/expui/general/moreVertical_dark.svg",
+  "/general/moreVertical.svg",
+  "/general/moreVertical_dark.svg"
+ ],
+ "greenCheckmark": [
+  "/expui/general/greenCheckmark.svg",
+  "/expui/general/greenCheckmark_dark.svg",
+  "/general/greenCheckmark.svg",
+  "/general/greenCheckmark_dark.svg"
+ ],
+ "informationDialog": [
+  "/expui/general/informationDialog.svg",
+  "/expui/general/informationDialog_dark.svg",
+  "/general/informationDialog.svg",
+  "/general/informationDialog_dark.svg"
+ ],
+ "warningDialog": [
+  "/expui/general/warningDialog.svg",
+  "/expui/general/warningDialog_dark.svg",
+  "/general/warningDialog.svg",
+  "/general/warningDialog_dark.svg"
+ ],
+ "errorDialog": [
+  "/expui/general/errorDialog.svg",
+  "/expui/general/errorDialog_dark.svg",
+  "/general/errorDialog.svg",
+  "/general/errorDialog_dark.svg"
+ ],
+ "questionDialog": [
+  "/expui/general/questionDialog.svg",
+  "/expui/general/questionDialog_dark.svg",
+  "/general/questionDialog.svg",
+  "/general/questionDialog_dark.svg"
+ ],
+ "successDialog": [
+  "/expui/general/successDialog.svg",
+  "/expui/general/successDialog_dark.svg",
+  "/general/successDialog.svg",
+  "/general/successDialog_dark.svg"
+ ],
+ "user": [
+  "/expui/general/user.svg",
+  "/expui/general/user_dark.svg",
+  "/general/user.svg",
+  "/general/user_dark.svg"
+ ],
+ "projectStructure": [
+  "/expui/general/projectStructure.svg",
+  "/expui/general/projectStructure_dark.svg"
+ ],
+ "print": [
+  "/expui/general/print.svg",
+  "/expui/general/print_dark.svg",
+  "/general/print.svg",
+  "/general/print_dark.svg"
+ ],
+ "vcsBranch": [
+  "/expui/general/vcs.svg",
+  "/expui/general/vcs_dark.svg",
+  "/vcs/branch.svg",
+  "/vcs/branch_dark.svg"
+ ],
+ "run": [
+  "/expui/run/run.svg",
+  "/expui/run/run_dark.svg",
+  "/expui/gutter/run.svg",
+  "/expui/gutter/run_dark.svg"
+ ],
+ "debug": [
+  "/expui/run/debug.svg",
+  "/expui/run/debug_dark.svg",
+  "/expui/general/debug.svg",
+  "/expui/general/debug_dark.svg"
+ ],
+ "stop": [
+  "/expui/run/stop.svg",
+  "/expui/run/stop_dark.svg"
+ ],
+ "rerun": [
+  "/expui/run/rerun.svg",
+  "/expui/run/rerun_dark.svg",
+  "/expui/run/restart.svg",
+  "/expui/run/restart_dark.svg"
+ ],
+ "pause": [
+  "/expui/run/pause.svg",
+  "/expui/run/pause_dark.svg"
+ ],
+ "stepOver": [
+  "/expui/run/stepOver.svg",
+  "/expui/run/stepOver_dark.svg",
+  "/expui/run/forceStepOver.svg",
+  "/expui/run/forceStepOver_dark.svg"
+ ],
+ "stepInto": [
+  "/expui/run/stepInto.svg",
+  "/expui/run/stepInto_dark.svg",
+  "/expui/run/forceStepInto.svg",
+  "/expui/run/forceStepInto_dark.svg",
+  "/expui/run/smartStepInto.svg",
+  "/expui/run/smartStepInto_dark.svg"
+ ],
+ "stepOut": [
+  "/expui/run/stepOut.svg",
+  "/expui/run/stepOut_dark.svg"
+ ],
+ "runToCursor": [
+  "/expui/run/runToCursor.svg",
+  "/expui/run/runToCursor_dark.svg",
+  "/expui/run/forceRunToCursor.svg",
+  "/expui/run/forceRunToCursor_dark.svg"
+ ],
+ "muteBreakpoints": [
+  "/expui/run/muteBreakpoints.svg",
+  "/expui/run/muteBreakpoints_dark.svg",
+  "/expui/run/viewBreakpoints.svg",
+  "/expui/run/viewBreakpoints_dark.svg"
+ ],
+ "attachToProcess": [
+  "/expui/run/attachToProcess.svg",
+  "/expui/run/attachToProcess_dark.svg"
+ ],
+ "breakpoint": [
+  "/expui/breakpoints/breakpoint.svg",
+  "/expui/breakpoints/breakpoint_dark.svg",
+  "/expui/breakpoints/breakpointValid.svg",
+  "/expui/breakpoints/breakpointValid_dark.svg"
+ ],
+ "breakpointDisabled": [
+  "/expui/breakpoints/breakpointDisabled.svg",
+  "/expui/breakpoints/breakpointDisabled_dark.svg",
+  "/expui/breakpoints/breakpointMuted.svg",
+  "/expui/breakpoints/breakpointMuted_dark.svg",
+  "/expui/breakpoints/breakpointInvalid.svg",
+  "/expui/breakpoints/breakpointInvalid_dark.svg"
+ ],
+ "breakpointException": [
+  "/expui/breakpoints/breakpointException.svg",
+  "/expui/breakpoints/breakpointException_dark.svg",
+  "/expui/breakpoints/breakpointObsolete.svg",
+  "/expui/breakpoints/breakpointObsolete_dark.svg"
+ ],
+ "breakpointConditional": [
+  "/expui/breakpoints/conditionalInstrumentation.svg",
+  "/expui/breakpoints/conditionalInstrumentation_dark.svg",
+  "/expui/breakpoints/loggingInstrumentation.svg",
+  "/expui/breakpoints/loggingInstrumentation_dark.svg"
+ ],
+ "fold": [
+  "/expui/gutter/fold.svg",
+  "/expui/gutter/fold_dark.svg",
+  "/expui/gutter/foldBottom.svg",
+  "/expui/gutter/foldBottom_dark.svg"
+ ],
+ "unfold": [
+  "/expui/gutter/unfold.svg",
+  "/expui/gutter/unfold_dark.svg"
+ ],
+ "bookmark": [
+  "/expui/gutter/bookmark.svg",
+  "/expui/gutter/bookmark_dark.svg",
+  "/expui/gutter/bookmarkHovered.svg",
+  "/expui/gutter/bookmarkHovered_dark.svg"
+ ],
+ "runSuccess": [
+  "/expui/gutter/runSuccess.svg",
+  "/expui/gutter/runSuccess_dark.svg"
+ ],
+ "runFailed": [
+  "/expui/gutter/runFailed.svg",
+  "/expui/gutter/runFailed_dark.svg"
+ ],
+ "runError": [
+  "/expui/gutter/runError.svg",
+  "/expui/gutter/runError_dark.svg"
+ ],
+ "commit": [
+  "/expui/vcs/commit.svg",
+  "/expui/vcs/commit_dark.svg",
+  "/expui/toolwindows/commit.svg",
+  "/expui/toolwindows/commit_dark.svg"
+ ],
+ "update": [
+  "/expui/vcs/update.svg",
+  "/expui/vcs/update_dark.svg",
+  "/expui/vcs/fetch.svg",
+  "/expui/vcs/fetch_dark.svg"
+ ],
+ "push": [
+  "/expui/vcs/push.svg",
+  "/expui/vcs/push_dark.svg"
+ ],
+ "merge": [
+  "/expui/vcs/merge.svg",
+  "/expui/vcs/merge_dark.svg"
+ ],
+ "diff": [
+  "/expui/vcs/diff.svg",
+  "/expui/vcs/diff_dark.svg",
+  "/expui/vcs/changes.svg",
+  "/expui/vcs/changes_dark.svg",
+  "/expui/toolwindows/changes.svg",
+  "/expui/toolwindows/changes_dark.svg"
+ ],
+ "revert": [
+  "/expui/vcs/revert.svg",
+  "/expui/vcs/revert_dark.svg"
+ ],
+ "abort": [
+  "/expui/vcs/abort.svg",
+  "/expui/vcs/abort_dark.svg",
+  "/expui/vcs/abort_stroke.svg",
+  "/expui/vcs/abort_stroke_dark.svg"
+ ],
+ "shelve": [
+  "/expui/vcs/shelve.svg",
+  "/expui/vcs/shelve_dark.svg",
+  "/expui/vcs/unshelve.svg",
+  "/expui/vcs/unshelve_dark.svg"
+ ],
+ "twProject": [
+  "/expui/toolwindows/project.svg",
+  "/expui/toolwindows/project_dark.svg",
+  "/expui/toolwindows/project@20x20.svg",
+  "/expui/toolwindows/project@20x20_dark.svg"
+ ],
+ "twBuild": [
+  "/expui/toolwindows/build.svg",
+  "/expui/toolwindows/build_dark.svg",
+  "/expui/toolwindows/build@20x20.svg",
+  "/expui/toolwindows/build@20x20_dark.svg"
+ ],
+ "twDebug": [
+  "/expui/toolwindows/debug.svg",
+  "/expui/toolwindows/debug_dark.svg",
+  "/expui/toolwindows/debug@20x20.svg",
+  "/expui/toolwindows/debug@20x20_dark.svg"
+ ],
+ "twRun": [
+  "/expui/toolwindows/run.svg",
+  "/expui/toolwindows/run_dark.svg",
+  "/expui/toolwindows/run@20x20.svg",
+  "/expui/toolwindows/run@20x20_dark.svg"
+ ],
+ "twProblems": [
+  "/expui/toolwindows/problems.svg",
+  "/expui/toolwindows/problems_dark.svg",
+  "/expui/toolwindows/problems@20x20.svg",
+  "/expui/toolwindows/problems@20x20_dark.svg"
+ ],
+ "twStructure": [
+  "/expui/toolwindows/structure.svg",
+  "/expui/toolwindows/structure_dark.svg",
+  "/expui/toolwindows/structure@20x20.svg",
+  "/expui/toolwindows/structure@20x20_dark.svg"
+ ],
+ "twServices": [
+  "/expui/toolwindows/services.svg",
+  "/expui/toolwindows/services_dark.svg",
+  "/expui/toolwindows/services@20x20.svg",
+  "/expui/toolwindows/services@20x20_dark.svg"
+ ],
+ "twVcs": [
+  "/expui/toolwindows/vcs.svg",
+  "/expui/toolwindows/vcs_dark.svg",
+  "/expui/toolwindows/vcs@20x20.svg",
+  "/expui/toolwindows/vcs@20x20_dark.svg"
+ ],
+ "twTerminal": [
+  "/icons/expui/toolwindow/terminal.svg",
+  "/icons/expui/toolwindow/terminal_dark.svg",
+  "/expui/toolwindows/terminal.svg",
+  "/expui/toolwindows/terminal_dark.svg"
+ ],
+ "twNotifications": [
+  "/expui/toolwindows/notifications.svg",
+  "/expui/toolwindows/notifications_dark.svg",
+  "/expui/toolwindows/notifications@20x20.svg",
+  "/expui/toolwindows/notifications@20x20_dark.svg"
+ ],
+ "twMessages": [
+  "/expui/toolwindows/messages.svg",
+  "/expui/toolwindows/messages_dark.svg",
+  "/expui/toolwindows/messages@20x20.svg",
+  "/expui/toolwindows/messages@20x20_dark.svg"
+ ],
+ "twBookmarks": [
+  "/expui/toolwindows/bookmarks.svg",
+  "/expui/toolwindows/bookmarks_dark.svg",
+  "/expui/toolwindows/bookmarks@20x20.svg",
+  "/expui/toolwindows/bookmarks@20x20_dark.svg"
+ ],
+ "twTodo": [
+  "/expui/toolwindows/todo.svg",
+  "/expui/toolwindows/todo_dark.svg",
+  "/expui/toolwindows/todo@20x20.svg",
+  "/expui/toolwindows/todo@20x20_dark.svg"
+ ],
+ "twCoverage": [
+  "/expui/toolwindows/coverage.svg",
+  "/expui/toolwindows/coverage_dark.svg",
+  "/expui/toolwindows/coverage@20x20.svg",
+  "/expui/toolwindows/coverage@20x20_dark.svg"
+ ],
+ "twProfiler": [
+  "/expui/toolwindows/profiler.svg",
+  "/expui/toolwindows/profiler_dark.svg",
+  "/expui/toolwindows/profiler@20x20.svg",
+  "/expui/toolwindows/profiler@20x20_dark.svg"
+ ],
+ "twDependencies": [
+  "/expui/toolwindows/dependencies.svg",
+  "/expui/toolwindows/dependencies_dark.svg",
+  "/expui/toolwindows/dependencies@20x20.svg",
+  "/expui/toolwindows/dependencies@20x20_dark.svg"
+ ],
+ "twDocumentation": [
+  "/expui/toolwindows/documentation.svg",
+  "/expui/toolwindows/documentation_dark.svg",
+  "/expui/toolwindows/documentation@20x20.svg",
+  "/expui/toolwindows/documentation@20x20_dark.svg"
+ ],
+ "twHierarchy": [
+  "/expui/toolwindows/hierarchy.svg",
+  "/expui/toolwindows/hierarchy_dark.svg",
+  "/expui/toolwindows/hierarchy@20x20.svg",
+  "/expui/toolwindows/hierarchy@20x20_dark.svg"
+ ],
+ "twFind": [
+  "/expui/toolwindows/find.svg",
+  "/expui/toolwindows/find_dark.svg",
+  "/expui/toolwindows/find@20x20.svg",
+  "/expui/toolwindows/find@20x20_dark.svg"
+ ],
+ "twWeb": [
+  "/expui/toolwindows/web.svg",
+  "/expui/toolwindows/web_dark.svg",
+  "/expui/toolwindows/web@20x20.svg",
+  "/expui/toolwindows/web@20x20_dark.svg"
+ ],
+ "twTask": [
+  "/expui/toolwindows/task.svg",
+  "/expui/toolwindows/task_dark.svg",
+  "/expui/toolwindows/task@20x20.svg",
+  "/expui/toolwindows/task@20x20_dark.svg"
+ ],
+ "twPalette": [
+  "/expui/toolwindows/palette.svg",
+  "/expui/toolwindows/palette_dark.svg",
+  "/expui/toolwindows/palette@20x20.svg",
+  "/expui/toolwindows/palette@20x20_dark.svg"
+ ],
+ "twRepositories": [
+  "/expui/toolwindows/repositories.svg",
+  "/expui/toolwindows/repositories_dark.svg",
+  "/expui/toolwindows/repositories@20x20.svg",
+  "/expui/toolwindows/repositories@20x20_dark.svg"
+ ],
+ "twLearn": [
+  "/expui/toolwindows/learn.svg",
+  "/expui/toolwindows/learn_dark.svg",
+  "/expui/toolwindows/learn@20x20.svg",
+  "/expui/toolwindows/learn@20x20_dark.svg"
+ ],
+ "folder": [
+  "/expui/nodes/folder.svg",
+  "/expui/nodes/folder_dark.svg",
+  "/nodes/folder.svg",
+  "/nodes/folder_dark.svg",
+  "/icons/nodes/folder.svg",
+  "/icons/nodes/folder_dark.svg"
+ ],
+ "folderSolution": [
+  "/rider/expui/nodes/FolderSolution.svg",
+  "/rider/expui/nodes/FolderSolution_dark.svg"
+ ],
+ "sourceRoot": [
+  "/expui/nodes/sourceRoot.svg",
+  "/expui/nodes/sourceRoot_dark.svg",
+  "/expui/nodes/sourceRootFileLayer.svg",
+  "/expui/nodes/sourceRootFileLayer_dark.svg",
+  "/nodes/sourceRoot.svg",
+  "/nodes/sourceRoot_dark.svg"
+ ],
+ "testRoot": [
+  "/expui/nodes/testRoot.svg",
+  "/expui/nodes/testRoot_dark.svg",
+  "/expui/nodes/testSourceFolder.svg",
+  "/expui/nodes/testSourceFolder_dark.svg",
+  "/expui/nodes/testResourcesRoot.svg",
+  "/expui/nodes/testResourcesRoot_dark.svg"
+ ],
+ "resourcesRoot": [
+  "/expui/nodes/resourcesRoot.svg",
+  "/expui/nodes/resourcesRoot_dark.svg"
+ ],
+ "excludeRoot": [
+  "/expui/nodes/excludeRoot.svg",
+  "/expui/nodes/excludeRoot_dark.svg",
+  "/expui/nodes/excludedGenerated.svg",
+  "/expui/nodes/excludedGenerated_dark.svg"
+ ],
+ "generatedFolder": [
+  "/expui/nodes/annotationFolder.svg",
+  "/expui/nodes/annotationFolder_dark.svg",
+  "/actions/generatedFolder.svg",
+  "/actions/generatedFolder_dark.svg"
+ ],
+ "class": [
+  "/expui/nodes/class.svg",
+  "/expui/nodes/class_dark.svg",
+  "/nodes/class.svg",
+  "/nodes/class_dark.svg"
+ ],
+ "classAbstract": [
+  "/expui/nodes/classAbstract.svg",
+  "/expui/nodes/classAbstract_dark.svg"
+ ],
+ "interface": [
+  "/expui/nodes/interface.svg",
+  "/expui/nodes/interface_dark.svg",
+  "/nodes/interface.svg",
+  "/nodes/interface_dark.svg"
+ ],
+ "enum": [
+  "/expui/nodes/enum.svg",
+  "/expui/nodes/enum_dark.svg",
+  "/nodes/enum.svg",
+  "/nodes/enum_dark.svg"
+ ],
+ "record": [
+  "/expui/nodes/record.svg",
+  "/expui/nodes/record_dark.svg"
+ ],
+ "type": [
+  "/expui/nodes/type.svg",
+  "/expui/nodes/type_dark.svg"
+ ],
+ "method": [
+  "/expui/nodes/method.svg",
+  "/expui/nodes/method_dark.svg",
+  "/nodes/method.svg",
+  "/nodes/method_dark.svg"
+ ],
+ "methodAbstract": [
+  "/expui/nodes/methodAbstract.svg",
+  "/expui/nodes/methodAbstract_dark.svg"
+ ],
+ "function": [
+  "/expui/nodes/function.svg",
+  "/expui/nodes/function_dark.svg"
+ ],
+ "lambda": [
+  "/expui/nodes/lambda.svg",
+  "/expui/nodes/lambda_dark.svg"
+ ],
+ "constructor": [
+  "/expui/nodes/constructor.svg",
+  "/expui/nodes/constructor_dark.svg"
+ ],
+ "property": [
+  "/expui/nodes/property.svg",
+  "/expui/nodes/property_dark.svg",
+  "/nodes/property.svg",
+  "/nodes/property_dark.svg"
+ ],
+ "field": [
+  "/expui/nodes/field.svg",
+  "/expui/nodes/field_dark.svg",
+  "/nodes/field.svg",
+  "/nodes/field_dark.svg"
+ ],
+ "constant": [
+  "/expui/nodes/constant.svg",
+  "/expui/nodes/constant_dark.svg"
+ ],
+ "parameter": [
+  "/expui/nodes/parameter.svg",
+  "/expui/nodes/parameter_dark.svg"
+ ],
+ "variable": [
+  "/expui/nodes/variable.svg",
+  "/expui/nodes/variable_dark.svg",
+  "/expui/nodes/gvariable.svg",
+  "/expui/nodes/gvariable_dark.svg"
+ ],
+ "package": [
+  "/expui/nodes/package.svg",
+  "/expui/nodes/package_dark.svg"
+ ],
+ "module": [
+  "/expui/nodes/module.svg",
+  "/expui/nodes/module_dark.svg",
+  "/nodes/module.svg",
+  "/nodes/module_dark.svg"
+ ],
+ "artifact": [
+  "/expui/nodes/artifact.svg",
+  "/expui/nodes/artifact_dark.svg"
+ ],
+ "alias": [
+  "/expui/nodes/alias.svg",
+  "/expui/nodes/alias_dark.svg"
+ ],
+ "attribute": [
+  "/expui/nodes/attribute.svg",
+  "/expui/nodes/attribute_dark.svg"
+ ],
+ "annotation": [
+  "/expui/nodes/annotation.svg",
+  "/expui/nodes/annotation_dark.svg"
+ ],
+ "word": [
+  "/expui/nodes/word.svg",
+  "/expui/nodes/word_dark.svg"
+ ],
+ "unknown": [
+  "/expui/nodes/unknown.svg",
+  "/expui/nodes/unknown_dark.svg"
+ ],
+ "library": [
+  "/expui/nodes/library.svg",
+  "/expui/nodes/library_dark.svg",
+  "/nodes/library.svg",
+  "/nodes/library_dark.svg"
+ ],
+ "moduleGroup": [
+  "/expui/nodes/moduleGroup.svg",
+  "/expui/nodes/moduleGroup_dark.svg",
+  "/expui/nodes/module8x8.svg",
+  "/expui/nodes/module8x8_dark.svg"
+ ],
+ "testNode": [
+  "/expui/nodes/test.svg",
+  "/expui/nodes/test_dark.svg",
+  "/nodes/test.svg",
+  "/nodes/test_dark.svg"
+ ],
+ "rerunNode": [
+  "/expui/nodes/testIgnored.svg",
+  "/expui/nodes/testIgnored_dark.svg",
+  "/expui/nodes/testGroup.svg",
+  "/expui/nodes/testGroup_dark.svg"
+ ],
+ "exceptionNode": [
+  "/expui/nodes/exception.svg",
+  "/expui/nodes/exception_dark.svg",
+  "/expui/nodes/abstractException.svg",
+  "/expui/nodes/abstractException_dark.svg"
+ ],
+ "errorIntroduction": [
+  "/expui/nodes/errorIntroduction.svg",
+  "/expui/nodes/errorIntroduction_dark.svg"
+ ],
+ "warningIntroduction": [
+  "/expui/nodes/warningIntroduction.svg",
+  "/expui/nodes/warningIntroduction_dark.svg"
+ ],
+ "staticMark": [
+  "/expui/nodes/static.svg",
+  "/expui/nodes/static_dark.svg",
+  "/expui/nodes/staticMark.svg",
+  "/expui/nodes/staticMark_dark.svg"
+ ],
+ "finalMark": [
+  "/expui/nodes/finalMark.svg",
+  "/expui/nodes/finalMark_dark.svg"
+ ],
+ "sharedMark": [
+  "/expui/nodes/shared.svg",
+  "/expui/nodes/shared_dark.svg"
+ ],
+ "lockedMark": [
+  "/expui/nodes/locked.svg",
+  "/expui/nodes/locked_dark.svg",
+  "/expui/general/locked.svg",
+  "/expui/general/locked_dark.svg"
+ ],
+ "resourceBundle": [
+  "/expui/nodes/resourceBundle.svg",
+  "/expui/nodes/resourceBundle_dark.svg",
+  "/expui/nodes/services.svg",
+  "/expui/nodes/services_dark.svg"
+ ],
+ "Csharp": [
+  "/expui/fileTypes/Csharp.svg",
+  "/expui/fileTypes/Csharp_dark.svg",
+  "/fileTypes/Csharp.svg",
+  "/fileTypes/Csharp_dark.svg"
+ ],
+ "json": [
+  "/expui/fileTypes/json.svg",
+  "/expui/fileTypes/json_dark.svg",
+  "/fileTypes/json.svg",
+  "/fileTypes/json_dark.svg",
+  "/expui/fileTypes/jsonSchema.svg",
+  "/expui/fileTypes/jsonSchema_dark.svg",
+  "/resharper/expui/PsiJavaScript/Json.svg",
+  "/resharper/expui/PsiJavaScript/Json_dark.svg"
+ ],
+ "xml": [
+  "/expui/fileTypes/xml.svg",
+  "/expui/fileTypes/xml_dark.svg",
+  "/fileTypes/xml.svg",
+  "/fileTypes/xml_dark.svg",
+  "/rider/expui/fileTypes/xml.svg",
+  "/rider/expui/fileTypes/xml_dark.svg",
+  "/expui/fileTypes/xsd.svg",
+  "/expui/fileTypes/xsd_dark.svg",
+  "/expui/fileTypes/wsdl.svg",
+  "/expui/fileTypes/wsdl_dark.svg",
+  "/expui/fileTypes/xhtml.svg",
+  "/expui/fileTypes/xhtml_dark.svg",
+  "/expui/fileTypes/xsl.svg",
+  "/expui/fileTypes/xsl_dark.svg"
+ ],
+ "config": [
+  "/expui/fileTypes/config.svg",
+  "/expui/fileTypes/config_dark.svg",
+  "/fileTypes/config.svg",
+  "/fileTypes/config_dark.svg"
+ ],
+ "editorConfig": [
+  "/expui/fileTypes/editorConfig.svg",
+  "/expui/fileTypes/editorConfig_dark.svg",
+  "/nodes/editorconfig.svg",
+  "/nodes/editorconfig_dark.svg"
+ ],
+ "markdown": [
+  "/expui/fileTypes/markdown.svg",
+  "/expui/fileTypes/markdown_dark.svg",
+  "/fileTypes/markdown.svg",
+  "/fileTypes/markdown_dark.svg"
+ ],
+ "text": [
+  "/expui/fileTypes/text.svg",
+  "/expui/fileTypes/text_dark.svg",
+  "/fileTypes/text.svg",
+  "/fileTypes/text_dark.svg"
+ ],
+ "sql": [
+  "/expui/fileTypes/sql.svg",
+  "/expui/fileTypes/sql_dark.svg",
+  "/fileTypes/sql.svg",
+  "/fileTypes/sql_dark.svg"
+ ],
+ "javaScript": [
+  "/expui/fileTypes/javaScript.svg",
+  "/expui/fileTypes/javaScript_dark.svg",
+  "/fileTypes/javaScript.svg",
+  "/fileTypes/javaScript_dark.svg"
+ ],
+ "html": [
+  "/expui/fileTypes/html.svg",
+  "/expui/fileTypes/html_dark.svg",
+  "/fileTypes/html.svg",
+  "/fileTypes/html_dark.svg",
+  "/expui/fileTypes/jsp.svg",
+  "/expui/fileTypes/jsp_dark.svg",
+  "/expui/fileTypes/jspx.svg",
+  "/expui/fileTypes/jspx_dark.svg"
+ ],
+ "css": [
+  "/expui/fileTypes/css.svg",
+  "/expui/fileTypes/css_dark.svg",
+  "/fileTypes/css.svg",
+  "/fileTypes/css_dark.svg"
+ ],
+ "yaml": [
+  "/expui/fileTypes/yaml.svg",
+  "/expui/fileTypes/yaml_dark.svg",
+  "/fileTypes/yaml.svg",
+  "/fileTypes/yaml_dark.svg"
+ ],
+ "properties": [
+  "/expui/fileTypes/properties.svg",
+  "/expui/fileTypes/properties_dark.svg",
+  "/fileTypes/properties.svg",
+  "/fileTypes/properties_dark.svg",
+  "/expui/fileTypes/toml.svg",
+  "/expui/fileTypes/toml_dark.svg"
+ ],
+ "shell": [
+  "/expui/fileTypes/shell.svg",
+  "/expui/fileTypes/shell_dark.svg"
+ ],
+ "docker": [
+  "/expui/fileTypes/docker.svg",
+  "/expui/fileTypes/docker_dark.svg"
+ ],
+ "gitignore": [
+  "/expui/fileTypes/gitignore.svg",
+  "/expui/fileTypes/gitignore_dark.svg"
+ ],
+ "csv": [
+  "/expui/fileTypes/csv.svg",
+  "/expui/fileTypes/csv_dark.svg"
+ ],
+ "image": [
+  "/expui/fileTypes/image.svg",
+  "/expui/fileTypes/image_dark.svg"
+ ],
+ "archive": [
+  "/expui/fileTypes/archive.svg",
+  "/expui/fileTypes/archive_dark.svg"
+ ],
+ "binaryData": [
+  "/expui/fileTypes/binaryData.svg",
+  "/expui/fileTypes/binaryData_dark.svg"
+ ],
+ "font": [
+  "/expui/fileTypes/font.svg",
+  "/expui/fileTypes/font_dark.svg"
+ ],
+ "manifest": [
+  "/expui/fileTypes/manifest.svg",
+  "/expui/fileTypes/manifest_dark.svg"
+ ],
+ "http": [
+  "/expui/fileTypes/http.svg",
+  "/expui/fileTypes/http_dark.svg"
+ ],
+ "regexp": [
+  "/expui/fileTypes/regexp.svg",
+  "/expui/fileTypes/regexp_dark.svg"
+ ],
+ "gradle": [
+  "/expui/fileTypes/gradle.svg",
+  "/expui/fileTypes/gradle_dark.svg",
+  "/expui/fileTypes/groovy.svg",
+  "/expui/fileTypes/groovy_dark.svg"
+ ],
+ "unknownFile": [
+  "/expui/fileTypes/unknown.svg",
+  "/expui/fileTypes/unknown_dark.svg"
+ ],
+ "diagram": [
+  "/expui/fileTypes/diagram.svg",
+  "/expui/fileTypes/diagram_dark.svg",
+  "/expui/fileTypes/uml.svg",
+  "/expui/fileTypes/uml_dark.svg"
+ ],
+ "scratch": [
+  "/expui/fileTypes/scratch.svg",
+  "/expui/fileTypes/scratch_dark.svg",
+  "/expui/fileTypes/scratches.svg",
+  "/expui/fileTypes/scratches_dark.svg"
+ ],
+ "patch": [
+  "/expui/fileTypes/patch.svg",
+  "/expui/fileTypes/patch_dark.svg",
+  "/expui/fileTypes/diff.svg",
+  "/expui/fileTypes/diff_dark.svg"
+ ],
+ "svgImage": [
+  "/icons/expui/less.svg",
+  "/icons/expui/less_dark.svg",
+  "/icons/less.svg",
+  "/icons/less_dark.svg",
+  "/icons/expui/sass.svg",
+  "/icons/expui/sass_dark.svg"
+ ],
+ "i18n": [
+  "/expui/fileTypes/i18n.svg",
+  "/expui/fileTypes/i18n_dark.svg"
+ ],
+ "jupyter": [
+  "/expui/fileTypes/jupyter.svg",
+  "/expui/fileTypes/jupyter_dark.svg"
+ ],
+ "terraform": [
+  "/expui/fileTypes/terraform.svg",
+  "/expui/fileTypes/terraform_dark.svg"
+ ],
+ "vue": [
+  "/expui/fileTypes/vue.svg",
+  "/expui/fileTypes/vue_dark.svg"
+ ],
+ "csharpFile": [
+  "/resharper/expui/PsiCSharp/Csharp.svg",
+  "/resharper/expui/PsiCSharp/Csharp_dark.svg",
+  "/resharper/PsiCSharp/Csharp.svg",
+  "/resharper/PsiCSharp/Csharp_dark.svg"
+ ],
+ "csProject": [
+  "/resharper/expui/ProjectModel/CsharpProject.svg",
+  "/resharper/expui/ProjectModel/CsharpProject_dark.svg",
+  "/resharper/ProjectModel/CsharpProject.svg",
+  "/resharper/ProjectModel/CsharpProject_dark.svg"
+ ],
+ "csLibraryProject": [
+  "/resharper/expui/ProjectModel/CsharpCoreProject.svg",
+  "/resharper/expui/ProjectModel/CsharpCoreProject_dark.svg",
+  "/resharper/expui/ProjectModel/CsharpLegacyProject.svg",
+  "/resharper/expui/ProjectModel/CsharpLegacyProject_dark.svg",
+  "/resharper/ProjectModel/CsharpCoreProject.svg",
+  "/resharper/ProjectModel/CsharpCoreProject_dark.svg",
+  "/resharper/ProjectModel/CsharpLegacyProject.svg",
+  "/resharper/ProjectModel/CsharpLegacyProject_dark.svg"
+ ],
+ "csprojFile": [
+  "/resharper/expui/ProjectModel/CsharpProj.svg",
+  "/resharper/expui/ProjectModel/CsharpProj_dark.svg",
+  "/resharper/ProjectModel/CsharpProj.svg",
+  "/resharper/ProjectModel/CsharpProj_dark.svg"
+ ],
+ "vbProject": [
+  "/resharper/expui/ProjectModel/VbasicProj.svg",
+  "/resharper/expui/ProjectModel/VbasicProj_dark.svg",
+  "/resharper/ProjectModel/VbasicProj.svg",
+  "/resharper/ProjectModel/VbasicProj_dark.svg"
+ ],
+ "solutionFile": [
+  "/rider/expui/fileTypes/solution.svg",
+  "/rider/expui/fileTypes/solution_dark.svg",
+  "/rider/fileTypes/solution.svg",
+  "/rider/fileTypes/solution_dark.svg",
+  "/rider/expui/templates/TemplateSolution.svg",
+  "/rider/expui/templates/TemplateSolution_dark.svg"
+ ],
+ "solutionFolder": [
+  "/rider/expui/nodes/FolderSolution.svg",
+  "/rider/expui/nodes/FolderSolution_dark.svg"
+ ],
+ "razorFile": [
+  "/resharper/expui/PsiRazor/Razor.svg",
+  "/resharper/expui/PsiRazor/Razor_dark.svg",
+  "/resharper/PsiRazor/Razor.svg",
+  "/resharper/PsiRazor/Razor_dark.svg",
+  "/resharper/expui/ServicesRazor/ScopeRazor.svg",
+  "/resharper/expui/ServicesRazor/ScopeRazor_dark.svg",
+  "/rider/expui/templates/TemplateRazor.svg",
+  "/rider/expui/templates/TemplateRazor_dark.svg"
+ ],
+ "xamlFile": [
+  "/resharper/expui/CommonFeaturesOptions/Xaml.svg",
+  "/resharper/expui/CommonFeaturesOptions/Xaml_dark.svg",
+  "/resharper/ServicesXaml/ScopeXaml.svg",
+  "/resharper/ServicesXaml/ScopeXaml_dark.svg",
+  "/resharper/CommonFeaturesOptions/Xaml.svg",
+  "/resharper/CommonFeaturesOptions/Xaml_dark.svg"
+ ],
+ "resxFile": [
+  "/resharper/expui/LiveTemplatesResx/Resx.svg",
+  "/resharper/expui/LiveTemplatesResx/Resx_dark.svg"
+ ],
+ "androidXml": [
+  "/rider/expui/fileTypes/axml.svg",
+  "/rider/expui/fileTypes/axml_dark.svg",
+  "/rider/fileTypes/axml.svg",
+  "/rider/fileTypes/axml_dark.svg"
+ ],
+ "publishProfile": [
+  "/rider/expui/publish/pubxml.svg",
+  "/rider/expui/publish/pubxml_dark.svg"
+ ],
+ "cshtml": [
+  "/rider/expui/templates/TemplateConsoleApp.svg",
+  "/rider/expui/templates/TemplateConsoleApp_dark.svg"
+ ],
+ "dotnetFolder": [
+  "/resharper/ProjectModel/SolutionFolder.svg",
+  "/resharper/ProjectModel/SolutionFolder_dark.svg",
+  "/resharper/ProjectModel/Folder.svg",
+  "/resharper/ProjectModel/Folder_dark.svg",
+  "/resharper/ProjectModel/MissingFolder.svg",
+  "/resharper/ProjectModel/MissingFolder_dark.svg",
+  "/resharper/expui/ProjectModel/SolutionFolder.svg",
+  "/resharper/expui/ProjectModel/SolutionFolder_dark.svg",
+  "/resharper/expui/ProjectModel/Folder.svg",
+  "/resharper/expui/ProjectModel/Folder_dark.svg",
+  "/resharper/expui/ProjectModel/MissingFolder.svg",
+  "/resharper/expui/ProjectModel/MissingFolder_dark.svg"
+ ],
+ "wwwroot": [
+  "/resharper/ProjectModel/FolderWWWRootClosed.svg",
+  "/resharper/ProjectModel/FolderWWWRootClosed_dark.svg",
+  "/resharper/ProjectModel/FolderWWWRootOpened.svg",
+  "/resharper/ProjectModel/FolderWWWRootOpened_dark.svg",
+  "/resharper/expui/ProjectModel/FolderWWWRootClosed.svg",
+  "/resharper/expui/ProjectModel/FolderWWWRootClosed_dark.svg",
+  "/resharper/expui/ProjectModel/FolderWWWRootOpened.svg",
+  "/resharper/expui/ProjectModel/FolderWWWRootOpened_dark.svg"
+ ],
+ "dotnetProject": [
+  "/resharper/ProjectModel/Project.svg",
+  "/resharper/ProjectModel/Project_dark.svg",
+  "/resharper/ProjectModel/Projects.svg",
+  "/resharper/ProjectModel/Projects_dark.svg",
+  "/resharper/ProjectModel/Directory.svg",
+  "/resharper/ProjectModel/Directory_dark.svg",
+  "/resharper/ProjectModel/SharedProject.svg",
+  "/resharper/ProjectModel/SharedProject_dark.svg",
+  "/resharper/ProjectModel/MauiProject.svg",
+  "/resharper/ProjectModel/MauiProject_dark.svg",
+  "/resharper/ProjectModel/DotNetCoreProject.svg",
+  "/resharper/ProjectModel/DotNetCoreProject_dark.svg",
+  "/resharper/ProjectModel/DotNetLegacyProject.svg",
+  "/resharper/ProjectModel/DotNetLegacyProject_dark.svg",
+  "/resharper/ProjectModel/UnloadedProject.svg",
+  "/resharper/ProjectModel/UnloadedProject_dark.svg",
+  "/resharper/expui/ProjectModel/Project.svg",
+  "/resharper/expui/ProjectModel/Project_dark.svg",
+  "/resharper/expui/ProjectModel/Projects.svg",
+  "/resharper/expui/ProjectModel/Projects_dark.svg",
+  "/resharper/expui/ProjectModel/Directory.svg",
+  "/resharper/expui/ProjectModel/Directory_dark.svg",
+  "/resharper/expui/ProjectModel/SharedProject.svg",
+  "/resharper/expui/ProjectModel/SharedProject_dark.svg",
+  "/resharper/expui/ProjectModel/MauiProject.svg",
+  "/resharper/expui/ProjectModel/MauiProject_dark.svg",
+  "/resharper/expui/ProjectModel/DotNetCoreProject.svg",
+  "/resharper/expui/ProjectModel/DotNetCoreProject_dark.svg",
+  "/resharper/expui/ProjectModel/DotNetLegacyProject.svg",
+  "/resharper/expui/ProjectModel/DotNetLegacyProject_dark.svg",
+  "/resharper/expui/ProjectModel/UnloadedProject.svg",
+  "/resharper/expui/ProjectModel/UnloadedProject_dark.svg"
+ ],
+ "depAssemblies": [
+  "/resharper/ProjectModel/Assemblies.svg",
+  "/resharper/ProjectModel/Assemblies_dark.svg",
+  "/resharper/ProjectModel/AssemblyReference.svg",
+  "/resharper/ProjectModel/AssemblyReference_dark.svg",
+  "/resharper/ProjectModel/Assembly.svg",
+  "/resharper/ProjectModel/Assembly_dark.svg",
+  "/resharper/expui/ProjectModel/Assemblies.svg",
+  "/resharper/expui/ProjectModel/Assemblies_dark.svg",
+  "/resharper/expui/ProjectModel/AssemblyReference.svg",
+  "/resharper/expui/ProjectModel/AssemblyReference_dark.svg",
+  "/resharper/expui/ProjectModel/Assembly.svg",
+  "/resharper/expui/ProjectModel/Assembly_dark.svg"
+ ],
+ "depFrameworks": [
+  "/resharper/ProjectModel/FrameworkFolder.svg",
+  "/resharper/ProjectModel/FrameworkFolder_dark.svg",
+  "/resharper/ProjectModel/FrameworkRef.svg",
+  "/resharper/ProjectModel/FrameworkRef_dark.svg",
+  "/resharper/ProjectModel/FrameworkRefIssue.svg",
+  "/resharper/ProjectModel/FrameworkRefIssue_dark.svg",
+  "/resharper/ProjectModel/FrameworkRefLock.svg",
+  "/resharper/ProjectModel/FrameworkRefLock_dark.svg",
+  "/resharper/expui/ProjectModel/FrameworkFolder.svg",
+  "/resharper/expui/ProjectModel/FrameworkFolder_dark.svg",
+  "/resharper/expui/ProjectModel/FrameworkRef.svg",
+  "/resharper/expui/ProjectModel/FrameworkRef_dark.svg",
+  "/resharper/expui/ProjectModel/FrameworkRefIssue.svg",
+  "/resharper/expui/ProjectModel/FrameworkRefIssue_dark.svg",
+  "/resharper/expui/ProjectModel/FrameworkRefLock.svg",
+  "/resharper/expui/ProjectModel/FrameworkRefLock_dark.svg"
+ ],
+ "depPackages": [
+  "/resharper/ProjectModel/NuGet.svg",
+  "/resharper/ProjectModel/NuGet_dark.svg",
+  "/resharper/expui/ProjectModel/NuGet.svg",
+  "/resharper/expui/ProjectModel/NuGet_dark.svg"
+ ],
+ "depProjectsNode": [
+  "/resharper/ProjectModel/Projects.svg",
+  "/resharper/ProjectModel/Projects_dark.svg",
+  "/resharper/expui/ProjectModel/Projects.svg",
+  "/resharper/expui/ProjectModel/Projects_dark.svg"
+ ],
+ "depAnalyzers": [
+  "/resharper/ProjectModel/SDKs.svg",
+  "/resharper/ProjectModel/SDKs_dark.svg",
+  "/resharper/expui/ProjectModel/SDKs.svg",
+  "/resharper/expui/ProjectModel/SDKs_dark.svg"
+ ],
+ "depSourceGenerators": [
+  "/resharper/ProjectModel/SourceGenerator.svg",
+  "/resharper/ProjectModel/SourceGenerator_dark.svg",
+  "/resharper/expui/ProjectModel/SourceGenerator.svg",
+  "/resharper/expui/ProjectModel/SourceGenerator_dark.svg"
+ ],
+ "ft_c": [
+  "/expui/fileTypes/c.svg",
+  "/expui/fileTypes/c_dark.svg"
+ ],
+ "ft_cpp": [
+  "/expui/fileTypes/cpp.svg",
+  "/expui/fileTypes/cpp_dark.svg"
+ ],
+ "ft_h": [
+  "/expui/fileTypes/h.svg",
+  "/expui/fileTypes/h_dark.svg"
+ ],
+ "ft_java": [
+  "/expui/fileTypes/java.svg",
+  "/expui/fileTypes/java_dark.svg"
+ ],
+ "ft_javaClass": [
+  "/expui/fileTypes/javaClass.svg",
+  "/expui/fileTypes/javaClass_dark.svg"
+ ],
+ "ft_swiftLang": [
+  "/expui/fileTypes/swiftLang.svg",
+  "/expui/fileTypes/swiftLang_dark.svg"
+ ],
+ "ft_perl": [
+  "/expui/fileTypes/perl.svg",
+  "/expui/fileTypes/perl_dark.svg"
+ ],
+ "ft_actionScript": [
+  "/expui/fileTypes/actionScript.svg",
+  "/expui/fileTypes/actionScript_dark.svg"
+ ],
+ "ft_idl": [
+  "/expui/fileTypes/idl.svg",
+  "/expui/fileTypes/idl_dark.svg"
+ ],
+ "ft_bazel": [
+  "/expui/fileTypes/bazel.svg",
+  "/expui/fileTypes/bazel_dark.svg"
+ ],
+ "ft_aspectJ": [
+  "/expui/fileTypes/aspectJ.svg",
+  "/expui/fileTypes/aspectJ_dark.svg"
+ ],
+ "ft_rst": [
+  "/expui/fileTypes/rst.svg",
+  "/expui/fileTypes/rst_dark.svg"
+ ],
+ "ft_sourceMap": [
+  "/expui/fileTypes/sourceMap.svg",
+  "/expui/fileTypes/sourceMap_dark.svg"
+ ],
+ "ft_toml": [
+  "/expui/fileTypes/toml.svg",
+  "/expui/fileTypes/toml_dark.svg"
+ ],
+ "ft_modified": [
+  "/expui/fileTypes/modified.svg",
+  "/expui/fileTypes/modified_dark.svg"
+ ],
+ "ft_ignored": [
+  "/expui/fileTypes/ignored.svg",
+  "/expui/fileTypes/ignored_dark.svg"
+ ],
+ "ft_contexts": [
+  "/expui/fileTypes/contexts.svg",
+  "/expui/fileTypes/contexts_dark.svg"
+ ],
+ "ft_contextsModifier": [
+  "/expui/fileTypes/contextsModifier.svg",
+  "/expui/fileTypes/contextsModifier_dark.svg"
+ ],
+ "ft_changedFile": [
+  "/expui/fileTypes/changedFile.svg",
+  "/expui/fileTypes/changedFile_dark.svg",
+  "/expui/fileTypes/changedFiles.svg",
+  "/expui/fileTypes/changedFiles_dark.svg"
+ ]
+}

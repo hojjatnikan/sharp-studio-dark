@@ -1,0 +1,15286 @@
+{
+"per": {
+"abbreviation": [
+"202020"
+],
+"aboutbox": [
+"202020"
+],
+"absoluteposition": [
+"006CBF",
+"202020"
+],
+"abstractassociation": [
+"006CBF",
+"202020"
+],
+"abstractclass": [
+"202020",
+"B27C00"
+],
+"abstractcube": [
+"202020"
+],
+"accelerator": [
+"202020"
+],
+"accepteventaction": [
+"B27C00"
+],
+"accessibility": [
+"006CBF"
+],
+"accordian": [
+"006CBF",
+"202020"
+],
+"account": [
+"202020"
+],
+"accountattribute": [
+"202020"
+],
+"accountgroup": [
+"202020"
+],
+"action": [
+"006CBF",
+"202020"
+],
+"actionlog": [
+"006CBF",
+"159195",
+"202020"
+],
+"actiontool": [
+"202020"
+],
+"activateworkflow": [
+"11910D",
+"202020"
+],
+"activedocumenthost": [
+"202020"
+],
+"activeenvironment": [
+"11910D",
+"202020"
+],
+"activefluidlayout": [
+"11910D",
+"202020"
+],
+"activeserverapplication": [
+"202020",
+"B27C00"
+],
+"activexcontrol": [
+"202020"
+],
+"activity": [
+"202020"
+],
+"activitydiagram": [
+"202020"
+],
+"activityfinalnode": [
+"202020"
+],
+"activitymonitor": [
+"202020",
+"3487C7"
+],
+"activityparameternode": [
+"202020"
+],
+"actor": [
+"202020"
+],
+"add": [
+"11910D"
+],
+"addagent": [
+"006CBF",
+"11910D",
+"202020"
+],
+"addapplicationinsights": [
+"8661C5"
+],
+"addassociation": [
+"11910D",
+"202020"
+],
+"addattachment": [
+"11910D",
+"202020"
+],
+"addattribute": [
+"11910D",
+"202020"
+],
+"addbehavior": [
+"11910D",
+"202020"
+],
+"addbottomframe": [
+"11910D",
+"202020"
+],
+"addbuildtoqueue": [
+"11910D",
+"202020"
+],
+"addbutton": [
+"006CBF",
+"11910D",
+"202020"
+],
+"addcelltoleft": [
+"006CBF",
+"202020"
+],
+"addcelltoright": [
+"006CBF",
+"202020"
+],
+"addchildnode": [
+"006CBF",
+"11910D",
+"202020"
+],
+"addclass": [
+"11910D",
+"B27C00"
+],
+"addclause": [
+"11910D",
+"202020"
+],
+"addcolumn": [
+"11910D",
+"202020"
+],
+"addcolumns": [
+"11910D",
+"202020"
+],
+"addcolumnstoleft": [
+"006CBF",
+"202020"
+],
+"addcolumnstoright": [
+"006CBF",
+"202020"
+],
+"addcomment": [
+"11910D",
+"202020"
+],
+"addcomponent": [
+"11910D",
+"202020"
+],
+"addcomputedfield": [
+"11910D",
+"202020"
+],
+"addconditionalloop": [
+"11910D",
+"202020"
+],
+"addconditionalrule": [
+"11910D",
+"202020"
+],
+"addconnection": [
+"11910D",
+"159195"
+],
+"addcontrol": [
+"11910D",
+"202020"
+],
+"addcustomcontrol": [
+"006CBF",
+"11910D",
+"202020"
+],
+"adddatabase": [
+"11910D",
+"3487C7"
+],
+"adddataitem": [
+"11910D",
+"202020",
+"3487C7"
+],
+"adddatasource": [
+"11910D",
+"3487C7"
+],
+"adddelegation": [
+"11910D",
+"202020"
+],
+"adddictionary": [
+"11910D",
+"202020"
+],
+"adddictionaryitem": [
+"11910D",
+"202020"
+],
+"adddimension": [
+"11910D",
+"202020"
+],
+"adddocument": [
+"11910D",
+"202020"
+],
+"adddocumentgroup": [
+"11910D",
+"202020"
+],
+"addentity": [
+"11910D",
+"B27C00"
+],
+"addevent": [
+"11910D",
+"B27C00"
+],
+"addfavorite": [
+"11910D",
+"B27C00"
+],
+"addfield": [
+"006CBF",
+"11910D",
+"202020"
+],
+"addfolder": [
+"11910D",
+"B27C00"
+],
+"addform": [
+"11910D",
+"202020"
+],
+"addfriend": [
+"11910D",
+"202020"
+],
+"addgroup": [
+"11910D",
+"202020"
+],
+"addhtmlpage": [
+"006CBF",
+"11910D",
+"202020"
+],
+"addimage": [
+"006CBF",
+"11910D",
+"202020",
+"B27C00"
+],
+"addin": [
+"202020"
+],
+"addindexer": [
+"11910D",
+"202020"
+],
+"addinheritance": [
+"11910D",
+"202020"
+],
+"addinheritedcontrol": [
+"11910D",
+"202020"
+],
+"addinheritedform": [
+"11910D",
+"202020"
+],
+"addinterface": [
+"006CBF",
+"11910D"
+],
+"additem": [
+"11910D",
+"202020"
+],
+"addkeyframe": [
+"11910D",
+"202020"
+],
+"addlayoutitem": [
+"11910D",
+"202020"
+],
+"addleftframe": [
+"11910D",
+"202020"
+],
+"addlink": [
+"11910D",
+"202020"
+],
+"addlivedatasource": [
+"11910D",
+"202020",
+"3487C7"
+],
+"addlocalserver": [
+"11910D",
+"202020"
+],
+"addmanifest": [
+"11910D",
+"202020"
+],
+"addmember": [
+"11910D",
+"202020"
+],
+"addmemberformula": [
+"11910D",
+"202020"
+],
+"addmethod": [
+"11910D",
+"5C2E91"
+],
+"addmodule": [
+"11910D",
+"8661C5"
+],
+"addnamespace": [
+"11910D",
+"202020"
+],
+"addnestedtable": [
+"006CBF",
+"11910D",
+"202020"
+],
+"addnocolor": [
+"202020"
+],
+"addonlineversion": [
+"11910D"
+],
+"addorremovecolumns": [
+"006CBF",
+"202020"
+],
+"addpageguides": [
+"11910D",
+"202020"
+],
+"addparameter": [
+"11910D",
+"202020"
+],
+"addparentnode": [
+"006CBF",
+"11910D",
+"202020"
+],
+"addphone": [
+"11910D",
+"202020"
+],
+"addproperty": [
+"11910D",
+"202020"
+],
+"addquery": [
+"11910D",
+"202020",
+"B27C00"
+],
+"addreference": [
+"11910D",
+"202020"
+],
+"addrelationship": [
+"11910D",
+"202020"
+],
+"addremoteserver": [
+"11910D",
+"202020"
+],
+"addresseditor": [
+"006CBF",
+"11910D",
+"202020"
+],
+"addrightframe": [
+"11910D",
+"202020"
+],
+"addrow": [
+"11910D",
+"202020"
+],
+"addrulerhorizontal": [
+"11910D",
+"B27C00"
+],
+"addrulervertical": [
+"11910D",
+"B27C00"
+],
+"addscreen": [
+"11910D",
+"202020"
+],
+"addsnippet": [
+"11910D",
+"202020"
+],
+"addstate": [
+"11910D",
+"202020"
+],
+"addstategroup": [
+"11910D",
+"202020"
+],
+"addstylerule": [
+"11910D",
+"202020"
+],
+"addtable": [
+"11910D",
+"202020"
+],
+"addtablet": [
+"11910D",
+"202020"
+],
+"addteamproject": [
+"11910D",
+"202020"
+],
+"addtest": [
+"11910D",
+"159195",
+"202020"
+],
+"addtestgroup": [
+"11910D",
+"159195",
+"202020"
+],
+"addtextfile": [
+"11910D",
+"202020"
+],
+"addthread": [
+"006CBF",
+"11910D",
+"5C2E91"
+],
+"addtocollection": [
+"11910D",
+"202020"
+],
+"addtodependancygraph": [
+"11910D",
+"202020"
+],
+"addtodependancygraphancestor": [
+"11910D",
+"202020"
+],
+"addtopframe": [
+"11910D",
+"202020"
+],
+"addtorowabove": [
+"006CBF",
+"202020"
+],
+"addtorowbelow": [
+"006CBF",
+"202020"
+],
+"addtosolutionexplorer": [
+"11910D",
+"B27C00"
+],
+"addtransition": [
+"11910D",
+"202020"
+],
+"adduser": [
+"11910D",
+"202020"
+],
+"addvariable": [
+"006CBF",
+"11910D"
+],
+"addwebform": [
+"006CBF",
+"11910D",
+"202020"
+],
+"addwebservice": [
+"006CBF",
+"11910D"
+],
+"addwebusercontrol": [
+"006CBF",
+"11910D",
+"202020"
+],
+"adrotator": [
+"006CBF",
+"202020"
+],
+"advancedbreakpointdisabled": [
+"C50F1F"
+],
+"advancedbreakpointenabled": [
+"C50F1F"
+],
+"advancedproductionbreakpointalert": [
+"006CBF",
+"5C2E91"
+],
+"advancedproductionbreakpointoff": [
+"5C2E91"
+],
+"advancedproductionbreakpointok": [
+"11910D",
+"5C2E91"
+],
+"advancedproductionbreakpointon": [
+"5C2E91"
+],
+"advancedproductiontracepointalert": [
+"006CBF",
+"5C2E91"
+],
+"advancedproductiontracepointoff": [
+"5C2E91"
+],
+"advancedproductiontracepointon": [
+"5C2E91"
+],
+"advancedtracepointdisabled": [
+"C50F1F"
+],
+"advancedtracepointenabled": [
+"C50F1F"
+],
+"advancedview": [
+"202020"
+],
+"agent": [
+"202020"
+],
+"aggregate": [
+"202020"
+],
+"aggregateadvancedview": [
+"11910D",
+"202020"
+],
+"aggregatecopy": [
+"202020"
+],
+"aggregatedesign": [
+"202020"
+],
+"aggregatedesignundefined": [
+"202020"
+],
+"aggregateerror": [
+"202020",
+"C50F1F"
+],
+"aggregatewarning": [
+"202020",
+"B27C00"
+],
+"airbrush": [
+"202020",
+"3487C7"
+],
+"alignbottom": [
+"202020"
+],
+"aligncenter": [
+"202020"
+],
+"alignhorizontalstretch": [
+"202020"
+],
+"alignleft": [
+"202020"
+],
+"alignmiddle": [
+"202020"
+],
+"alignright": [
+"202020"
+],
+"aligntogrid": [
+"202020"
+],
+"aligntop": [
+"202020"
+],
+"alignverticalstretch": [
+"202020"
+],
+"all": [
+"006CBF",
+"159195",
+"202020"
+],
+"allfieldsindatabase": [
+"202020",
+"3487C7"
+],
+"allloadedtests": [
+"006CBF",
+"159195",
+"202020"
+],
+"alphachannel": [
+"202020"
+],
+"alphatest": [
+"202020"
+],
+"alwaysvisible": [
+"202020"
+],
+"analysis": [
+"DE590B"
+],
+"analysisserverconnection": [
+"159195",
+"202020"
+],
+"analyzesparkle": [
+"202020"
+],
+"analyzetrace": [
+"006CBF",
+"11910D",
+"202020"
+],
+"android": [
+"34A853"
+],
+"animation": [
+"202020"
+],
+"animationerror": [
+"202020",
+"C50F1F"
+],
+"appearanceeditor": [
+"202020",
+"C50F1F"
+],
+"appearancegrid": [
+"202020"
+],
+"application": [
+"202020"
+],
+"applicationaccess": [
+"202020"
+],
+"applicationbar": [
+"202020"
+],
+"applicationbarcommand": [
+"006CBF",
+"202020"
+],
+"applicationbarmenu": [
+"202020"
+],
+"applicationclass": [
+"202020",
+"B27C00"
+],
+"applicationconnectiondiagram": [
+"202020"
+],
+"applicationenvironment": [
+"202020"
+],
+"applicationerror": [
+"202020",
+"C50F1F"
+],
+"applicationflyout": [
+"202020"
+],
+"applicationgroup": [
+"202020"
+],
+"applicationinsights": [
+"5C2E91"
+],
+"applicationonlysequence": [
+"006CBF",
+"202020"
+],
+"applicationprivate": [
+"202020"
+],
+"applicationrole": [
+"202020"
+],
+"applicationroleerror": [
+"202020",
+"C50F1F"
+],
+"applicationrolewarning": [
+"202020",
+"B27C00"
+],
+"applicationroot": [
+"202020"
+],
+"applicationwarning": [
+"202020",
+"B27C00"
+],
+"applycodechanges": [
+"11910D",
+"202020"
+],
+"applystyle": [
+"11910D",
+"202020"
+],
+"architectureexplorer": [
+"202020"
+],
+"arcpie": [
+"202020"
+],
+"arcring": [
+"202020"
+],
+"arcsegment": [
+"202020"
+],
+"areachart": [
+"202020",
+"3487C7"
+],
+"arrangeselection": [
+"006CBF",
+"202020"
+],
+"arrangeshapes": [
+"006CBF",
+"202020"
+],
+"artboardsplit": [
+"202020"
+],
+"aserif": [
+"202020"
+],
+"asmfile": [
+"202020"
+],
+"aspfile": [
+"006CBF",
+"202020"
+],
+"aspgenerichandlerfile": [
+"006CBF",
+"202020"
+],
+"aspireapplication": [
+"202020",
+"7C52AB",
+"9A70C9",
+"B88EE7",
+"CCA2EB",
+"E0B6F5"
+],
+"asprazorfile": [
+"006CBF",
+"202020"
+],
+"aspwebapplication": [
+"006CBF",
+"202020"
+],
+"aspwebsite": [
+"006CBF"
+],
+"assembly": [
+"202020"
+],
+"assemblyerror": [
+"202020",
+"C50F1F"
+],
+"assemblyexcluded": [
+"202020",
+"C50F1F"
+],
+"assemblyinfofile": [
+"202020"
+],
+"assemblywarning": [
+"202020",
+"B27C00"
+],
+"assign": [
+"006CBF",
+"202020"
+],
+"assignbuild": [
+"006CBF",
+"202020",
+"3487C7"
+],
+"assignedpart": [
+"11910D",
+"202020"
+],
+"assigntestertotest": [
+"159195",
+"202020"
+],
+"association": [
+"202020"
+],
+"associationeditor": [
+"006CBF",
+"202020"
+],
+"associationgroup": [
+"202020"
+],
+"associationline": [
+"202020"
+],
+"associationrelationship": [
+"202020"
+],
+"asterisk": [
+"202020"
+],
+"asymmetrickey": [
+"006CBF",
+"202020"
+],
+"asymmetrickeyerror": [
+"006CBF",
+"202020",
+"C50F1F"
+],
+"asymmetrickeywarning": [
+"006CBF",
+"202020",
+"B27C00"
+],
+"asynchronousmessage": [
+"006CBF",
+"202020"
+],
+"atl": [
+"202020"
+],
+"atlapplication": [
+"202020"
+],
+"atlaspcomponent": [
+"006CBF",
+"202020"
+],
+"atlcomponentwizard": [
+"202020"
+],
+"atlcontrol": [
+"202020",
+"B27C00"
+],
+"atldialog": [
+"202020"
+],
+"atlevent": [
+"202020",
+"B27C00"
+],
+"atlfile": [
+"202020"
+],
+"atlobject": [
+"202020"
+],
+"atlproperty": [
+"202020"
+],
+"atlserver": [
+"202020"
+],
+"atlwebservice": [
+"006CBF",
+"202020"
+],
+"attach": [
+"202020"
+],
+"attachdocument": [
+"202020"
+],
+"attachdynamictemplate": [
+"006CBF",
+"202020"
+],
+"attachstylesheet": [
+"202020"
+],
+"attribute": [
+"202020"
+],
+"attributekeydisabled": [
+"202020"
+],
+"attributerelationshipeditor": [
+"006CBF",
+"202020"
+],
+"audiomute": [
+"202020",
+"C50F1F"
+],
+"audioplayback": [
+"11910D",
+"202020"
+],
+"audiorecording": [
+"202020"
+],
+"autoarrangeshapes": [
+"006CBF",
+"202020"
+],
+"autocomplete": [
+"202020"
+],
+"autofilter": [
+"006CBF",
+"202020"
+],
+"autoformattable": [
+"006CBF",
+"202020"
+],
+"automergeall": [
+"006CBF",
+"202020"
+],
+"autoscrolltocurrentframe": [
+"006CBF",
+"202020"
+],
+"autosizecolumn": [
+"006CBF",
+"202020"
+],
+"autosizefixedwidth": [
+"006CBF",
+"202020"
+],
+"autosizeoptimize": [
+"202020"
+],
+"autosizestretch": [
+"006CBF",
+"202020"
+],
+"autosum": [
+"202020"
+],
+"autoswindow": [
+"006CBF",
+"202020"
+],
+"autotest": [
+"006CBF",
+"159195",
+"202020"
+],
+"autothumbnail": [
+"006CBF",
+"202020",
+"B27C00"
+],
+"axis": [
+"202020"
+],
+"axisx": [
+"006CBF",
+"202020"
+],
+"axisy": [
+"006CBF",
+"202020"
+],
+"azure": [
+"006CBF"
+],
+"azureactivedirectory": [
+"0095D7",
+"53B1E0",
+"79D7F2",
+"9CEBFF"
+],
+"azureapiapp": [
+"0072C6",
+"00BCF2",
+"682878"
+],
+"azureapimanagementservices": [
+"1BA1E2",
+"652D90"
+],
+"azureappconfiguration": [
+"007ACC",
+"76BC2D",
+"FCB714"
+],
+"azureappservice": [
+"0078D4",
+"949494"
+],
+"azureazurite": [
+"005BA1",
+"0078D4",
+"50E6FF"
+],
+"azurebehaviorssdk": [
+"5C2E91",
+"767676",
+"949494"
+],
+"azurecontainerapp": [
+"32BEDD",
+"773ADC",
+"A67AF4",
+"F4F4F4"
+],
+"azurecontainerappenvironment": [
+"773ADC",
+"949494",
+"A67AF4"
+],
+"azurecontainerregistry": [
+"0078D4",
+"4F4F4F",
+"767676",
+"949494",
+"A3A3A3",
+"B3B3B3"
+],
+"azurecontainerservices": [
+"5C2E91"
+],
+"azurecopyservice": [
+"258277",
+"37C2B1",
+"BFBFBF"
+],
+"azurecosmosdb": [
+"0078D4",
+"32BEDD"
+],
+"azurecosmosdbemulator": [
+"0072C6",
+"00BCF2",
+"424242",
+"F0EFF1"
+],
+"azuredatalakestorage": [
+"005BA1",
+"32BEDD"
+],
+"azuredevops": [
+"0078D4"
+],
+"azuredisks": [
+"005BA1",
+"0078D4",
+"5B9FEE",
+"5E9624",
+"76BC2D"
+],
+"azureeventgridsubscription": [
+"79D7F2",
+"848484"
+],
+"azurefunctionsapp": [
+"1490DF",
+"50E6FF",
+"FEA11B"
+],
+"azurekeyvault": [
+"0072C6",
+"F28300",
+"FCB714"
+],
+"azurekubernetesservice": [
+"341A6E",
+"9659E8",
+"B77AF4"
+],
+"azureloganalyticsworkspaces": [
+"007ACC",
+"50E6FF"
+],
+"azuremachinelearningworkspace": [
+"198AB3",
+"32BEDD"
+],
+"azuremobileapp": [
+"32D4F5",
+"3999C6",
+"424242",
+"50E6FF",
+"555555",
+"9CEBFF",
+"C3F1FF"
+],
+"azureoffline": [
+"006CBF",
+"C50F1F"
+],
+"azurerediscache": [
+"007ACC",
+"32BEDD",
+"50E6FF",
+"DFDFDF"
+],
+"azurerediscacheemulator": [
+"007ACC",
+"32BEDD",
+"424242",
+"50E6FF",
+"DFDFDF",
+"F0EFF1"
+],
+"azureresourcegroup": [
+"2FA2C8",
+"32BEDD",
+"32D4F5",
+"50E6FF",
+"949494",
+"9CEBFF",
+"A3A3A3"
+],
+"azureservicebus": [
+"00539C",
+"32BEDD",
+"3999C6",
+"50E6FF",
+"848484"
+],
+"azureserviceconnector": [
+"32BEDD",
+"50E6FF",
+"773ADC",
+"9CEBFF",
+"B796F9"
+],
+"azureservicefabric": [
+"DD5900",
+"FF8C00"
+],
+"azuresignalr": [
+"0078D4",
+"F2F2F2"
+],
+"azurespringcloudapp": [
+"5FB832"
+],
+"azurespringcloudservice": [
+"00539C",
+"5FB832"
+],
+"azuresqldatabase": [
+"00539C",
+"32BEDD",
+"50E6FF",
+"DFDFDF"
+],
+"azurestack": [
+"0078D4",
+"32BEDD"
+],
+"azurestaticapps": [
+"005BA1",
+"0078D4",
+"5EA0EF"
+],
+"azurestorageaccount": [
+"258277",
+"37C2B1",
+"C1C1C1"
+],
+"azurestorageemulator": [
+"258277",
+"37C2B1",
+"424242",
+"BFBFBF",
+"F0EFF1"
+],
+"azuresubscriptionkey": [
+"F28300",
+"FCB714"
+],
+"azurevirtualmachine": [
+"0078D4",
+"2FA2C8",
+"32BEDD",
+"32D4F5",
+"50E6FF",
+"7A7A7A",
+"9CEBFF"
+],
+"azurevmscaleset": [
+"0078D4",
+"2FA2C8",
+"32BEDD",
+"32D4F5",
+"50E6FF",
+"7A7A7A",
+"9CEBFF"
+],
+"azurewarning": [
+"006CBF",
+"B27C00"
+],
+"azurewebjobs": [
+"0078D4",
+"949494"
+],
+"azurewebsites": [
+"0078D4"
+],
+"backgroundcolor": [
+"006CBF",
+"202020"
+],
+"backgroundworker": [
+"006CBF",
+"202020"
+],
+"backslash": [
+"202020"
+],
+"backwards": [
+"006CBF"
+],
+"balancebrace": [
+"202020"
+],
+"barchart": [
+"202020",
+"3487C7"
+],
+"batchcheckin": [
+"006CBF",
+"202020"
+],
+"battery": [
+"11910D",
+"202020"
+],
+"bdcmodelresource": [
+"006CBF",
+"3487C7"
+],
+"bdcmodeltemplate": [
+"006CBF",
+"202020",
+"3487C7"
+],
+"behavior": [
+"202020"
+],
+"behavioreditor": [
+"202020"
+],
+"beveljoint": [
+"202020"
+],
+"bi": [
+"202020"
+],
+"bidirectional": [
+"006CBF"
+],
+"binary": [
+"202020"
+],
+"binaryfile": [
+"202020"
+],
+"binaryregistryvalue": [
+"202020"
+],
+"binding": [
+"202020"
+],
+"bindingnavigator": [
+"202020",
+"3487C7"
+],
+"bindingsource": [
+"202020",
+"3487C7"
+],
+"bing": [
+"1355F4",
+"47C2FC",
+"4CE7ED"
+],
+"bios": [
+"202020"
+],
+"blank": [],
+"blankapplication": [
+"202020"
+],
+"blankfile": [
+"202020"
+],
+"blankphone": [
+"202020"
+],
+"blankwebsite": [
+"202020"
+],
+"blazor": [
+"512BD4"
+],
+"blendaboutboxbackground": [
+"5C2D91",
+"FFFFFF"
+],
+"blendphone": [
+"202020",
+"20AC9D"
+],
+"blendphonepanorama": [
+"202020",
+"20AC9D"
+],
+"blendphonepivot": [
+"202020",
+"20AC9D"
+],
+"blendsilverlight": [
+"202020",
+"20AC9D"
+],
+"blendsketchflow": [
+"202020",
+"20AC9D"
+],
+"blendsplashscreenbackground": [
+"202020",
+"20AC9D"
+],
+"blockerror": [
+"202020",
+"C50F1F"
+],
+"blockselection": [
+"006CBF",
+"202020"
+],
+"bluechannel": [
+"006CBF"
+],
+"bold": [
+"202020"
+],
+"bookmark": [
+"202020"
+],
+"bookmarkdisabled": [
+"202020"
+],
+"bookmarkgroupdisabled": [
+"202020"
+],
+"bookmarkmainmenuitem": [
+"202020"
+],
+"booleandata": [
+"202020"
+],
+"borderelement": [
+"006CBF",
+"202020"
+],
+"borders": [
+"202020"
+],
+"bottomborder": [
+"202020"
+],
+"bottomleftoftwocolumnsleftsplit": [
+"202020"
+],
+"bottomleftoftworowsbottomsplit": [
+"202020"
+],
+"bottomleftoftworowstwocolumns": [
+"202020"
+],
+"bottomrightoftwocolumnsrightsplit": [
+"202020"
+],
+"bottomrightoftworowsbottomsplit": [
+"202020"
+],
+"bottomrightoftworowstwocolumns": [
+"202020"
+],
+"bottomrowoftworowstopsplit": [
+"202020"
+],
+"boundbreakpoint": [
+"C50F1F"
+],
+"boundcheckboxfieldcolumn": [
+"202020",
+"3487C7"
+],
+"boundimagecolumn": [
+"202020"
+],
+"bower": [
+"00ACEE",
+"2BAF2B",
+"543729",
+"CECECE",
+"EF5734",
+"FFCC2F"
+],
+"box": [
+"202020"
+],
+"boxplotchart": [
+"202020"
+],
+"branch": [
+"202020"
+],
+"branchchild": [
+"006CBF",
+"202020"
+],
+"branchcompare": [
+"202020"
+],
+"branchcontainschanges": [
+"11910D",
+"202020"
+],
+"branchcousin": [
+"006CBF",
+"202020"
+],
+"branchfork": [
+"202020"
+],
+"branchgroup": [
+"202020"
+],
+"branchnocolor": [
+"202020"
+],
+"branchparent": [
+"006CBF",
+"202020"
+],
+"branchpermissions": [
+"202020"
+],
+"branchrelationship": [
+"202020"
+],
+"branchremote": [
+"006CBF",
+"202020"
+],
+"branchsibling": [
+"006CBF",
+"202020"
+],
+"branchuploaded": [
+"11910D",
+"202020"
+],
+"breakpointavailable": [
+"202020"
+],
+"breakpointdependent": [
+"C50F1F"
+],
+"breakpointdependentdisabled": [
+"C50F1F"
+],
+"breakpointdependenterror": [
+"C50F1F"
+],
+"breakpointdependentwarning": [
+"B27C00",
+"C50F1F"
+],
+"breakpointdisabled": [
+"C50F1F"
+],
+"breakpointenabled": [
+"C50F1F"
+],
+"breakpointerror": [
+"C50F1F"
+],
+"breakpointswindow": [
+"202020",
+"C50F1F"
+],
+"breakpointtemporary": [
+"C50F1F"
+],
+"breakpointtemporaryavailable": [
+"202020"
+],
+"breakpointtemporarydisabled": [
+"C50F1F"
+],
+"breakpointtemporaryerror": [
+"C50F1F"
+],
+"breakpointtemporarywarning": [
+"B27C00",
+"C50F1F"
+],
+"breakpointwarning": [
+"B27C00",
+"C50F1F"
+],
+"brightness": [
+"202020"
+],
+"bringforward": [
+"006CBF",
+"202020"
+],
+"bringtofront": [
+"006CBF",
+"202020"
+],
+"brokerpriority": [
+"006CBF",
+"202020"
+],
+"browsedata": [
+"006CBF",
+"202020"
+],
+"browsedefinition": [
+"006CBF",
+"202020"
+],
+"browsenext": [
+"006CBF",
+"202020"
+],
+"browseprevious": [
+"006CBF",
+"202020"
+],
+"browserlink": [
+"006CBF",
+"202020"
+],
+"browsersdk": [
+"202020"
+],
+"brush": [
+"202020",
+"3487C7"
+],
+"brushxformarrow": [
+"202020"
+],
+"bubblechart": [
+"202020",
+"3487C7"
+],
+"bug": [
+"202020"
+],
+"buildcollection": [
+"202020"
+],
+"builddefinition": [
+"006CBF",
+"202020"
+],
+"builddynamicvaluegroup": [
+"006CBF",
+"202020"
+],
+"builderrorlist": [
+"202020",
+"C50F1F"
+],
+"buildmatchallfilter": [
+"006CBF",
+"202020"
+],
+"buildqueue": [
+"202020"
+],
+"buildselection": [
+"006CBF",
+"202020"
+],
+"buildsolution": [
+"006CBF",
+"202020"
+],
+"buildstyle": [
+"006CBF",
+"202020"
+],
+"bulletlist": [
+"202020"
+],
+"bulletlistsparkle": [
+"202020"
+],
+"bulletpanel": [
+"006CBF",
+"202020"
+],
+"businessobjectdatasource": [
+"006CBF"
+],
+"butterflygraphmode": [
+"202020"
+],
+"button": [
+"202020"
+],
+"buttonclick": [
+"006CBF",
+"202020"
+],
+"buttongroup": [
+"202020"
+],
+"buttonicon": [
+"202020",
+"B27C00"
+],
+"cabproject": [
+"202020"
+],
+"cache": [
+"3487C7",
+"B27C00"
+],
+"cacheerror": [
+"3487C7",
+"B27C00",
+"C50F1F"
+],
+"cachegroup": [
+"3487C7",
+"B27C00"
+],
+"cacheok": [
+"11910D",
+"3487C7",
+"B27C00"
+],
+"cacheproperty": [
+"202020",
+"3487C7",
+"B27C00"
+],
+"cacherefresh": [
+"006CBF",
+"3487C7",
+"B27C00"
+],
+"calculatemember": [
+"202020"
+],
+"calculateprimarykey": [
+"202020"
+],
+"calculationwarning": [
+"202020",
+"B27C00"
+],
+"calculator": [
+"202020"
+],
+"calculatormethod": [
+"202020",
+"5C2E91"
+],
+"calendar": [
+"202020"
+],
+"call": [
+"202020"
+],
+"callbehavioraction": [
+"202020"
+],
+"callbrowser": [
+"006CBF",
+"202020"
+],
+"callbrowsersettings": [
+"202020"
+],
+"callercalleeview": [
+"006CBF",
+"202020"
+],
+"callfrom": [
+"006CBF",
+"202020"
+],
+"callfrommethod": [
+"006CBF",
+"202020",
+"5C2E91"
+],
+"callhierarchy": [
+"202020"
+],
+"calloperationaction": [
+"202020"
+],
+"callout": [
+"202020"
+],
+"calloutcloud": [
+"202020"
+],
+"calloutoval": [
+"202020"
+],
+"calloutrectangle": [
+"202020"
+],
+"calloutroundedrectangle": [
+"202020"
+],
+"callreturninstructionpointer": [
+"11910D",
+"202020"
+],
+"callreturninstructionpointeralert": [
+"006CBF",
+"11910D",
+"202020"
+],
+"callstackwindow": [
+"006CBF",
+"202020"
+],
+"callthread": [
+"006CBF",
+"202020"
+],
+"callto": [
+"006CBF",
+"202020"
+],
+"calltomethod": [
+"006CBF",
+"202020",
+"5C2E91"
+],
+"camera": [
+"159195",
+"202020"
+],
+"cameradisabled": [
+"159195",
+"202020"
+],
+"cameraorbit": [
+"202020"
+],
+"cameraoutline": [
+"159195",
+"202020"
+],
+"cancel": [
+"C50F1F"
+],
+"cancelbuild": [
+"202020",
+"C50F1F"
+],
+"cancellationscope": [
+"202020",
+"C50F1F"
+],
+"cancelperformancereport": [
+"11910D",
+"202020",
+"C50F1F"
+],
+"cancelquery": [
+"202020",
+"B27C00",
+"C50F1F"
+],
+"canceltest": [
+"159195",
+"202020",
+"C50F1F"
+],
+"cancelxsischema": [
+"202020",
+"C50F1F"
+],
+"candlestickchart": [
+"202020",
+"3487C7"
+],
+"canvaselement": [
+"202020"
+],
+"captiontag": [
+"202020"
+],
+"captureframe": [
+"202020"
+],
+"carousel": [
+"202020"
+],
+"cascadingdropdown": [
+"202020"
+],
+"caselookupcolumn": [
+"006CBF",
+"202020"
+],
+"casetable": [
+"202020"
+],
+"casetablecolumn": [
+"202020"
+],
+"catalogzone": [
+"202020"
+],
+"categorizedview": [
+"202020"
+],
+"categoryaxis": [
+"202020",
+"B27C00"
+],
+"categorypageitemtemplate": [
+"202020"
+],
+"cctproject": [
+"202020",
+"3487C7"
+],
+"cd": [
+"006CBF"
+],
+"cddrive": [
+"006CBF",
+"202020"
+],
+"cellformula": [
+"202020",
+"5C2E91"
+],
+"centerhorizontally": [
+"202020"
+],
+"centervertically": [
+"202020"
+],
+"certificate": [
+"202020"
+],
+"certificateerror": [
+"202020",
+"C50F1F"
+],
+"certificatewarning": [
+"202020",
+"B27C00"
+],
+"cfile": [
+"202020",
+"5C2E91"
+],
+"changepassword": [
+"006CBF",
+"202020"
+],
+"changeset": [
+"202020"
+],
+"changesetgroup": [
+"202020"
+],
+"changesetmergeacross": [
+"11910D",
+"202020"
+],
+"changesetmergedown": [
+"11910D",
+"202020"
+],
+"changesetmergeup": [
+"11910D",
+"202020"
+],
+"changesourcecontrol": [
+"11910D",
+"202020",
+"B27C00"
+],
+"chartfilter": [
+"006CBF",
+"202020",
+"3487C7"
+],
+"chartwizard": [
+"202020",
+"3487C7"
+],
+"checkadd": [
+"11910D",
+"202020"
+],
+"checkboxchecked": [
+"202020"
+],
+"checkboxdisabled": [
+"202020"
+],
+"checkboxfieldcolumnchecked": [
+"202020"
+],
+"checkboxfieldcolumnunchecked": [
+"202020"
+],
+"checkboxgroup": [
+"202020"
+],
+"checkboxlist": [
+"202020"
+],
+"checkboxmixed": [
+"202020"
+],
+"checkboxunchecked": [
+"202020"
+],
+"checkconstraint": [
+"202020"
+],
+"checkconstrainterror": [
+"202020",
+"C50F1F"
+],
+"checkconstraintgroup": [
+"202020"
+],
+"checkdot": [
+"202020"
+],
+"checkedin": [
+"006CBF"
+],
+"checkedinnode": [
+"006CBF"
+],
+"checkedoutbyotheruser": [
+"202020"
+],
+"checkedoutbyotherusernode": [
+"202020"
+],
+"checkedoutforedit": [
+"C50F1F"
+],
+"checkedoutforeditnode": [
+"C50F1F"
+],
+"checkerboardround": [
+"202020"
+],
+"checkerboardsquare": [
+"202020"
+],
+"checkin": [
+"006CBF",
+"202020"
+],
+"checkinitem": [
+"006CBF",
+"202020"
+],
+"checkinshelveset": [
+"006CBF",
+"202020"
+],
+"checklist": [
+"202020"
+],
+"checkmark": [
+"202020"
+],
+"checkoutforedit": [
+"006CBF",
+"202020"
+],
+"checkoutitem": [
+"006CBF",
+"202020"
+],
+"checkpoint": [
+"006CBF",
+"202020"
+],
+"checkpointbuild": [
+"202020",
+"3487C7"
+],
+"childwindow": [
+"202020"
+],
+"childwindowtemplate": [
+"202020"
+],
+"choose": [
+"006CBF",
+"202020"
+],
+"choosetarget": [
+"11910D",
+"202020"
+],
+"class": [
+"B27C00"
+],
+"classcollection": [
+"202020",
+"B27C00"
+],
+"classdetails": [
+"202020",
+"B27C00"
+],
+"classfile": [
+"202020",
+"B27C00"
+],
+"classinternal": [
+"202020",
+"B27C00"
+],
+"classlibrary": [
+"202020",
+"B27C00"
+],
+"classmethodreference": [
+"006CBF",
+"202020"
+],
+"classmethodreferenceambiguous": [
+"006CBF",
+"5C2E91"
+],
+"classmissing": [
+"202020",
+"B27C00"
+],
+"classprivate": [
+"202020",
+"B27C00"
+],
+"classprotected": [
+"202020",
+"B27C00"
+],
+"classpublic": [
+"B27C00"
+],
+"classsealed": [
+"202020",
+"B27C00"
+],
+"classshortcut": [
+"202020",
+"B27C00"
+],
+"cleandata": [
+"202020",
+"B27C00"
+],
+"clearbookmark": [
+"202020",
+"C50F1F"
+],
+"clearbreakpointgroup": [
+"202020",
+"C50F1F"
+],
+"clearcollection": [
+"202020",
+"C50F1F"
+],
+"cleardictionary": [
+"202020",
+"C50F1F"
+],
+"clearsort": [
+"202020",
+"C50F1F"
+],
+"clearwindowcontent": [
+"202020",
+"C50F1F"
+],
+"clickonce": [
+"006CBF",
+"202020"
+],
+"clientstatistics": [
+"202020"
+],
+"cloakorhide": [
+"202020"
+],
+"clonetodesktop": [
+"006CBF",
+"202020"
+],
+"close": [
+"202020"
+],
+"closeall": [
+"202020"
+],
+"closedcaption": [
+"202020"
+],
+"closedocument": [
+"202020"
+],
+"closedocumentgroup": [
+"202020"
+],
+"closelog": [
+"159195",
+"202020"
+],
+"closesolution": [
+"202020"
+],
+"cloud": [
+"3487C7"
+],
+"cloudblobs": [
+"006CBF",
+"202020",
+"3487C7"
+],
+"cloudbusinessapplication": [
+"11910D",
+"202020"
+],
+"cloudconfigurationfile": [
+"202020",
+"3487C7"
+],
+"cloudconsole": [
+"202020",
+"3487C7"
+],
+"clouddatabase": [
+"3487C7"
+],
+"clouddownload": [
+"006CBF",
+"3487C7"
+],
+"clouderror": [
+"3487C7",
+"C50F1F"
+],
+"cloudfile": [
+"202020",
+"3487C7"
+],
+"cloudgroup": [
+"3487C7"
+],
+"cloudok": [
+"11910D",
+"3487C7"
+],
+"cloudpackage": [
+"202020",
+"3487C7"
+],
+"cloudrefresh": [
+"006CBF",
+"3487C7"
+],
+"cloudrun": [
+"11910D",
+"3487C7"
+],
+"cloudserver": [
+"202020",
+"3487C7"
+],
+"cloudservice": [
+"202020",
+"3487C7"
+],
+"cloudservicebus": [
+"006CBF",
+"3487C7"
+],
+"cloudstaging": [
+"202020",
+"3487C7"
+],
+"cloudstagingok": [
+"11910D",
+"202020",
+"3487C7"
+],
+"cloudstagingrefresh": [
+"006CBF",
+"202020",
+"3487C7"
+],
+"cloudstagingstopped": [
+"202020",
+"3487C7",
+"C50F1F"
+],
+"cloudstopped": [
+"3487C7",
+"C50F1F"
+],
+"cloudupload": [
+"006CBF",
+"3487C7"
+],
+"cloudwarning": [
+"3487C7",
+"B27C00"
+],
+"cluster": [
+"202020"
+],
+"clusteredindex": [
+"202020"
+],
+"clusteredindexerror": [
+"202020",
+"C50F1F"
+],
+"clusteredindexwarning": [
+"202020",
+"B27C00"
+],
+"cmaketargets": [
+"202020",
+"3465A4",
+"73D216",
+"CC0000"
+],
+"code": [
+"202020"
+],
+"codeactivity": [
+"006CBF",
+"202020"
+],
+"codeanalysiswindow": [
+"006CBF",
+"202020"
+],
+"codecoverage": [
+"006CBF",
+"202020"
+],
+"codecoveragedisabled": [
+"006CBF",
+"202020",
+"C50F1F"
+],
+"codedefinitionwindow": [
+"006CBF",
+"202020"
+],
+"codeerrorrule": [
+"202020",
+"C50F1F"
+],
+"codehiddenrule": [
+"202020"
+],
+"codeinformation": [
+"202020"
+],
+"codeinformationerror": [
+"202020",
+"C50F1F"
+],
+"codeinformationprivate": [
+"202020"
+],
+"codeinformationrule": [
+"006CBF",
+"202020"
+],
+"codeinformationwarning": [
+"202020",
+"B27C00"
+],
+"codelens": [
+"006CBF",
+"202020"
+],
+"codemetrics": [
+"11910D",
+"202020"
+],
+"codereview": [
+"202020"
+],
+"codereviewdashboard": [
+"202020",
+"DE590B"
+],
+"codereviewwizard": [
+"202020"
+],
+"codesuppressedrule": [
+"202020"
+],
+"codetest": [
+"159195",
+"202020"
+],
+"codewarningrule": [
+"202020",
+"B27C00"
+],
+"colapseleftgroup": [
+"202020"
+],
+"collapse": [
+"202020"
+],
+"collapseall": [
+"202020"
+],
+"collapseleft": [
+"202020"
+],
+"collapseup": [
+"202020"
+],
+"collapseupgroup": [
+"202020"
+],
+"collapsiblepanel": [
+"006CBF",
+"202020"
+],
+"collectionpageitemtemplate": [
+"202020"
+],
+"colordialog": [
+"006CBF",
+"11910D",
+"202020",
+"3487C7",
+"C50F1F"
+],
+"colorpalette": [
+"006CBF",
+"11910D",
+"202020",
+"B27C00",
+"C50F1F"
+],
+"colorpicker": [
+"202020",
+"3487C7"
+],
+"colorscale": [
+"202020"
+],
+"colorwheel": [
+"006CBF",
+"11910D",
+"202020",
+"A33FB1",
+"B27C00",
+"C50F1F",
+"DE590B"
+],
+"column": [
+"202020"
+],
+"columnbutton": [
+"202020"
+],
+"columnchart": [
+"202020",
+"3487C7"
+],
+"columncomponent": [
+"006CBF",
+"202020"
+],
+"columndetails": [
+"006CBF",
+"202020"
+],
+"columnerror": [
+"202020",
+"C50F1F"
+],
+"columngroup": [
+"202020"
+],
+"columnkeychecked": [
+"202020"
+],
+"columnkeyunchecked": [
+"202020"
+],
+"columnlabels": [
+"006CBF",
+"202020"
+],
+"columnlink": [
+"006CBF",
+"202020"
+],
+"columnmissing": [
+"202020"
+],
+"columnnullratioprofile": [
+"202020"
+],
+"columnpatternprofile": [
+"202020"
+],
+"columnpredict": [
+"202020"
+],
+"columnpredictchecked": [
+"202020"
+],
+"columnpredictunchecked": [
+"202020"
+],
+"columnsettings": [
+"202020"
+],
+"columnwarning": [
+"202020",
+"B27C00"
+],
+"com": [
+"202020"
+],
+"combobox": [
+"202020"
+],
+"comboboxitem": [
+"006CBF",
+"202020"
+],
+"comcontractfile": [
+"202020"
+],
+"comerror": [
+"202020",
+"C50F1F"
+],
+"comma": [
+"202020"
+],
+"commanduioption": [
+"202020"
+],
+"comment": [
+"202020"
+],
+"commentcode": [
+"11910D",
+"202020"
+],
+"commentgroup": [
+"202020"
+],
+"commentlink": [
+"202020"
+],
+"commentsparkle": [
+"202020"
+],
+"commit": [
+"202020"
+],
+"comparedatabases": [
+"006CBF",
+"3487C7"
+],
+"comparefiles": [
+"006CBF",
+"202020"
+],
+"comparefolders": [
+"006CBF",
+"B27C00"
+],
+"compareperformancereports": [
+"006CBF",
+"11910D",
+"202020"
+],
+"compareschemas": [
+"006CBF",
+"202020"
+],
+"comparetargetdatabase": [
+"006CBF",
+"3487C7"
+],
+"comparevalidator": [
+"202020"
+],
+"compensate": [
+"006CBF",
+"202020"
+],
+"compilablefile": [
+"006CBF",
+"202020"
+],
+"compile": [
+"006CBF",
+"202020"
+],
+"compiledhelpfile": [
+"006CBF",
+"202020"
+],
+"completeword": [
+"006CBF",
+"202020"
+],
+"completionmode": [
+"006CBF",
+"202020"
+],
+"complexproperty": [
+"202020",
+"B27C00"
+],
+"component": [
+"202020"
+],
+"componentdiagram": [
+"202020"
+],
+"componentfile": [
+"202020"
+],
+"compositetask": [
+"202020"
+],
+"composition": [
+"202020"
+],
+"comprivate": [
+"202020"
+],
+"computedcolumn": [
+"202020"
+],
+"computedcolumndisabled": [
+"202020"
+],
+"computedcolumnerror": [
+"202020",
+"C50F1F"
+],
+"computedcolumnwarning": [
+"202020",
+"B27C00"
+],
+"computer": [
+"202020"
+],
+"computerservice": [
+"202020"
+],
+"comwarning": [
+"202020",
+"B27C00"
+],
+"conditionalloop": [
+"202020"
+],
+"conditionalrule": [
+"202020"
+],
+"conditionalruleifthen": [
+"202020"
+],
+"conepreview": [
+"3487C7"
+],
+"configurationeditor": [
+"202020"
+],
+"configurationfile": [
+"202020"
+],
+"configurecomputer": [
+"202020"
+],
+"configuredatabasewizard": [
+"3487C7"
+],
+"confirmbutton": [
+"11910D",
+"202020"
+],
+"conflict": [
+"202020"
+],
+"connectarrow": [
+"006CBF"
+],
+"connectedservices": [
+"159195",
+"3487C7"
+],
+"connectionbuilder": [
+"202020"
+],
+"connectionoffline": [
+"202020"
+],
+"connectionwarning": [
+"202020",
+"B27C00"
+],
+"connectionzone": [
+"202020"
+],
+"connector": [
+"202020"
+],
+"connecttestplan": [
+"159195",
+"202020"
+],
+"connecttodatabase": [
+"159195",
+"3487C7"
+],
+"connecttoenvironment": [
+"159195",
+"202020"
+],
+"connecttoremoteserver": [
+"159195",
+"202020"
+],
+"connecttowebsite": [
+"006CBF",
+"159195"
+],
+"console": [
+"202020"
+],
+"consoletest": [
+"159195",
+"202020"
+],
+"constant": [
+"006CBF",
+"202020"
+],
+"constantinternal": [
+"006CBF",
+"202020"
+],
+"constantprivate": [
+"006CBF",
+"202020"
+],
+"constantprotected": [
+"006CBF",
+"202020"
+],
+"constantpublic": [
+"006CBF",
+"202020"
+],
+"constantsealed": [
+"006CBF",
+"202020"
+],
+"constantshortcut": [
+"006CBF",
+"202020"
+],
+"contactcard": [
+"202020"
+],
+"container": [
+"202020"
+],
+"containsdynamicvalueproperty": [
+"006CBF",
+"202020"
+],
+"contentcontrolelement": [
+"202020"
+],
+"contentinstaller": [
+"202020"
+],
+"contentplaceholder": [
+"202020"
+],
+"contentpresenter": [
+"202020"
+],
+"contenttype": [
+"202020"
+],
+"contextmenu": [
+"006CBF",
+"202020"
+],
+"contract": [
+"202020"
+],
+"contractarrow": [
+"202020"
+],
+"contracterror": [
+"202020",
+"C50F1F"
+],
+"contractsettings": [
+"202020"
+],
+"contractwarning": [
+"202020",
+"B27C00"
+],
+"control": [
+"202020"
+],
+"controlaltdel": [
+"202020"
+],
+"controlflow": [
+"202020"
+],
+"convertbranchtofolder": [
+"006CBF",
+"202020",
+"B27C00"
+],
+"convertfoldertobranch": [
+"006CBF",
+"202020",
+"B27C00"
+],
+"convertpartition": [
+"006CBF",
+"202020"
+],
+"converttocodewebtest": [
+"006CBF",
+"159195",
+"202020"
+],
+"converttohyperlink": [
+"006CBF",
+"202020"
+],
+"copy": [
+"202020"
+],
+"copydynamicvalue": [
+"006CBF",
+"202020"
+],
+"copyitem": [
+"202020"
+],
+"copywebsite": [
+"006CBF"
+],
+"cordovamultidevice": [
+"202020"
+],
+"correlation": [
+"006CBF",
+"202020"
+],
+"correlationscope": [
+"006CBF",
+"202020"
+],
+"countattributes": [
+"202020"
+],
+"countcollection": [
+"202020"
+],
+"countdictionary": [
+"202020"
+],
+"countdynamicvalue": [
+"006CBF",
+"202020"
+],
+"counter": [
+"202020"
+],
+"cppaddatlsupporttomfc": [
+"202020",
+"A33FB1"
+],
+"cppatlapplication": [
+"202020",
+"A33FB1"
+],
+"cppatlaspcomponent": [
+"202020",
+"A33FB1"
+],
+"cppatlcontrol": [
+"202020",
+"A33FB1"
+],
+"cppatldatabase": [
+"202020",
+"A33FB1"
+],
+"cppatldialog": [
+"202020",
+"A33FB1"
+],
+"cppatldynamiclibrary": [
+"202020",
+"A33FB1"
+],
+"cppatlevent": [
+"202020",
+"A33FB1"
+],
+"cppatlfile": [
+"202020",
+"A33FB1"
+],
+"cppatlobject": [
+"202020",
+"A33FB1"
+],
+"cppatlproperty": [
+"202020",
+"A33FB1"
+],
+"cppatlserver": [
+"202020",
+"A33FB1"
+],
+"cppatlwebservice": [
+"202020",
+"A33FB1"
+],
+"cppblankapplication": [
+"202020"
+],
+"cppblankphone": [
+"202020"
+],
+"cppclasslibrary": [
+"202020",
+"A33FB1"
+],
+"cppconsole": [
+"A33FB1"
+],
+"cppcustomwizardproject": [
+"202020"
+],
+"cppdirectxthreedapplication": [
+"202020",
+"A33FB1"
+],
+"cppdirectxtwodapplication": [
+"202020",
+"A33FB1"
+],
+"cppfile": [
+"A33FB1"
+],
+"cppfilenode": [
+"A33FB1"
+],
+"cppfixedlayoutapplication": [
+"202020",
+"A33FB1"
+],
+"cppgridapplication": [
+"202020",
+"A33FB1"
+],
+"cppheaderfile": [
+"202020"
+],
+"cpphubapplication": [
+"202020",
+"A33FB1"
+],
+"cppmakefileapplication": [
+"202020",
+"A33FB1"
+],
+"cppmarkupxml": [
+"202020",
+"A33FB1"
+],
+"cppmfcactivex": [
+"202020",
+"A33FB1"
+],
+"cppmfcapplication": [
+"202020",
+"A33FB1"
+],
+"cppmfcclass": [
+"202020",
+"A33FB1"
+],
+"cppmfcdatabase": [
+"202020",
+"A33FB1"
+],
+"cppmfcdynamiclibrary": [
+"202020",
+"A33FB1"
+],
+"cppmfclibrary": [
+"202020",
+"A33FB1"
+],
+"cppminimalrebuilddependencyfile": [
+"006CBF",
+"202020",
+"A33FB1"
+],
+"cppnavigationapplication": [
+"202020",
+"A33FB1"
+],
+"cppphone": [
+"A33FB1"
+],
+"cppphonehub": [
+"202020",
+"A33FB1"
+],
+"cppphonepivot": [
+"202020",
+"A33FB1"
+],
+"cppphonetest": [
+"202020",
+"A33FB1"
+],
+"cppphonewebsite": [
+"202020",
+"A33FB1"
+],
+"cppprojectfilterfile": [
+"202020",
+"A33FB1"
+],
+"cppprojectnode": [
+"202020",
+"A33FB1"
+],
+"cppsharedproject": [
+"A33FB1"
+],
+"cppsourcefile": [
+"202020",
+"A33FB1"
+],
+"cppsplitapplication": [
+"202020",
+"A33FB1"
+],
+"cppsqldatabase": [
+"A33FB1"
+],
+"cppstoredprocedure": [
+"202020"
+],
+"cpptablet": [
+"A33FB1"
+],
+"cpptest": [
+"202020",
+"A33FB1"
+],
+"cpptestapplication": [
+"202020",
+"A33FB1"
+],
+"cpptestlibrary": [
+"202020",
+"A33FB1"
+],
+"cppwebservice": [
+"A33FB1"
+],
+"cppwin32application": [
+"202020"
+],
+"cppwindowsformsapplication": [
+"202020"
+],
+"cppwindowsservice": [
+"202020"
+],
+"crashdumpfile": [
+"202020"
+],
+"createmessage": [
+"202020",
+"3487C7"
+],
+"createpropertybrush": [
+"11910D",
+"202020"
+],
+"createpullrequest": [
+"11910D",
+"202020"
+],
+"crossgrouplink": [
+"202020"
+],
+"crystalreport": [
+"202020"
+],
+"csapplication": [
+"11910D"
+],
+"csassembyinfofile": [
+"11910D"
+],
+"csbdcmodel": [
+"11910D",
+"202020"
+],
+"csblankapplication": [
+"202020"
+],
+"csblankfile": [
+"202020"
+],
+"csblankphone": [
+"202020"
+],
+"csblankwebsite": [
+"202020"
+],
+"csclasscollection": [
+"11910D",
+"202020"
+],
+"csclassfile": [
+"11910D",
+"202020"
+],
+"csclasslibrary": [
+"11910D",
+"202020"
+],
+"cscloudbusinessapplication": [
+"11910D"
+],
+"cscodetest": [
+"11910D",
+"202020"
+],
+"cscolumn": [
+"11910D"
+],
+"csconsole": [
+"11910D"
+],
+"csconsoletest": [
+"11910D",
+"202020"
+],
+"cscontenttype": [
+"11910D",
+"202020"
+],
+"csdeploymentmodule": [
+"11910D",
+"202020"
+],
+"csdevicetest": [
+"11910D",
+"202020"
+],
+"csdynamicwebsite": [
+"11910D",
+"202020"
+],
+"cseventreceiver": [
+"11910D",
+"202020"
+],
+"csextension": [
+"11910D"
+],
+"csfile": [
+"11910D"
+],
+"csfilenode": [
+"11910D"
+],
+"csfixedlayoutapplication": [
+"11910D",
+"202020"
+],
+"csgridapplication": [
+"11910D",
+"202020"
+],
+"cshubapplication": [
+"11910D",
+"202020"
+],
+"csinteractivewindow": [
+"202020"
+],
+"csinterface": [
+"11910D"
+],
+"csinterfacecollection": [
+"11910D",
+"202020"
+],
+"cslibrary": [
+"11910D"
+],
+"cslightswitch": [
+"11910D"
+],
+"cslightswitchlibrary": [
+"11910D",
+"202020"
+],
+"cslistdefinition": [
+"11910D",
+"202020"
+],
+"csmenuitemcustomaction": [
+"11910D",
+"202020"
+],
+"csnavigationapplication": [
+"11910D",
+"202020"
+],
+"cspackage": [
+"11910D"
+],
+"csphone": [
+"11910D"
+],
+"csphonehub": [
+"11910D",
+"202020"
+],
+"csphonelibrary": [
+"11910D",
+"202020"
+],
+"csphonepivot": [
+"11910D",
+"202020"
+],
+"csphonetest": [
+"11910D",
+"202020"
+],
+"csphonewebapplication": [
+"11910D",
+"202020"
+],
+"csphonewebsite": [
+"11910D",
+"202020"
+],
+"csprojectnode": [
+"11910D",
+"202020"
+],
+"csrazorfile": [
+"11910D",
+"202020"
+],
+"csreport": [
+"202020"
+],
+"csribboncustomaction": [
+"11910D",
+"202020"
+],
+"cssclass": [
+"202020"
+],
+"csselement": [
+"202020"
+],
+"csservicebusworker": [
+"202020"
+],
+"cssharedproject": [
+"11910D"
+],
+"cssilverlight": [
+"11910D"
+],
+"cssilverlightlibrary": [
+"11910D",
+"202020"
+],
+"cssilverlightphone": [
+"11910D",
+"202020"
+],
+"cssilverlighttest": [
+"11910D",
+"202020"
+],
+"cssilverlightwebsite": [
+"11910D",
+"202020"
+],
+"cssitedefinition": [
+"202020"
+],
+"csslink": [
+"11910D",
+"202020"
+],
+"cssourcefile": [
+"11910D",
+"202020"
+],
+"cssplitapplication": [
+"11910D",
+"202020"
+],
+"cssqllibrary": [
+"11910D",
+"202020"
+],
+"cssstyleerror": [
+"006CBF",
+"202020",
+"C50F1F"
+],
+"cstablet": [
+"11910D"
+],
+"cstestapplication": [
+"11910D",
+"202020"
+],
+"cstestlibrary": [
+"11910D",
+"202020"
+],
+"cswcf": [
+"11910D"
+],
+"cswebapplication": [
+"11910D",
+"202020"
+],
+"csweblilbrary": [
+"11910D",
+"202020"
+],
+"cswebpart": [
+"11910D",
+"202020"
+],
+"cswebservice": [
+"11910D"
+],
+"cswebsitetemplate": [
+"11910D",
+"202020"
+],
+"cswf": [
+"11910D"
+],
+"cswindowslibary": [
+"11910D",
+"202020"
+],
+"cswindowsservice": [
+"202020"
+],
+"csworkertemplatefile": [
+"11910D",
+"202020"
+],
+"csworkflow": [
+"11910D"
+],
+"csworkflowactivity": [
+"11910D"
+],
+"csworkflowassociationform": [
+"11910D",
+"202020"
+],
+"csworkflowdiagram": [
+"11910D"
+],
+"csworkflowinitiationform": [
+"11910D",
+"202020"
+],
+"csworkflowmanageractivity": [
+"11910D"
+],
+"cswpfapplication": [
+"11910D",
+"202020"
+],
+"cswpflibrary": [
+"11910D",
+"202020"
+],
+"cswpfusercontrol": [
+"11910D",
+"202020"
+],
+"cswpfwebsite": [
+"11910D",
+"202020"
+],
+"cubeanddimension": [
+"202020"
+],
+"cubebuilderview": [
+"202020",
+"5C2E91"
+],
+"cubedimension": [
+"202020"
+],
+"currency": [
+"202020"
+],
+"currentcontextarrow": [
+"202020"
+],
+"currentfile": [
+"202020"
+],
+"currentflowdecision": [
+"B27C00"
+],
+"currentflowswitch": [
+"B27C00"
+],
+"currentinstructionpointer": [
+"202020",
+"F2C661"
+],
+"currentinstructionpointerpaused": [
+"006CBF",
+"202020",
+"F2C661"
+],
+"currentinstructionpointerstopped": [
+"006CBF",
+"202020",
+"F2C661"
+],
+"currentlocationarrow": [
+"202020"
+],
+"cursor": [
+"006CBF"
+],
+"cursorfile": [
+"006CBF",
+"202020"
+],
+"curve": [
+"202020"
+],
+"customaction": [
+"006CBF",
+"202020"
+],
+"customactioneditor": [
+"006CBF",
+"202020"
+],
+"customcontrol": [
+"006CBF",
+"202020"
+],
+"customcss": [
+"006CBF",
+"202020"
+],
+"customerrormessage": [
+"202020",
+"C50F1F"
+],
+"customvalidator": [
+"11910D",
+"202020"
+],
+"cut": [
+"202020"
+],
+"cylinder": [
+"202020"
+],
+"d": [
+"202020"
+],
+"dacapplications": [
+"202020",
+"3487C7"
+],
+"darktheme": [
+"202020"
+],
+"dash": [
+"202020"
+],
+"databar": [
+"006CBF",
+"11910D",
+"202020",
+"C50F1F"
+],
+"database": [
+"3487C7"
+],
+"databaseapplication": [
+"202020",
+"3487C7"
+],
+"databaseauditspecification": [
+"006CBF",
+"3487C7"
+],
+"databaseauditspecificationoff": [
+"006CBF",
+"202020",
+"3487C7"
+],
+"databasecolumn": [
+"202020",
+"3487C7"
+],
+"databaseconfigurationfile": [
+"202020",
+"3487C7"
+],
+"databasedestination": [
+"006CBF",
+"202020",
+"3487C7"
+],
+"databasedetailsview": [
+"202020",
+"3487C7"
+],
+"databasefile": [
+"202020",
+"3487C7"
+],
+"databasegroup": [
+"3487C7"
+],
+"databasegrouperror": [
+"3487C7",
+"C50F1F"
+],
+"databaselibrary": [
+"202020",
+"3487C7"
+],
+"databasemarkup": [
+"202020",
+"3487C7"
+],
+"databasemethod": [
+"3487C7",
+"5C2E91"
+],
+"databasemobileconnection": [
+"202020",
+"3487C7"
+],
+"databasemodelrefresh": [
+"006CBF",
+"3487C7"
+],
+"databaseoffline": [
+"202020",
+"3487C7"
+],
+"databasepaused": [
+"006CBF",
+"3487C7"
+],
+"databaseperformane": [
+"202020",
+"3487C7"
+],
+"databaseproject": [
+"202020",
+"3487C7"
+],
+"databaseproperty": [
+"202020",
+"3487C7"
+],
+"databasereference": [
+"202020",
+"3487C7"
+],
+"databasereport": [
+"202020",
+"3487C7"
+],
+"databaserole": [
+"202020",
+"3487C7"
+],
+"databaseroleerror": [
+"202020",
+"3487C7",
+"C50F1F"
+],
+"databaserolewarning": [
+"202020",
+"3487C7",
+"B27C00"
+],
+"databaserunning": [
+"11910D",
+"3487C7"
+],
+"databaseschema": [
+"202020",
+"3487C7"
+],
+"databasescript": [
+"202020",
+"3487C7"
+],
+"databasesettings": [
+"202020",
+"3487C7"
+],
+"databasesource": [
+"006CBF",
+"3487C7"
+],
+"databasestopped": [
+"3487C7",
+"C50F1F"
+],
+"databasestoredprocedures": [
+"202020",
+"3487C7"
+],
+"databasetablegroup": [
+"202020",
+"3487C7"
+],
+"databasetest": [
+"159195",
+"202020",
+"3487C7"
+],
+"databaseunknown": [
+"006CBF",
+"3487C7"
+],
+"databasevariable": [
+"006CBF",
+"3487C7"
+],
+"databasewarning": [
+"3487C7",
+"B27C00"
+],
+"databindingsource": [
+"202020",
+"3487C7"
+],
+"datacenter": [
+"202020"
+],
+"datacompare": [
+"006CBF",
+"3487C7"
+],
+"datafield": [
+"006CBF",
+"202020"
+],
+"dataform": [
+"006CBF",
+"202020"
+],
+"datagenerationplan": [
+"006CBF",
+"202020",
+"3487C7"
+],
+"datagenerator": [
+"006CBF",
+"202020",
+"3487C7"
+],
+"datagrid": [
+"202020",
+"3487C7"
+],
+"datalist": [
+"202020"
+],
+"datamining": [
+"202020",
+"B27C00"
+],
+"dataminingcolumn": [
+"202020",
+"B27C00"
+],
+"dataminingdimension": [
+"202020",
+"B27C00"
+],
+"dataminingmethod": [
+"202020",
+"5C2E91",
+"B27C00"
+],
+"dataminingprediction": [
+"006CBF",
+"202020",
+"B27C00"
+],
+"dataminingquery": [
+"202020",
+"B27C00"
+],
+"dataminingstructure": [
+"202020",
+"B27C00"
+],
+"dataminingviewer": [
+"202020"
+],
+"datapager": [
+"006CBF",
+"202020"
+],
+"datarepeater": [
+"202020",
+"3487C7"
+],
+"dataserver": [
+"202020",
+"3487C7"
+],
+"datasetreference": [
+"202020",
+"3487C7"
+],
+"datasource": [
+"3487C7"
+],
+"datasourcereference": [
+"159195",
+"202020"
+],
+"datasourcetarget": [
+"202020",
+"3487C7"
+],
+"datasourceview": [
+"202020",
+"3487C7"
+],
+"datatable": [
+"202020",
+"3487C7"
+],
+"datetimeaxis": [
+"202020"
+],
+"datetimepicker": [
+"202020"
+],
+"debugcheckedtests": [
+"11910D",
+"202020"
+],
+"debughistoryseektoframe": [
+"006CBF",
+"202020"
+],
+"debuginteractivewindow": [
+"11910D",
+"202020"
+],
+"debugselection": [
+"11910D",
+"159195",
+"202020"
+],
+"debugsparkle": [
+"202020"
+],
+"debugtemplate": [
+"11910D",
+"202020"
+],
+"debugxslt": [
+"11910D",
+"202020"
+],
+"decisionnode": [
+"202020"
+],
+"decisiontree": [
+"202020"
+],
+"declaration": [
+"202020"
+],
+"declarativecatalogpart": [
+"006CBF",
+"202020"
+],
+"decreasedecimals": [
+"006CBF",
+"202020"
+],
+"decreasefontsize": [
+"006CBF",
+"202020"
+],
+"decreasehorizontalspacing": [
+"006CBF",
+"202020"
+],
+"decreaseindent": [
+"006CBF",
+"202020"
+],
+"decreaseverticalspacing": [
+"006CBF",
+"202020"
+],
+"deepdev": [
+"0D7012",
+"56B60E",
+"9ADE49"
+],
+"defaultconstraint": [
+"202020"
+],
+"defaultconstrainterror": [
+"202020",
+"C50F1F"
+],
+"defaultconstraintwarning": [
+"202020",
+"B27C00"
+],
+"defineinheritance": [
+"11910D",
+"202020"
+],
+"delayworkflow": [
+"11910D",
+"202020"
+],
+"delegate": [
+"202020",
+"8661C5"
+],
+"delegateinternal": [
+"202020",
+"8661C5"
+],
+"delegateprivate": [
+"202020",
+"8661C5"
+],
+"delegateprotected": [
+"202020",
+"8661C5"
+],
+"delegatepublic": [
+"202020",
+"8661C5"
+],
+"delegatesealed": [
+"202020",
+"8661C5"
+],
+"delegateshortcut": [
+"202020",
+"8661C5"
+],
+"delegation": [
+"202020"
+],
+"delete": [
+"202020"
+],
+"deleteattachment": [
+"202020",
+"C50F1F"
+],
+"deletebreakpoint": [
+"C50F1F"
+],
+"deletecell": [
+"006CBF",
+"202020",
+"C50F1F"
+],
+"deleteclause": [
+"202020",
+"C50F1F"
+],
+"deletecolumn": [
+"202020",
+"C50F1F"
+],
+"deletecolumns": [
+"202020",
+"C50F1F"
+],
+"deletedatabase": [
+"3487C7",
+"C50F1F"
+],
+"deletedimensiontranslation": [
+"006CBF",
+"202020",
+"C50F1F"
+],
+"deletedocument": [
+"202020",
+"C50F1F"
+],
+"deleteentity": [
+"B27C00",
+"C50F1F"
+],
+"deletefilter": [
+"202020",
+"C50F1F"
+],
+"deletefolder": [
+"B27C00",
+"C50F1F"
+],
+"deletegroup": [
+"202020",
+"C50F1F"
+],
+"deletelistitem": [
+"202020",
+"C50F1F"
+],
+"deletemessage": [
+"202020",
+"C50F1F"
+],
+"deleteparameter": [
+"202020",
+"C50F1F"
+],
+"deleteperspective": [
+"202020",
+"C50F1F"
+],
+"deleteproperty": [
+"202020",
+"C50F1F"
+],
+"deletequery": [
+"202020",
+"B27C00",
+"C50F1F"
+],
+"deleterelationship": [
+"202020",
+"C50F1F"
+],
+"deletestep": [
+"202020",
+"C50F1F"
+],
+"deletetable": [
+"202020",
+"C50F1F"
+],
+"deletetablecolumn": [
+"202020",
+"C50F1F"
+],
+"deletetablerow": [
+"202020",
+"C50F1F"
+],
+"deletetag": [
+"202020",
+"C50F1F"
+],
+"deletetasklist": [
+"202020",
+"C50F1F"
+],
+"deletetranslation": [
+"006CBF",
+"202020",
+"C50F1F"
+],
+"deletevariables": [
+"202020",
+"C50F1F"
+],
+"deletewatch": [
+"202020",
+"C50F1F"
+],
+"deleteworkflow": [
+"11910D",
+"202020",
+"C50F1F"
+],
+"dependancy": [
+"202020"
+],
+"dependancygraph": [
+"202020"
+],
+"dependancygraphancestor": [
+"202020"
+],
+"dependencymatrix": [
+"202020"
+],
+"dependencywarning": [
+"202020",
+"B27C00"
+],
+"deploydatabase": [
+"006CBF",
+"202020",
+"3487C7"
+],
+"deploymentapplication": [
+"202020"
+],
+"deploymentconfiguration": [
+"202020"
+],
+"deploymentconfigurationextension": [
+"202020",
+"B27C00"
+],
+"deploymentfile": [
+"202020"
+],
+"depthtest": [
+"006CBF",
+"202020"
+],
+"derivedcolumn": [
+"006CBF",
+"202020"
+],
+"deriveddatamining": [
+"11910D",
+"202020",
+"B27C00",
+"C50F1F"
+],
+"descriptiontemplate": [
+"006CBF",
+"202020"
+],
+"descriptionviewer": [
+"006CBF",
+"202020"
+],
+"designmode": [
+"202020",
+"B27C00"
+],
+"designstorage": [
+"11910D",
+"202020"
+],
+"destinationassistant": [
+"006CBF",
+"202020"
+],
+"detaildataview": [
+"202020"
+],
+"detailpageitemtemplate": [
+"202020"
+],
+"detailview": [
+"202020"
+],
+"devicetest": [
+"159195",
+"202020"
+],
+"devtunnels": [
+"006CBF"
+],
+"dgslfile": [
+"202020",
+"343434",
+"474747",
+"5B5B5B",
+"6E6E6E",
+"818181",
+"949494",
+"A7A7A7",
+"BABABA",
+"CECECE",
+"E1E1E1",
+"F4F4F4"
+],
+"diagram": [
+"202020"
+],
+"diagramerror": [
+"202020",
+"C50F1F"
+],
+"diagramwarning": [
+"202020",
+"B27C00"
+],
+"dialog": [
+"202020"
+],
+"dialoggroup": [
+"202020"
+],
+"dialogtemplate": [
+"202020"
+],
+"diamond": [
+"202020"
+],
+"dictionary": [
+"202020"
+],
+"dictionarycontains": [
+"202020"
+],
+"diff": [
+"11910D",
+"202020",
+"C50F1F"
+],
+"dimensionbrowserview": [
+"006CBF",
+"202020"
+],
+"dimensionbuilderview": [
+"202020"
+],
+"dimensiontranslationview": [
+"006CBF",
+"202020"
+],
+"dimensionusageview": [
+"202020"
+],
+"dimensionwriteback": [
+"006CBF",
+"202020"
+],
+"directionlight": [
+"006CBF",
+"202020"
+],
+"directlinklist": [
+"202020"
+],
+"directxthreed": [
+"202020"
+],
+"directxthreedapplication": [
+"202020"
+],
+"directxtwodapplication": [
+"202020"
+],
+"disableallbreakpointdependents": [
+"C50F1F"
+],
+"disableallbreakpoints": [
+"202020"
+],
+"disableallbreakpointsredgroup": [
+"C50F1F"
+],
+"disablecode": [
+"202020"
+],
+"disassemblywindow": [
+"006CBF",
+"202020"
+],
+"disconnect": [
+"159195"
+],
+"displayconfiguration": [
+"202020"
+],
+"displayfullsignature": [
+"202020"
+],
+"displayname": [
+"202020"
+],
+"displaynone": [
+"202020"
+],
+"distributehorizontalcenter": [
+"202020"
+],
+"distributeverticalcenter": [
+"202020"
+],
+"dividemember": [
+"006CBF",
+"202020"
+],
+"dividememberformula": [
+"006CBF",
+"202020"
+],
+"dividepath": [
+"202020"
+],
+"divtag": [
+"202020"
+],
+"dmachannel": [
+"006CBF",
+"202020"
+],
+"dock": [
+"006CBF",
+"202020"
+],
+"dockbottom": [
+"006CBF",
+"202020"
+],
+"docker": [
+"0091E2"
+],
+"dockpanel": [
+"202020"
+],
+"dockright": [
+"006CBF",
+"202020"
+],
+"dockto": [
+"006CBF",
+"202020"
+],
+"document": [
+"202020"
+],
+"documentcollection": [
+"202020"
+],
+"documenterror": [
+"202020",
+"C50F1F"
+],
+"documentexclude": [
+"202020",
+"C50F1F"
+],
+"documentgroup": [
+"202020"
+],
+"documentgrouperror": [
+"202020",
+"C50F1F"
+],
+"documentgroupwarning": [
+"202020",
+"B27C00"
+],
+"documentok": [
+"11910D",
+"202020"
+],
+"documentoutline": [
+"006CBF",
+"202020"
+],
+"documentsfolder": [
+"202020",
+"B27C00"
+],
+"documentsource": [
+"006CBF",
+"202020"
+],
+"documenttag": [
+"202020"
+],
+"documentviewer": [
+"202020"
+],
+"documentwarning": [
+"202020",
+"B27C00"
+],
+"domaincontroller": [
+"202020"
+],
+"domainscrollvertical": [
+"202020"
+],
+"domaintype": [
+"202020"
+],
+"dotnet": [
+"512BD4"
+],
+"dotnetcoreconsole": [
+"0095D6",
+"424242",
+"F6F6F6",
+"FFFFFF"
+],
+"dotnetframeworkdependency": [
+"202020"
+],
+"dotnetphone": [
+"202020"
+],
+"dotnetphoneerror": [
+"006CBF",
+"202020",
+"C50F1F"
+],
+"dottedsplitter": [
+"202020"
+],
+"doughnutchart": [
+"202020",
+"3487C7"
+],
+"dowhile": [
+"006CBF",
+"202020"
+],
+"download": [
+"202020"
+],
+"downloaddocument": [
+"006CBF",
+"202020"
+],
+"downloadfolder": [
+"006CBF",
+"B27C00"
+],
+"downloadlog": [
+"006CBF",
+"159195",
+"202020"
+],
+"downloadnocolor": [
+"202020"
+],
+"downloadwebsettings": [
+"006CBF",
+"202020"
+],
+"dragdropcontrol": [
+"006CBF",
+"202020"
+],
+"dragdropgroupcontrol": [
+"006CBF",
+"202020"
+],
+"draggedcurrentinstructionpointer": [
+"202020"
+],
+"draggedinstructionpointerpaused": [
+"006CBF",
+"202020"
+],
+"draghandle": [
+"202020"
+],
+"dragpanel": [
+"006CBF",
+"202020"
+],
+"drilldown": [
+"006CBF",
+"202020",
+"3487C7"
+],
+"driver": [
+"202020"
+],
+"driverpackage": [
+"202020"
+],
+"drivertest": [
+"159195",
+"202020"
+],
+"driververifier": [
+"11910D",
+"202020"
+],
+"droppointtarget": [
+"006CBF",
+"202020"
+],
+"dropshadow": [
+"202020"
+],
+"dslash": [
+"202020"
+],
+"dtscustomtask": [
+"006CBF",
+"202020"
+],
+"dtsfilesystem": [
+"202020",
+"B27C00"
+],
+"dtsvisualizer": [
+"202020"
+],
+"dynamic": [
+"202020"
+],
+"dynamicdatafield": [
+"006CBF",
+"202020"
+],
+"dynamicdiscoverydocument": [
+"006CBF",
+"202020"
+],
+"dynamicentity": [
+"006CBF",
+"B27C00"
+],
+"dynamicgroup": [
+"006CBF",
+"202020"
+],
+"dynamichyperlink": [
+"006CBF",
+"202020"
+],
+"dynamicimage": [
+"006CBF",
+"202020",
+"B27C00"
+],
+"dynamiclibrary": [
+"006CBF",
+"202020"
+],
+"dynamicmenu": [
+"006CBF",
+"202020"
+],
+"dynamicphone": [
+"006CBF",
+"202020"
+],
+"dynamicpopulate": [
+"006CBF",
+"202020"
+],
+"dynamicprocedure": [
+"006CBF",
+"202020"
+],
+"dynamicscrm": [
+"424242"
+],
+"dynamictable": [
+"006CBF",
+"202020"
+],
+"dynamictemplate": [
+"006CBF",
+"202020"
+],
+"dynamictestsuite": [
+"006CBF",
+"159195",
+"202020",
+"B27C00"
+],
+"dynamicvalidator": [
+"11910D",
+"202020"
+],
+"dynamicvalue": [
+"006CBF",
+"202020"
+],
+"dynamicwebsite": [
+"006CBF",
+"202020"
+],
+"e2etracing": [
+"202020"
+],
+"edit": [
+"202020"
+],
+"editassociation": [
+"006CBF",
+"202020"
+],
+"editbug": [
+"006CBF",
+"202020"
+],
+"editcolumn": [
+"006CBF",
+"202020"
+],
+"editdatabase": [
+"006CBF",
+"3487C7"
+],
+"editdimension": [
+"006CBF",
+"202020"
+],
+"editdocument": [
+"006CBF",
+"202020"
+],
+"editdropdownlist": [
+"006CBF",
+"202020"
+],
+"editfielddialog": [
+"006CBF",
+"202020"
+],
+"editfilter": [
+"006CBF",
+"202020"
+],
+"editinput": [
+"006CBF",
+"202020"
+],
+"editkey": [
+"006CBF",
+"202020"
+],
+"editlabel": [
+"006CBF",
+"202020"
+],
+"editlayouttable": [
+"006CBF",
+"202020"
+],
+"editlink": [
+"006CBF",
+"202020"
+],
+"editmanifest": [
+"006CBF",
+"202020"
+],
+"editnotebook": [
+"006CBF",
+"159195",
+"202020"
+],
+"editor": [
+"202020"
+],
+"editorconfigfile": [
+"5C2E91"
+],
+"editorwarning": [
+"202020",
+"B27C00"
+],
+"editquery": [
+"006CBF",
+"202020",
+"B27C00"
+],
+"editrelationship": [
+"006CBF",
+"202020"
+],
+"editrowleft": [
+"006CBF",
+"202020"
+],
+"editrowright": [
+"006CBF",
+"202020"
+],
+"editsmarttag": [
+"006CBF",
+"202020"
+],
+"editstring": [
+"006CBF",
+"202020"
+],
+"edittag": [
+"006CBF",
+"202020"
+],
+"edittasklist": [
+"006CBF",
+"202020"
+],
+"edittooltip": [
+"006CBF",
+"202020"
+],
+"editwindow": [
+"006CBF",
+"202020"
+],
+"editzone": [
+"006CBF",
+"202020"
+],
+"effect": [
+"202020"
+],
+"effectdisabled": [
+"202020",
+"C50F1F"
+],
+"effectenabled": [
+"11910D",
+"202020"
+],
+"eightx": [
+"202020"
+],
+"elementhost": [
+"202020"
+],
+"elementid": [
+"202020"
+],
+"elementseparator": [
+"202020"
+],
+"ellipse": [
+"202020"
+],
+"ellipsis": [
+"202020"
+],
+"emailaddresseditor": [
+"006CBF",
+"202020"
+],
+"emailaddressviewer": [
+"202020"
+],
+"embeddedfont": [
+"202020"
+],
+"emptybucket": [
+"202020"
+],
+"emptycontainer": [
+"006CBF",
+"202020"
+],
+"enableallbreakpointdependents": [
+"C50F1F"
+],
+"enableallbreakpoints": [
+"202020"
+],
+"enableallbreakpointsredgroup": [
+"C50F1F"
+],
+"enablecode": [
+"11910D",
+"202020"
+],
+"encapsulatefield": [
+"006CBF",
+"202020"
+],
+"endcall": [
+"006CBF",
+"202020"
+],
+"endpoint": [
+"202020"
+],
+"endpointcomponent": [
+"202020"
+],
+"entities": [
+"202020"
+],
+"entitycontainer": [
+"202020",
+"B27C00"
+],
+"entitydatabase": [
+"3487C7",
+"B27C00"
+],
+"entityset": [
+"B27C00"
+],
+"entry": [
+"006CBF",
+"202020"
+],
+"entrypoint": [
+"202020"
+],
+"enumeration": [
+"006CBF"
+],
+"enumerationinternal": [
+"202020",
+"B27C00"
+],
+"enumerationiteminternal": [
+"006CBF",
+"202020"
+],
+"enumerationitemprivate": [
+"006CBF",
+"202020"
+],
+"enumerationitemprotected": [
+"006CBF",
+"202020"
+],
+"enumerationitempublic": [
+"006CBF"
+],
+"enumerationitemsealed": [
+"006CBF",
+"202020"
+],
+"enumerationitemshortcut": [
+"006CBF",
+"202020"
+],
+"enumerationitemsnippet": [
+"006CBF",
+"202020"
+],
+"enumerationprivate": [
+"202020",
+"B27C00"
+],
+"enumerationprotected": [
+"202020",
+"B27C00"
+],
+"enumerationpublic": [
+"B27C00"
+],
+"enumerationsealed": [
+"202020",
+"B27C00"
+],
+"enumerationshortcut": [
+"202020",
+"B27C00"
+],
+"enumerationsnippet": [
+"202020",
+"B27C00"
+],
+"environment": [
+"202020"
+],
+"environmenttemplate": [
+"202020"
+],
+"eraser": [
+"202020"
+],
+"errorbarchart": [
+"202020",
+"3487C7"
+],
+"errorsquiggleactive": [
+"202020",
+"C50F1F"
+],
+"errorsquigglecriticalactive": [
+"C50F1F"
+],
+"errorsquigglecriticalinactive": [
+"202020"
+],
+"errorsquiggleinactive": [
+"202020"
+],
+"errorsummary": [
+"006CBF",
+"202020"
+],
+"evencolumns": [
+"006CBF",
+"202020"
+],
+"evenrows": [
+"006CBF",
+"202020"
+],
+"event": [
+"B27C00"
+],
+"eventerror": [
+"B27C00",
+"C50F1F"
+],
+"eventfilter": [
+"006CBF",
+"B27C00"
+],
+"eventinternal": [
+"202020",
+"B27C00"
+],
+"eventlog": [
+"202020",
+"B27C00"
+],
+"eventlogfailureaudit": [
+"B27C00",
+"C50F1F"
+],
+"eventlogsuccessaudit": [
+"11910D",
+"B27C00"
+],
+"eventmissing": [
+"202020",
+"B27C00"
+],
+"eventprivate": [
+"202020",
+"B27C00"
+],
+"eventprotected": [
+"202020",
+"B27C00"
+],
+"eventpublic": [
+"B27C00"
+],
+"eventsealed": [
+"202020",
+"B27C00"
+],
+"eventsession": [
+"202020",
+"B27C00"
+],
+"eventshortcut": [
+"202020",
+"B27C00"
+],
+"eventsnippet": [
+"202020",
+"B27C00"
+],
+"eventtable": [
+"202020",
+"B27C00"
+],
+"eventtrigger": [
+"202020",
+"B27C00"
+],
+"eventwarning": [
+"B27C00"
+],
+"excelworksheetview": [
+"202020"
+],
+"exceptioninternal": [
+"202020"
+],
+"exceptionprivate": [
+"202020"
+],
+"exceptionprotected": [
+"202020"
+],
+"exceptionpublic": [
+"202020"
+],
+"exceptionsealed": [
+"202020"
+],
+"exceptionsettings": [
+"202020"
+],
+"exceptionshortcut": [
+"202020"
+],
+"exclamationpoint": [
+"C50F1F"
+],
+"exclamationpointnocolor": [
+"202020"
+],
+"excludemember": [
+"202020",
+"C50F1F"
+],
+"excludememberformula": [
+"202020",
+"C50F1F"
+],
+"excludepath": [
+"202020"
+],
+"excluderun": [
+"11910D",
+"C50F1F"
+],
+"executabletype": [
+"202020"
+],
+"execute": [
+"006CBF",
+"11910D",
+"202020"
+],
+"executeddl": [
+"006CBF",
+"202020"
+],
+"existingconnection": [
+"202020",
+"3487C7"
+],
+"existingconnectionformat": [
+"006CBF",
+"202020",
+"3487C7"
+],
+"existsincollection": [
+"11910D",
+"202020"
+],
+"exit": [
+"006CBF",
+"202020"
+],
+"exitfullscreen": [
+"006CBF",
+"202020"
+],
+"exlcudescript": [
+"202020",
+"C50F1F"
+],
+"expand": [
+"202020"
+],
+"expandablecontentcontrol": [
+"006CBF",
+"202020"
+],
+"expandall": [
+"202020"
+],
+"expandarrow": [
+"202020"
+],
+"expanddown": [
+"202020"
+],
+"expanddowngroup": [
+"202020"
+],
+"expander": [
+"202020"
+],
+"expandright": [
+"202020"
+],
+"expandrightgroup": [
+"202020"
+],
+"expandscope": [
+"202020"
+],
+"explodeddoughnutchart": [
+"202020",
+"3487C7"
+],
+"explodedpiechart": [
+"202020",
+"3487C7"
+],
+"export": [
+"202020"
+],
+"exportdata": [
+"006CBF",
+"3487C7"
+],
+"exportfilter": [
+"006CBF",
+"202020"
+],
+"exportperformancereport": [
+"006CBF",
+"11910D",
+"202020"
+],
+"exportscript": [
+"006CBF",
+"202020"
+],
+"exportsettings": [
+"006CBF",
+"202020"
+],
+"exporttestrunresults": [
+"006CBF",
+"11910D",
+"159195",
+"202020"
+],
+"extend": [
+"202020"
+],
+"extendedproperty": [
+"006CBF",
+"202020"
+],
+"extendedpropertyerror": [
+"006CBF",
+"202020",
+"C50F1F"
+],
+"extendedpropertywarning": [
+"006CBF",
+"202020",
+"B27C00"
+],
+"extension": [
+"202020"
+],
+"extensionapplication": [
+"202020"
+],
+"extensionmanifest": [
+"202020"
+],
+"extensionmethod": [
+"202020",
+"5C2E91"
+],
+"externalvariablevalue": [
+"006CBF",
+"202020"
+],
+"extractconstant": [
+"006CBF",
+"202020"
+],
+"extractinterface": [
+"006CBF"
+],
+"extractmethod": [
+"006CBF",
+"5C2E91"
+],
+"extralarge": [
+"202020"
+],
+"f1help": [
+"202020"
+],
+"facttable": [
+"202020"
+],
+"fastlinechart": [
+"202020",
+"3487C7"
+],
+"fastpointchart": [
+"202020",
+"3487C7"
+],
+"favorite": [
+"B27C00"
+],
+"feedback": [
+"202020"
+],
+"feedbackfrown": [
+"202020"
+],
+"feedbacksmile": [
+"202020"
+],
+"fetch": [
+"202020"
+],
+"field": [
+"006CBF"
+],
+"fieldinternal": [
+"006CBF",
+"202020"
+],
+"fieldmissing": [
+"006CBF",
+"202020"
+],
+"fieldprivate": [
+"006CBF",
+"202020"
+],
+"fieldprotected": [
+"006CBF",
+"202020"
+],
+"fieldpublic": [
+"006CBF"
+],
+"fieldsealed": [
+"006CBF",
+"202020"
+],
+"fieldshortcut": [
+"006CBF",
+"202020"
+],
+"fieldsnippet": [
+"006CBF",
+"202020"
+],
+"figurecaptiontag": [
+"006CBF",
+"202020",
+"B27C00"
+],
+"filedestination": [
+"006CBF",
+"202020"
+],
+"filedialogreport": [
+"202020",
+"B27C00"
+],
+"fileencodingdialog": [
+"006CBF",
+"202020"
+],
+"filegroupdefault": [
+"202020"
+],
+"filesummarydiff": [
+"202020"
+],
+"filesystemdriverfile": [
+"202020"
+],
+"filesystemdriverpackagefile": [
+"202020"
+],
+"filesystemeditor": [
+"202020"
+],
+"filesystemwatcher": [
+"202020"
+],
+"filetype": [
+"006CBF",
+"202020"
+],
+"fill": [
+"202020",
+"3487C7"
+],
+"filledcommentmedium": [
+"006CBF"
+],
+"filledellipse": [
+"202020"
+],
+"filledfilter": [
+"202020"
+],
+"filledrectangle": [
+"202020"
+],
+"filledroundedrectangle": [
+"202020"
+],
+"fillopacity": [
+"202020",
+"3487C7"
+],
+"filltransform": [
+"202020",
+"3487C7"
+],
+"filter": [
+"202020"
+],
+"filteralphabetically": [
+"006CBF",
+"202020"
+],
+"filterdescriptor": [
+"006CBF",
+"202020"
+],
+"filterdocument": [
+"006CBF",
+"202020"
+],
+"filteredtextbox": [
+"006CBF",
+"202020"
+],
+"filterfolderclosed": [
+"006CBF",
+"B27C00"
+],
+"filterfolderopened": [
+"006CBF",
+"B27C00"
+],
+"filterpendingchanges": [
+"006CBF",
+"202020"
+],
+"filterpinnedproperties": [
+"006CBF",
+"202020"
+],
+"filteruser": [
+"006CBF",
+"202020"
+],
+"finalstate": [
+"202020",
+"C50F1F"
+],
+"finddown": [
+"006CBF",
+"202020"
+],
+"findinfile": [
+"006CBF",
+"202020"
+],
+"findnext": [
+"006CBF",
+"202020"
+],
+"findprevious": [
+"006CBF",
+"202020"
+],
+"findsymbol": [
+"006CBF",
+"202020"
+],
+"firstindent": [
+"006CBF",
+"202020"
+],
+"firstoffourcolumns": [
+"202020"
+],
+"firstoffourrows": [
+"202020"
+],
+"firstofthreecolumns": [
+"202020"
+],
+"firstofthreerows": [
+"202020"
+],
+"firstoftwocolumns": [
+"202020"
+],
+"firstoftworows": [
+"202020"
+],
+"fitselection": [
+"006CBF",
+"202020"
+],
+"fittoscreen": [
+"202020"
+],
+"fixedlayoutappapplication": [
+"202020"
+],
+"flag": [
+"202020"
+],
+"flagblue": [
+"006CBF"
+],
+"flagdarkblue": [
+"00467E"
+],
+"flagdarkgreen": [
+"159195"
+],
+"flagdarkpurple": [
+"5C2E91"
+],
+"flagdarkred": [
+"C50F1F"
+],
+"flaggreen": [
+"11910D"
+],
+"flaggroup": [
+"202020"
+],
+"flagoutline": [
+"202020"
+],
+"flagpurple": [
+"A33FB1"
+],
+"flagred": [
+"DE590B"
+],
+"flagturquoise": [
+"3487C7"
+],
+"flatcap": [
+"202020"
+],
+"flatlist": [
+"202020"
+],
+"flatpivot": [
+"202020",
+"3487C7"
+],
+"flatview": [
+"202020"
+],
+"fliphorizontal": [
+"202020"
+],
+"flipvertical": [
+"202020"
+],
+"flipzorder": [
+"202020"
+],
+"floppydrive": [
+"006CBF",
+"202020"
+],
+"flowaggregation": [
+"202020"
+],
+"flowdecision": [
+"202020"
+],
+"flowlayoutpanel": [
+"202020"
+],
+"flowswitch": [
+"202020"
+],
+"fluidlayout": [
+"202020"
+],
+"focususer": [
+"006CBF",
+"202020"
+],
+"folderbottompanel": [
+"B27C00"
+],
+"folderbrowserdialogcontrol": [
+"202020",
+"B27C00"
+],
+"folderclosed": [
+"B27C00"
+],
+"foldercodeanalysis": [
+"11910D",
+"202020",
+"B27C00"
+],
+"foldererror": [
+"B27C00",
+"C50F1F"
+],
+"folderinformation": [
+"006CBF",
+"B27C00"
+],
+"folderoffline": [
+"202020",
+"B27C00"
+],
+"folderopened": [
+"B27C00"
+],
+"folderopenednocolor": [
+"202020"
+],
+"folderopenedwarning": [
+"B27C00"
+],
+"foldersuppressed": [
+"202020",
+"B27C00"
+],
+"foldertoppanel": [
+"B27C00"
+],
+"folderwarning": [
+"B27C00"
+],
+"font": [
+"202020"
+],
+"fontcolor": [
+"202020",
+"C50F1F"
+],
+"fontdialogcontrol": [
+"006CBF",
+"202020"
+],
+"fontfile": [
+"006CBF",
+"202020"
+],
+"fonticon": [
+"202020"
+],
+"fontsize": [
+"006CBF",
+"202020"
+],
+"forcedirectedlayout": [
+"202020"
+],
+"foreach": [
+"202020"
+],
+"foreachloop": [
+"202020"
+],
+"foregroundcolor": [
+"006CBF",
+"202020"
+],
+"foreignkey": [
+"202020"
+],
+"foreignkeyconstrainterror": [
+"202020",
+"C50F1F"
+],
+"foreignkeyconstraintwarning": [
+"202020",
+"B27C00"
+],
+"foreignkeyerror": [
+"202020",
+"C50F1F"
+],
+"foreignkeyrelationship": [
+"202020"
+],
+"foreignkeywarning": [
+"202020",
+"B27C00"
+],
+"fork": [
+"202020"
+],
+"forknode": [
+"202020"
+],
+"formatdocument": [
+"202020"
+],
+"formatpageleft": [
+"006CBF",
+"202020"
+],
+"formatpageright": [
+"006CBF",
+"202020"
+],
+"formatselection": [
+"006CBF",
+"202020"
+],
+"formattingtoolbar": [
+"202020"
+],
+"formdigest": [
+"006CBF",
+"11910D"
+],
+"forminstance": [
+"202020"
+],
+"formpostbodyparameternode": [
+"202020"
+],
+"formpostbodystringnode": [
+"202020"
+],
+"formtag": [
+"202020"
+],
+"forwards": [
+"006CBF"
+],
+"forwardslash": [
+"202020"
+],
+"fourcolumns": [
+"202020"
+],
+"fourrows": [
+"202020"
+],
+"fourthoffourcolumns": [
+"202020"
+],
+"fourthoffourrows": [
+"202020"
+],
+"fragment": [
+"202020"
+],
+"frameborder": [
+"202020"
+],
+"framecontainer": [
+"202020"
+],
+"frameselect": [
+"202020"
+],
+"frameset": [
+"202020"
+],
+"framework": [
+"202020"
+],
+"frameworkdesignstudio": [
+"006CBF",
+"202020"
+],
+"frameworkerror": [
+"202020",
+"C50F1F"
+],
+"frameworkprivate": [
+"202020"
+],
+"frameworkwarning": [
+"202020",
+"B27C00"
+],
+"freezerow": [
+"006CBF",
+"202020"
+],
+"fsapplication": [
+"5C2E91"
+],
+"fsblankapplication": [
+"202020"
+],
+"fsblankwebsite": [
+"202020"
+],
+"fsclasscollection": [
+"202020",
+"5C2E91"
+],
+"fsclasslibrary": [
+"202020",
+"5C2E91"
+],
+"fscodefile": [
+"202020",
+"5C2E91"
+],
+"fsconsole": [
+"5C2E91"
+],
+"fsconsoletest": [
+"202020",
+"5C2E91"
+],
+"fsfilenode": [
+"5C2E91"
+],
+"fshelpapplication": [
+"202020",
+"5C2E91"
+],
+"fsinteractivewindow": [
+"202020"
+],
+"fsinterfacecollection": [
+"202020",
+"5C2E91"
+],
+"fsprojectnode": [
+"202020",
+"5C2E91"
+],
+"fsscript": [
+"5C2E91"
+],
+"fssignaturefile": [
+"202020",
+"5C2E91"
+],
+"fssilverlightlibrary": [
+"202020",
+"5C2E91"
+],
+"fstestapplication": [
+"202020",
+"5C2E91"
+],
+"fswcf": [
+"5C2E91"
+],
+"fswebapplication": [
+"202020",
+"5C2E91"
+],
+"fswindowsformlibrary": [
+"202020",
+"5C2E91"
+],
+"fswindowsservice": [
+"202020"
+],
+"fsworkertemplatefile": [
+"202020",
+"5C2E91"
+],
+"fswpfapplication": [
+"202020",
+"5C2E91"
+],
+"fswpflibrary": [
+"202020",
+"5C2E91"
+],
+"fswpfusercontrol": [
+"202020",
+"5C2E91"
+],
+"ftpconnection": [
+"006CBF",
+"202020"
+],
+"ftpsites": [
+"006CBF"
+],
+"fullscreen": [
+"006CBF",
+"202020"
+],
+"fulltextstoplist": [
+"202020",
+"C50F1F"
+],
+"functionmissing": [
+"202020"
+],
+"functionwarning": [
+"202020",
+"B27C00"
+],
+"funnelchart": [
+"202020",
+"3487C7"
+],
+"fuzzygrouping": [
+"202020"
+],
+"fuzzylookup": [
+"006CBF",
+"202020"
+],
+"fxgfile": [
+"202020"
+],
+"gallery": [
+"202020"
+],
+"ganttchart": [
+"202020",
+"3487C7"
+],
+"gaugelinear": [
+"202020"
+],
+"gaugeround": [
+"11910D",
+"202020",
+"C50F1F"
+],
+"gaugeroundsparkle": [
+"11910D",
+"202020",
+"C50F1F"
+],
+"geminientrypoint": [
+"006CBF",
+"202020",
+"3487C7"
+],
+"generateallfromtemplate": [
+"006CBF",
+"202020"
+],
+"generateandrecordcode": [
+"006CBF",
+"202020",
+"C50F1F"
+],
+"generatechangescript": [
+"006CBF",
+"202020"
+],
+"generatecodefromrecording": [
+"006CBF",
+"202020"
+],
+"generatedependancies": [
+"006CBF",
+"11910D",
+"202020"
+],
+"generatefile": [
+"006CBF",
+"202020"
+],
+"generatemethod": [
+"006CBF",
+"5C2E91"
+],
+"generateresource": [
+"006CBF",
+"202020",
+"B27C00"
+],
+"generatetable": [
+"006CBF",
+"202020"
+],
+"generatethumbnail": [
+"006CBF",
+"202020"
+],
+"genericchart": [
+"202020"
+],
+"genericonlinetemplate": [
+"202020"
+],
+"generictask": [
+"202020"
+],
+"getaccessformat": [
+"006CBF",
+"202020"
+],
+"getdatabaseformat": [
+"006CBF",
+"202020",
+"3487C7"
+],
+"getdatafeedformat": [
+"006CBF",
+"202020"
+],
+"getdictionary": [
+"006CBF",
+"202020"
+],
+"getdocumentformat": [
+"006CBF",
+"202020"
+],
+"getdynamicvalueproperty": [
+"006CBF",
+"202020"
+],
+"getdynamicvaluepropertygroup": [
+"006CBF",
+"202020"
+],
+"getexcelformat": [
+"006CBF",
+"202020"
+],
+"getfromcollection": [
+"006CBF",
+"202020"
+],
+"getlatestversion": [
+"006CBF",
+"202020"
+],
+"getperformancedata": [
+"006CBF",
+"11910D",
+"202020"
+],
+"getreportformat": [
+"006CBF",
+"202020"
+],
+"getspecificversion": [
+"006CBF",
+"202020"
+],
+"gettextformat": [
+"006CBF",
+"202020"
+],
+"getwebsite": [
+"006CBF"
+],
+"git": [
+"F05133"
+],
+"github": [
+"202020"
+],
+"githubcodespaces": [
+"202020",
+"5C2E91"
+],
+"githubcopilot": [
+"202020"
+],
+"githubopenissue": [
+"11910D"
+],
+"gitnocolor": [
+"202020"
+],
+"gitrepository": [
+"202020",
+"F05133"
+],
+"gittoolwindow": [
+"202020",
+"F05133"
+],
+"globalcalendar": [
+"006CBF",
+"202020"
+],
+"globalvariable": [
+"006CBF",
+"202020"
+],
+"glyphdown": [
+"202020"
+],
+"glyphleft": [
+"202020"
+],
+"glyphright": [
+"202020"
+],
+"glyphup": [
+"202020"
+],
+"google": [
+"34A853",
+"4285F4",
+"EA4335",
+"FBBC05"
+],
+"gooutavailability": [
+"006CBF",
+"202020"
+],
+"gooutdashboard": [
+"006CBF",
+"11910D",
+"202020",
+"C50F1F"
+],
+"gooutperformancetrend": [
+"006CBF",
+"11910D",
+"202020"
+],
+"gooutusage": [
+"006CBF",
+"202020"
+],
+"gotobottom": [
+"202020"
+],
+"gotocurrentline": [
+"006CBF",
+"202020"
+],
+"gotodeclaration": [
+"006CBF",
+"202020"
+],
+"gotodefinition": [
+"006CBF",
+"202020"
+],
+"gotoevent": [
+"006CBF",
+"B27C00"
+],
+"gotofield": [
+"006CBF"
+],
+"gotofirst": [
+"202020"
+],
+"gotohotspot": [
+"006CBF",
+"C50F1F"
+],
+"gotolast": [
+"202020"
+],
+"gotomethod": [
+"006CBF",
+"5C2E91"
+],
+"gotonext": [
+"202020"
+],
+"gotonextcomment": [
+"006CBF",
+"202020"
+],
+"gotonextinlist": [
+"006CBF",
+"202020"
+],
+"gotonextmodified": [
+"006CBF",
+"202020"
+],
+"gotonextuncovered": [
+"006CBF",
+"202020"
+],
+"gotoprevious": [
+"202020"
+],
+"gotopreviouscomment": [
+"006CBF",
+"202020"
+],
+"gotopreviousinlist": [
+"006CBF",
+"202020"
+],
+"gotopreviousmodified": [
+"006CBF",
+"202020"
+],
+"gotopreviousuncovered": [
+"006CBF",
+"202020"
+],
+"gotoproperty": [
+"006CBF",
+"202020"
+],
+"gotorecordedtestsession": [
+"006CBF",
+"159195",
+"202020",
+"C50F1F"
+],
+"gotoreference": [
+"006CBF",
+"202020"
+],
+"gotorow": [
+"006CBF",
+"202020"
+],
+"gotosourcecode": [
+"006CBF",
+"202020"
+],
+"gototop": [
+"202020"
+],
+"gototypedefinition": [
+"006CBF",
+"202020"
+],
+"gotowebtest": [
+"006CBF",
+"159195",
+"202020"
+],
+"gotoworkitem": [
+"006CBF",
+"11910D",
+"202020"
+],
+"graphbottomtotop": [
+"202020"
+],
+"graphlefttoright": [
+"202020"
+],
+"graphrighttoleft": [
+"202020"
+],
+"graphtoptobottom": [
+"202020"
+],
+"greenchannel": [
+"202020"
+],
+"grid": [
+"202020"
+],
+"gridapplication": [
+"202020"
+],
+"griddark": [
+"202020"
+],
+"griddetailview": [
+"202020"
+],
+"gridguide": [
+"006CBF",
+"202020"
+],
+"gridlayoutdiv": [
+"202020"
+],
+"gridlight": [
+"202020"
+],
+"gridsplitter": [
+"006CBF",
+"202020"
+],
+"gridviewmoco": [
+"202020"
+],
+"group": [
+"006CBF",
+"202020"
+],
+"groupbox": [
+"202020"
+],
+"groupby": [
+"202020"
+],
+"groupbyaccess": [
+"202020"
+],
+"groupbyclause": [
+"202020"
+],
+"groupbytype": [
+"202020"
+],
+"groupedgridviewmoco": [
+"202020"
+],
+"grpc": [
+"244B5A",
+"5AC5C5"
+],
+"hancharacter": [
+"202020"
+],
+"harddrive": [
+"202020"
+],
+"headingfive": [
+"202020"
+],
+"headingfour": [
+"202020"
+],
+"headingone": [
+"202020"
+],
+"headingthree": [
+"202020"
+],
+"headingtwo": [
+"202020"
+],
+"helpapplication": [
+"006CBF",
+"202020"
+],
+"helpindexfile": [
+"006CBF",
+"202020"
+],
+"helplibrarymanager": [
+"006CBF",
+"202020"
+],
+"helptableofcontents": [
+"006CBF",
+"202020"
+],
+"hexagon": [
+"202020"
+],
+"hiddenfield": [
+"202020"
+],
+"hiddenfile": [
+"202020"
+],
+"hiddenfolderclosed": [
+"202020"
+],
+"hiddenfolderopened": [
+"202020"
+],
+"hiddeninput": [
+"202020"
+],
+"hidecommentgroup": [
+"202020"
+],
+"hidemember": [
+"202020"
+],
+"hideredundantmerges": [
+"006CBF",
+"202020"
+],
+"hideselectedthreads": [
+"006CBF",
+"202020",
+"5C2E91"
+],
+"hideunselectedthreads": [
+"006CBF",
+"202020",
+"5C2E91"
+],
+"hierarchy": [
+"202020"
+],
+"hierarchytracking": [
+"202020"
+],
+"hierarchyvariable": [
+"202020"
+],
+"highcontrast": [
+"202020"
+],
+"highlighter": [
+"202020"
+],
+"highlighttext": [
+"202020",
+"B27C00"
+],
+"histogramvisualizer": [
+"202020",
+"3487C7"
+],
+"historiccallreturn": [
+"202020",
+"DE590B"
+],
+"historicinstructionpointer": [
+"202020",
+"DE590B"
+],
+"history": [
+"202020"
+],
+"historylistid": [
+"202020"
+],
+"home": [
+"202020"
+],
+"horizontalline": [
+"006CBF",
+"202020"
+],
+"horizontalscrollbar": [
+"202020"
+],
+"horizontalscrollviewer": [
+"006CBF",
+"202020",
+"B27C00"
+],
+"horizontalslicers": [
+"006CBF",
+"202020"
+],
+"hotreload": [
+"C50F1F"
+],
+"hotspot": [
+"C50F1F"
+],
+"hovermenu": [
+"006CBF",
+"202020"
+],
+"hpcperformancesessionwizard": [
+"202020"
+],
+"htmldesignview": [
+"202020"
+],
+"htmlendtag": [
+"202020"
+],
+"htmlerror": [
+"202020",
+"C50F1F"
+],
+"htmlfile": [
+"006CBF",
+"202020"
+],
+"htmltag": [
+"202020"
+],
+"htmltagbdi": [
+"202020"
+],
+"htmltagbdo": [
+"006CBF",
+"202020"
+],
+"htmltagbr": [
+"202020"
+],
+"htmltagcomment": [
+"202020"
+],
+"httpconnection": [
+"006CBF",
+"202020"
+],
+"httpsend": [
+"006CBF"
+],
+"hub": [
+"202020"
+],
+"hubpagetemplate": [
+"202020"
+],
+"hyperlink": [
+"006CBF"
+],
+"hyperlinkback": [
+"006CBF"
+],
+"hyperlinkfollow": [
+"006CBF"
+],
+"hyperlinkforward": [
+"006CBF"
+],
+"iconfile": [
+"202020"
+],
+"iconview": [
+"202020"
+],
+"idbadge": [
+"202020"
+],
+"idrlibraryfile": [
+"202020"
+],
+"ie": [
+"1EBBEE"
+],
+"iephone": [
+"00BCF2",
+"424242",
+"F0EFF1"
+],
+"if": [
+"006CBF",
+"202020"
+],
+"iframe": [
+"202020"
+],
+"ignoretrimwhitespace": [
+"202020"
+],
+"image": [
+"006CBF",
+"202020",
+"B27C00"
+],
+"imagebutton": [
+"006CBF",
+"202020",
+"B27C00"
+],
+"imagechisel": [
+"006CBF",
+"202020",
+"B27C00"
+],
+"imagecrop": [
+"202020"
+],
+"imagegenerator": [
+"202020"
+],
+"imagegroup": [
+"006CBF",
+"202020",
+"B27C00"
+],
+"imageicon": [
+"006CBF",
+"202020",
+"B27C00"
+],
+"imageloader": [
+"006CBF",
+"202020",
+"B27C00"
+],
+"imagemap": [
+"202020"
+],
+"imagemapfile": [
+"202020"
+],
+"imagetest": [
+"202020"
+],
+"immediatewindow": [
+"202020"
+],
+"implemented": [
+"202020",
+"3487C7"
+],
+"implementedoverridden": [
+"202020",
+"3487C7"
+],
+"implementing": [
+"202020",
+"3487C7"
+],
+"implementingimplemented": [
+"202020",
+"3487C7"
+],
+"implementingoverridden": [
+"202020",
+"3487C7"
+],
+"implementingoverriding": [
+"202020",
+"3487C7"
+],
+"implementinterface": [
+"006CBF"
+],
+"import": [
+"202020"
+],
+"importcatalogpart": [
+"006CBF",
+"202020"
+],
+"importfilter": [
+"006CBF",
+"202020"
+],
+"importsettings": [
+"006CBF",
+"202020"
+],
+"include": [
+"202020"
+],
+"increasebrightness": [
+"006CBF",
+"202020"
+],
+"increasecontrast": [
+"006CBF",
+"202020"
+],
+"increasedecimals": [
+"006CBF",
+"202020"
+],
+"increasefontsize": [
+"006CBF",
+"202020"
+],
+"increasehorizontalspacing": [
+"006CBF",
+"202020"
+],
+"increaseindent": [
+"006CBF",
+"202020"
+],
+"increaseverticalspacing": [
+"006CBF",
+"202020"
+],
+"infersharp": [
+"006CBF",
+"5C2E91"
+],
+"infinity": [
+"202020"
+],
+"infotipinline": [
+"0077A0"
+],
+"infrareddevice": [
+"202020",
+"C50F1F"
+],
+"inheritance": [
+"202020"
+],
+"inheritedform": [
+"202020"
+],
+"inheritedusercontrol": [
+"202020"
+],
+"initializecorrelation": [
+"006CBF",
+"11910D"
+],
+"initializegitrepository": [
+"11910D",
+"F05133"
+],
+"initialnode": [
+"202020"
+],
+"inkcanvas": [
+"006CBF",
+"202020"
+],
+"inkpresenter": [
+"202020",
+"3487C7"
+],
+"inline": [
+"006CBF",
+"202020"
+],
+"input": [
+"006CBF",
+"202020"
+],
+"inputparameter": [
+"006CBF",
+"202020"
+],
+"inputpin": [
+"006CBF",
+"202020"
+],
+"insertclause": [
+"006CBF",
+"202020"
+],
+"insertlayer": [
+"006CBF",
+"202020"
+],
+"insertmark": [
+"006CBF",
+"202020"
+],
+"insertowslistfield": [
+"202020"
+],
+"insertpage": [
+"006CBF",
+"202020"
+],
+"insertpanel": [
+"006CBF",
+"202020"
+],
+"insertparameter": [
+"006CBF",
+"202020"
+],
+"insertsharedstep": [
+"006CBF",
+"202020"
+],
+"insertspan": [
+"006CBF",
+"202020"
+],
+"insertstep": [
+"006CBF",
+"202020"
+],
+"insideborder": [
+"202020"
+],
+"insidehorizontalborder": [
+"202020"
+],
+"insideverticalborder": [
+"202020"
+],
+"inspect": [
+"006CBF",
+"202020"
+],
+"inspectmode": [
+"006CBF",
+"202020"
+],
+"install": [
+"006CBF",
+"202020"
+],
+"installerclass": [
+"006CBF",
+"B27C00"
+],
+"installshield": [
+"005295",
+"A7A9AC"
+],
+"instance": [
+"202020"
+],
+"intellicode": [
+"5C2E91"
+],
+"intellicodemodelmanagement": [
+"202020",
+"5C2E91"
+],
+"intellisensedatabase": [
+"202020",
+"3487C7"
+],
+"intellisensekeyword": [
+"006CBF",
+"202020"
+],
+"intellisenselightbulb": [
+"202020",
+"B27C00"
+],
+"intellisenselightbulberror": [
+"202020",
+"B27C00",
+"C50F1F"
+],
+"intellisenselightbulbsparkle": [
+"202020",
+"B27C00"
+],
+"intellisensewarning": [
+"B27C00"
+],
+"intellitracecurrentstack": [
+"006CBF",
+"202020"
+],
+"intellitraceevent": [
+"202020",
+"B27C00"
+],
+"intellitracegolive": [
+"202020"
+],
+"intellitracelog": [
+"159195",
+"202020"
+],
+"intellitracestepback": [
+"202020"
+],
+"intellitracestepinto": [
+"202020"
+],
+"intellitracestepout": [
+"202020"
+],
+"intellitracestepover": [
+"202020"
+],
+"intellitracetracepoint": [
+"202020"
+],
+"interactionuse": [
+"202020"
+],
+"interactivemode": [
+"006CBF",
+"202020"
+],
+"interface": [
+"006CBF"
+],
+"interfacefile": [
+"006CBF",
+"202020"
+],
+"interfaceinternal": [
+"006CBF",
+"202020"
+],
+"interfaceprivate": [
+"006CBF",
+"202020"
+],
+"interfaceprotected": [
+"006CBF",
+"202020"
+],
+"interfacepublic": [
+"006CBF"
+],
+"interfacesealed": [
+"006CBF",
+"202020"
+],
+"interfaceshortcut": [
+"006CBF",
+"202020"
+],
+"interfacesnippet": [
+"006CBF",
+"202020"
+],
+"internalinfofile": [
+"202020"
+],
+"interop": [
+"006CBF",
+"202020"
+],
+"intersectpath": [
+"202020"
+],
+"inusebyotheruser": [
+"202020",
+"C50F1F"
+],
+"invokedelegate": [
+"11910D",
+"202020",
+"8661C5"
+],
+"invokemethod": [
+"11910D",
+"5C2E91"
+],
+"invoketable": [
+"202020"
+],
+"ipaddresscontrol": [
+"202020"
+],
+"irregularselection": [
+"006CBF",
+"202020"
+],
+"iscatalog": [
+"202020",
+"3487C7"
+],
+"isemptydynamicvalue": [
+"006CBF",
+"202020"
+],
+"italic": [
+"202020"
+],
+"item": [
+"202020"
+],
+"itemaddedassociation": [
+"11910D",
+"202020"
+],
+"itemid": [
+"202020"
+],
+"itemlistview": [
+"202020"
+],
+"itemupdatedassociation": [
+"006CBF",
+"11910D",
+"202020"
+],
+"jarfile": [
+"202020"
+],
+"javasource": [
+"202020"
+],
+"join": [
+"202020"
+],
+"joinnode": [
+"202020"
+],
+"journalmessage": [
+"006CBF",
+"202020"
+],
+"jsapi": [
+"202020",
+"DE590B"
+],
+"jsblankapplication": [
+"202020"
+],
+"jscoffeescript": [
+"DE590B"
+],
+"jsconsole": [
+"DE590B"
+],
+"jscordovamultidevice": [
+"DE590B"
+],
+"jsfixedlayoutapplication": [
+"202020",
+"DE590B"
+],
+"jsgridapplication": [
+"202020",
+"DE590B"
+],
+"jshubapplication": [
+"202020",
+"DE590B"
+],
+"jsinteractivewindow": [
+"202020"
+],
+"jsnavigationapplication": [
+"202020",
+"DE590B"
+],
+"jsonscript": [
+"202020"
+],
+"jsphone": [
+"DE590B"
+],
+"jsphoneerror": [
+"C50F1F",
+"DE590B"
+],
+"jsprojectnode": [
+"202020",
+"DE590B"
+],
+"jsscript": [
+"DE590B"
+],
+"jssharedproject": [
+"DE590B"
+],
+"jssplitapplication": [
+"202020",
+"DE590B"
+],
+"jstablet": [
+"DE590B"
+],
+"jswebscript": [
+"202020",
+"DE590B"
+],
+"jsxscript": [
+"DE590B"
+],
+"justmycode": [
+"202020"
+],
+"kagichart": [
+"202020",
+"3487C7"
+],
+"keeptargetversion": [
+"006CBF",
+"202020"
+],
+"key": [
+"202020"
+],
+"keyboard": [
+"202020"
+],
+"keycolumn": [
+"202020"
+],
+"keyvault": [
+"0072C6",
+"F28300",
+"FCB714"
+],
+"keyvertical": [
+"202020"
+],
+"keywordsnippet": [
+"006CBF",
+"202020"
+],
+"kpi": [
+"202020"
+],
+"kpibrowserview": [
+"006CBF",
+"202020"
+],
+"kpiwarning": [
+"202020",
+"B27C00"
+],
+"label": [
+"202020"
+],
+"landingpage": [
+"202020"
+],
+"languagepackage": [
+"202020"
+],
+"large": [
+"202020"
+],
+"lasthistorycommand": [
+"006CBF",
+"202020"
+],
+"launchconditionseditor": [
+"006CBF",
+"202020"
+],
+"launchinstrumentationtargetbinary": [
+"11910D",
+"202020"
+],
+"launchsamplingtarget": [
+"11910D",
+"202020"
+],
+"layer": [
+"202020"
+],
+"layerdiagram": [
+"006CBF",
+"202020"
+],
+"layerfillslider": [
+"202020"
+],
+"layouteditorpart": [
+"202020"
+],
+"layoutpanel": [
+"202020"
+],
+"layoutpoints": [
+"202020"
+],
+"layouttransform": [
+"006CBF",
+"202020"
+],
+"leftarrowasterisk": [
+"202020"
+],
+"leftborder": [
+"202020"
+],
+"leftcarriagereturn": [
+"006CBF",
+"202020"
+],
+"leftcolumnoftwocolumnsrightsplit": [
+"202020"
+],
+"leftsideonly": [
+"202020"
+],
+"legacypackage": [
+"202020"
+],
+"legend": [
+"202020"
+],
+"lessstylesheet": [
+"006CBF",
+"202020"
+],
+"levelall": [
+"202020"
+],
+"leveleight": [
+"202020"
+],
+"leveleleven": [
+"202020"
+],
+"levelfive": [
+"202020"
+],
+"levelfour": [
+"202020"
+],
+"levelnine": [
+"202020"
+],
+"levelone": [
+"202020"
+],
+"levelseven": [
+"202020"
+],
+"levelsix": [
+"202020"
+],
+"levelten": [
+"202020"
+],
+"levelthree": [
+"202020"
+],
+"leveltwelve": [
+"202020"
+],
+"leveltwo": [
+"202020"
+],
+"libaryapplication": [
+"202020"
+],
+"library": [
+"202020"
+],
+"libraryenvironment": [
+"202020"
+],
+"libraryerror": [
+"202020",
+"C50F1F"
+],
+"librarysettings": [
+"202020"
+],
+"librarywarning": [
+"202020",
+"B27C00"
+],
+"lifeline": [
+"202020"
+],
+"lightswitch": [
+"202020"
+],
+"lightswitchlibrary": [
+"202020"
+],
+"linearaxis": [
+"202020"
+],
+"linearcarousel": [
+"202020"
+],
+"linearrow": [
+"202020"
+],
+"linechart": [
+"202020",
+"3487C7"
+],
+"linemarker": [
+"202020"
+],
+"lineseparator": [
+"202020"
+],
+"link": [
+"202020"
+],
+"linkalert": [
+"006CBF",
+"202020"
+],
+"linkbutton": [
+"006CBF",
+"202020"
+],
+"linkedbranch": [
+"006CBF",
+"202020"
+],
+"linkedbranchuploaded": [
+"006CBF",
+"11910D",
+"202020"
+],
+"linkeddatabase": [
+"006CBF",
+"3487C7"
+],
+"linkeddimension": [
+"006CBF",
+"202020"
+],
+"linkedfolderclosed": [
+"006CBF",
+"B27C00"
+],
+"linkedfolderopened": [
+"006CBF",
+"B27C00"
+],
+"linkedmeasuregroup": [
+"006CBF",
+"202020"
+],
+"linkedobjectwizard": [
+"006CBF",
+"202020"
+],
+"linkedrepository": [
+"006CBF",
+"202020"
+],
+"linkedrepositoryuploaded": [
+"006CBF",
+"11910D",
+"202020"
+],
+"linkedserver": [
+"006CBF",
+"202020"
+],
+"linkfile": [
+"006CBF",
+"202020"
+],
+"linkvalidator": [
+"11910D",
+"202020"
+],
+"linkvertical": [
+"202020"
+],
+"linq": [
+"414141",
+"F0EFF1",
+"F6F6F6",
+"FFFFFF"
+],
+"linqtosqlfile": [
+"424242",
+"EFEEF0",
+"F0EFF1",
+"F5F5F5",
+"F6F6F6"
+],
+"listbox": [
+"006CBF",
+"202020"
+],
+"listboxsearch": [
+"006CBF",
+"202020"
+],
+"listdefinition": [
+"202020"
+],
+"listdetails": [
+"006CBF",
+"202020"
+],
+"listid": [
+"202020"
+],
+"listmembers": [
+"006CBF",
+"202020"
+],
+"listproperty": [
+"202020"
+],
+"listtimepicker": [
+"202020"
+],
+"listview": [
+"202020"
+],
+"listviewmoco": [
+"202020"
+],
+"listviewtable": [
+"202020"
+],
+"literal": [
+"202020"
+],
+"livedatasource": [
+"202020",
+"3487C7"
+],
+"liveshare": [
+"11910D",
+"202020"
+],
+"livesharereadonly": [
+"11910D",
+"202020"
+],
+"loading": [
+"006CBF"
+],
+"loadtest": [
+"006CBF",
+"159195",
+"202020"
+],
+"loadtestplugin": [
+"006CBF",
+"159195",
+"202020"
+],
+"lobsysteminstance": [
+"006CBF",
+"202020"
+],
+"localiissite": [
+"006CBF",
+"202020"
+],
+"localize": [
+"006CBF",
+"202020"
+],
+"localresources": [
+"202020"
+],
+"localserver": [
+"202020"
+],
+"localserveraudit": [
+"006CBF",
+"202020"
+],
+"localserverwarning": [
+"202020",
+"B27C00"
+],
+"localswindow": [
+"202020",
+"B27C00"
+],
+"localtest": [
+"159195",
+"202020"
+],
+"localvariable": [
+"006CBF",
+"202020"
+],
+"locateall": [
+"006CBF"
+],
+"locatecontrol": [
+"006CBF",
+"202020"
+],
+"lock": [
+"202020"
+],
+"lockedlink": [
+"202020"
+],
+"lockxaxis": [
+"202020"
+],
+"lockyaxis": [
+"202020"
+],
+"lockzaxis": [
+"202020"
+],
+"log": [
+"159195",
+"202020"
+],
+"logerror": [
+"159195",
+"202020",
+"C50F1F"
+],
+"loginname": [
+"202020"
+],
+"loginscreen": [
+"202020"
+],
+"loginstatus": [
+"006CBF",
+"202020"
+],
+"loginuser": [
+"202020"
+],
+"loginwindowsauthentication": [
+"202020"
+],
+"logpopulation": [
+"006CBF",
+"159195",
+"202020"
+],
+"logpopulationerror": [
+"006CBF",
+"159195",
+"202020",
+"C50F1F"
+],
+"logpopulationwarning": [
+"006CBF",
+"159195",
+"202020",
+"B27C00"
+],
+"logproperty": [
+"159195",
+"202020"
+],
+"logprovider": [
+"006CBF",
+"159195",
+"202020"
+],
+"logwarning": [
+"159195",
+"202020",
+"B27C00"
+],
+"lookupchoicefieldindex": [
+"006CBF",
+"202020"
+],
+"lookupgroup": [
+"006CBF",
+"202020"
+],
+"lookupgroupmembers": [
+"006CBF",
+"202020"
+],
+"lookuplist": [
+"006CBF",
+"202020"
+],
+"lookuplistitem": [
+"006CBF",
+"202020"
+],
+"lookuplistitemid": [
+"006CBF",
+"202020"
+],
+"lookupprincipal": [
+"006CBF",
+"202020"
+],
+"lookupprincipalid": [
+"006CBF",
+"202020"
+],
+"lookupprincipalproperty": [
+"006CBF",
+"202020"
+],
+"lookupuser": [
+"006CBF",
+"202020"
+],
+"lookupuserproperty": [
+"006CBF",
+"202020"
+],
+"lookupworkflowcontextproperty": [
+"11910D",
+"202020"
+],
+"machinelearningmodel": [
+"202020",
+"309D90",
+"B27C00"
+],
+"macrointernal": [
+"006CBF",
+"202020"
+],
+"macroprivate": [
+"006CBF",
+"202020"
+],
+"macroprotected": [
+"006CBF",
+"202020"
+],
+"macropublic": [
+"006CBF",
+"202020"
+],
+"macrosealed": [
+"006CBF",
+"202020"
+],
+"macroshortcut": [
+"006CBF",
+"202020"
+],
+"mageproduct": [
+"202020"
+],
+"magicwand": [
+"202020",
+"B27C00"
+],
+"mainmenucontrol": [
+"202020"
+],
+"makefile": [
+"202020"
+],
+"makefileapplication": [
+"202020"
+],
+"makesameheight": [
+"006CBF",
+"202020"
+],
+"managecountersets": [
+"202020"
+],
+"manifestfile": [
+"202020"
+],
+"manualtest": [
+"159195",
+"202020"
+],
+"manytomany": [
+"202020"
+],
+"mapinternal": [
+"202020"
+],
+"mapiteminternal": [
+"006CBF",
+"202020"
+],
+"mapitemprivate": [
+"006CBF",
+"202020"
+],
+"mapitemprotected": [
+"006CBF",
+"202020"
+],
+"mapitempublic": [
+"006CBF",
+"202020"
+],
+"mapitemsealed": [
+"006CBF",
+"202020"
+],
+"mapitemshortcut": [
+"006CBF",
+"202020"
+],
+"maplayerwizard": [
+"006CBF",
+"202020"
+],
+"maplinelayer": [
+"006CBF",
+"202020"
+],
+"mappedbreakpointdisabled": [
+"C50F1F"
+],
+"mappedbreakpointenabled": [
+"C50F1F"
+],
+"mappedtracepointdisabled": [
+"C50F1F"
+],
+"mappedtracepointenabled": [
+"C50F1F"
+],
+"mappolygonlayer": [
+"006CBF",
+"202020"
+],
+"mapprivate": [
+"202020"
+],
+"mapprotected": [
+"202020"
+],
+"mappublic": [
+"202020"
+],
+"mapsealed": [
+"202020"
+],
+"mapshortcut": [
+"202020"
+],
+"maptilelayer": [
+"006CBF",
+"202020"
+],
+"maptofolder": [
+"006CBF",
+"B27C00"
+],
+"mapwizard": [
+"006CBF"
+],
+"marginpadding": [
+"202020"
+],
+"markdownfile": [
+"202020"
+],
+"markuptag": [
+"202020"
+],
+"markupwpf": [
+"202020"
+],
+"markupxml": [
+"202020"
+],
+"maskedtextbox": [
+"202020"
+],
+"masterpage": [
+"202020"
+],
+"matchbrace": [
+"006CBF",
+"202020"
+],
+"matchcase": [
+"202020"
+],
+"matchtag": [
+"006CBF",
+"202020"
+],
+"matchtype": [
+"006CBF",
+"202020"
+],
+"materialdiffuse": [
+"202020",
+"444444",
+"6A6A6A",
+"8F8F8F",
+"B4B4B4",
+"DADADA"
+],
+"materialemissive": [
+"202020",
+"444444",
+"6A6A6A",
+"8F8F8F",
+"B4B4B4",
+"DADADA"
+],
+"materialspecular": [
+"202020"
+],
+"matrix": [
+"006CBF",
+"202020"
+],
+"mcp": [
+"202020"
+],
+"mdiparent": [
+"202020"
+],
+"mdxquery": [
+"202020"
+],
+"measure": [
+"202020"
+],
+"measurecalculate": [
+"202020"
+],
+"measureexpression": [
+"202020"
+],
+"measuretree": [
+"202020"
+],
+"measurewh": [
+"006CBF",
+"202020"
+],
+"media": [
+"006CBF",
+"202020"
+],
+"mediazoom": [
+"006CBF",
+"202020",
+"B27C00"
+],
+"medium": [
+"202020"
+],
+"meesagegrouperror": [
+"202020",
+"C50F1F"
+],
+"megaphone": [
+"202020"
+],
+"member": [
+"202020"
+],
+"memberdata": [
+"202020",
+"3487C7"
+],
+"membererror": [
+"202020",
+"C50F1F"
+],
+"memberfilter": [
+"006CBF",
+"202020"
+],
+"memberfolderclosed": [
+"202020",
+"B27C00"
+],
+"memberfolderopened": [
+"202020",
+"B27C00"
+],
+"memberformula": [
+"202020"
+],
+"membervariable": [
+"202020"
+],
+"memory": [
+"202020"
+],
+"memoryarray": [
+"202020"
+],
+"memoryconfiguration": [
+"202020"
+],
+"memorywindow": [
+"202020"
+],
+"menubar": [
+"006CBF",
+"202020"
+],
+"menuitem": [
+"006CBF",
+"202020"
+],
+"menuitemcustomaction": [
+"006CBF",
+"202020"
+],
+"menuseparator": [
+"202020"
+],
+"merge": [
+"202020"
+],
+"mergechangeswithtool": [
+"11910D",
+"202020"
+],
+"mergemodule": [
+"11910D",
+"8661C5"
+],
+"mergemoduleexcluded": [
+"11910D",
+"8661C5",
+"C50F1F"
+],
+"mergemodulereference": [
+"11910D",
+"5C2E91"
+],
+"mergemodulereferenceexcluded": [
+"11910D",
+"5C2E91",
+"C50F1F"
+],
+"message": [
+"202020"
+],
+"messagebubble": [
+"202020"
+],
+"messageerror": [
+"202020",
+"C50F1F"
+],
+"messagelogtrace": [
+"202020"
+],
+"messageok": [
+"11910D",
+"202020"
+],
+"messagequeue": [
+"202020"
+],
+"messagequeueerror": [
+"202020",
+"C50F1F"
+],
+"messagequeuewarning": [
+"202020",
+"B27C00"
+],
+"messagetype": [
+"202020"
+],
+"messagetypeerror": [
+"202020",
+"C50F1F"
+],
+"messagetypewarning": [
+"202020",
+"B27C00"
+],
+"metadata": [
+"202020"
+],
+"metatag": [
+"202020"
+],
+"method": [
+"5C2E91"
+],
+"methodinstance": [
+"202020",
+"5C2E91"
+],
+"methodinternal": [
+"202020",
+"5C2E91"
+],
+"methodmissing": [
+"202020",
+"5C2E91"
+],
+"methodprivate": [
+"202020",
+"5C2E91"
+],
+"methodprotected": [
+"202020",
+"5C2E91"
+],
+"methodpublic": [
+"5C2E91"
+],
+"methodsealed": [
+"202020",
+"5C2E91"
+],
+"methodset": [
+"5C2E91"
+],
+"methodshortcut": [
+"202020",
+"5C2E91"
+],
+"methodsnippet": [
+"202020",
+"5C2E91"
+],
+"mfc": [
+"202020"
+],
+"mfcactivex": [
+"202020"
+],
+"mfcapplication": [
+"202020"
+],
+"mfcclass": [
+"202020",
+"B27C00"
+],
+"mfcclasswizard": [
+"202020"
+],
+"mfcdatabase": [
+"202020",
+"3487C7"
+],
+"mfcdynamiclibrary": [
+"006CBF",
+"202020"
+],
+"mfclibrary": [
+"202020"
+],
+"microphonetalking": [
+"006CBF",
+"202020"
+],
+"microsoft": [
+"00A4EF",
+"7FBA00",
+"F25022",
+"F6F6F6",
+"FFB900",
+"FFFFFF"
+],
+"microsoft365": [
+"202020"
+],
+"microsoftfoundry": [
+"201BA6",
+"2D29C7",
+"302EC9",
+"3530C3",
+"6D71D1",
+"7F7EAF",
+"C0BFF5",
+"CACAFB",
+"E3E4FF"
+],
+"minimap": [
+"006CBF",
+"202020"
+],
+"missingfile": [
+"202020",
+"C50F1F"
+],
+"missingfolderclosed": [
+"202020",
+"C50F1F"
+],
+"missingfolderopened": [
+"202020",
+"C50F1F"
+],
+"miterjoint": [
+"202020"
+],
+"mockupcomponentgreen": [
+"11910D",
+"202020"
+],
+"modalpicker": [
+"202020"
+],
+"modalpopup": [
+"006CBF",
+"202020"
+],
+"modelthreed": [
+"202020"
+],
+"modifyclass": [
+"202020",
+"B27C00"
+],
+"modifyclasstrivial": [
+"202020",
+"B27C00"
+],
+"modifyevent": [
+"202020",
+"B27C00"
+],
+"modifyfield": [
+"006CBF",
+"202020"
+],
+"modifyfieldtrivial": [
+"006CBF",
+"202020"
+],
+"modifymethod": [
+"202020",
+"5C2E91"
+],
+"modifymethodtrivial": [
+"202020",
+"5C2E91"
+],
+"modifyproperty": [
+"202020"
+],
+"modifypropertytrivial": [
+"202020"
+],
+"modifyquerydelete": [
+"202020",
+"C50F1F"
+],
+"modifyqueryinsertresults": [
+"006CBF",
+"202020"
+],
+"modifyqueryinsertvalues": [
+"11910D",
+"202020"
+],
+"modifyqueryupdate": [
+"006CBF",
+"202020"
+],
+"modifyworkflow": [
+"006CBF",
+"11910D",
+"202020"
+],
+"module": [
+"8661C5"
+],
+"moduleerror": [
+"8661C5",
+"C50F1F"
+],
+"modulefile": [
+"202020",
+"5C2E91"
+],
+"moduleinternal": [
+"202020",
+"8661C5"
+],
+"moduleprivate": [
+"202020",
+"8661C5"
+],
+"moduleprotected": [
+"202020",
+"8661C5"
+],
+"modulepublic": [
+"8661C5"
+],
+"modulesealed": [
+"202020",
+"8661C5"
+],
+"moduleshortcut": [
+"202020",
+"8661C5"
+],
+"moduleswindow": [
+"202020",
+"5C2E91"
+],
+"moneyeditor": [
+"006CBF",
+"202020"
+],
+"monitor": [
+"202020"
+],
+"monthcalendar": [
+"202020"
+],
+"motherboard": [
+"202020"
+],
+"moveclass": [
+"202020",
+"B27C00"
+],
+"movedown": [
+"202020"
+],
+"moveevent": [
+"202020",
+"B27C00"
+],
+"movefield": [
+"006CBF",
+"202020"
+],
+"moveglyph": [
+"202020"
+],
+"movemethod": [
+"006CBF",
+"5C2E91"
+],
+"moveproperty": [
+"006CBF",
+"202020"
+],
+"movetofolder": [
+"006CBF",
+"B27C00"
+],
+"moveup": [
+"202020"
+],
+"msdn": [
+"424242",
+"F0EFF1"
+],
+"msmqconnection": [
+"202020"
+],
+"mtlfile": [
+"202020"
+],
+"mtm": [
+"672079",
+"F6F6F6",
+"FFFFFF"
+],
+"multifileconnection": [
+"202020"
+],
+"multiflatfileconnection": [
+"202020"
+],
+"multipleoutputexcluded": [
+"006CBF",
+"202020",
+"C50F1F"
+],
+"multiplymember": [
+"006CBF",
+"202020"
+],
+"multiplymemberformula": [
+"006CBF",
+"202020"
+],
+"multiscaleimage": [
+"202020"
+],
+"multiview": [
+"202020"
+],
+"mutemicrophone": [
+"202020",
+"C50F1F"
+],
+"mutuallyexclusivecheckbox": [
+"202020"
+],
+"naivebayes": [
+"202020"
+],
+"namedset": [
+"202020"
+],
+"namespace": [
+"202020"
+],
+"namespaceinternal": [
+"202020"
+],
+"namespaceprivate": [
+"202020"
+],
+"namespaceprotected": [
+"202020"
+],
+"namespacepublic": [
+"202020"
+],
+"namespacesealed": [
+"202020"
+],
+"namespaceshortcut": [
+"202020"
+],
+"namespacesnippet": [
+"202020"
+],
+"navigateelement": [
+"202020"
+],
+"navigateexternalinlinenohalo": [
+"006CBF",
+"202020"
+],
+"navigatemenu": [
+"006CBF",
+"202020"
+],
+"navigationapplication": [
+"202020"
+],
+"navigationpane": [
+"006CBF",
+"202020"
+],
+"navigationpath": [
+"202020"
+],
+"navigationproperty": [
+"006CBF",
+"202020"
+],
+"neighborhoodbrowsemode": [
+"202020"
+],
+"nestedtable": [
+"006CBF",
+"202020"
+],
+"nestedtreeview": [
+"202020"
+],
+"nestselectedtreeview": [
+"11910D",
+"202020"
+],
+"network": [
+"202020"
+],
+"networkadapter": [
+"202020"
+],
+"networkadapterconfiguration": [
+"202020"
+],
+"networkndisdriver": [
+"202020"
+],
+"networkndisdriverpackage": [
+"202020"
+],
+"neuralnetwork": [
+"202020"
+],
+"new": [
+"11910D"
+],
+"newaggregation": [
+"11910D",
+"202020"
+],
+"newattacheddocument": [
+"11910D",
+"202020"
+],
+"newattribute": [
+"11910D",
+"202020"
+],
+"newattributerelationship": [
+"11910D",
+"202020"
+],
+"newavailability": [
+"11910D",
+"202020"
+],
+"newbottomframe": [
+"11910D",
+"202020"
+],
+"newbranch": [
+"11910D",
+"202020"
+],
+"newbug": [
+"11910D",
+"202020"
+],
+"newcalculatedcolumn": [
+"11910D",
+"202020"
+],
+"newcalculatedmember": [
+"11910D",
+"202020"
+],
+"newchangeset": [
+"11910D",
+"202020"
+],
+"newclass": [
+"11910D",
+"B27C00"
+],
+"newconnection": [
+"11910D",
+"159195"
+],
+"newconsoleapplication": [
+"11910D",
+"202020"
+],
+"newconstant": [
+"006CBF",
+"11910D",
+"202020"
+],
+"newcounterset": [
+"11910D",
+"202020"
+],
+"newcubeslice": [
+"11910D",
+"202020"
+],
+"newcustomexpression": [
+"006CBF",
+"11910D"
+],
+"newdashboard": [
+"11910D",
+"202020",
+"C50F1F"
+],
+"newdatacomparison": [
+"006CBF",
+"11910D",
+"3487C7"
+],
+"newdataminingdimension": [
+"006CBF",
+"11910D",
+"202020"
+],
+"newdeploymentmanifest": [
+"11910D",
+"202020"
+],
+"newdeploymentpackage": [
+"11910D",
+"202020"
+],
+"newdiagram": [
+"11910D",
+"202020"
+],
+"newdimensiontranslation": [
+"006CBF",
+"11910D",
+"202020"
+],
+"newdocument": [
+"11910D",
+"202020"
+],
+"newdocumentcollection": [
+"11910D",
+"202020"
+],
+"newdrillthroughaction": [
+"006CBF",
+"11910D",
+"202020",
+"3487C7"
+],
+"newenumerator": [
+"11910D",
+"B27C00"
+],
+"newenvironmentlibrary": [
+"11910D",
+"202020"
+],
+"newevent": [
+"11910D",
+"B27C00"
+],
+"newfield": [
+"006CBF",
+"11910D"
+],
+"newfilter": [
+"11910D",
+"202020"
+],
+"newfolder": [
+"11910D",
+"B27C00"
+],
+"newgraph": [
+"11910D",
+"202020"
+],
+"newheaderfile": [
+"11910D",
+"202020"
+],
+"newimage": [
+"006CBF",
+"11910D",
+"202020",
+"B27C00"
+],
+"newimagetype": [
+"11910D",
+"202020"
+],
+"newitem": [
+"11910D",
+"202020"
+],
+"newkey": [
+"11910D",
+"202020"
+],
+"newkpi": [
+"11910D",
+"202020"
+],
+"newlayerdiagram": [
+"006CBF",
+"11910D",
+"202020"
+],
+"newleftframe": [
+"11910D",
+"202020"
+],
+"newlinkedtable": [
+"006CBF",
+"11910D",
+"202020"
+],
+"newlinkedworkitem": [
+"006CBF",
+"11910D",
+"202020"
+],
+"newlinkfile": [
+"006CBF",
+"11910D",
+"202020"
+],
+"newlistitem": [
+"11910D",
+"202020"
+],
+"newlistquery": [
+"11910D",
+"202020"
+],
+"newloadtestplugin": [
+"11910D",
+"159195",
+"202020"
+],
+"newlog": [
+"11910D",
+"159195",
+"202020"
+],
+"newmanualtest": [
+"11910D",
+"159195",
+"202020"
+],
+"newmanualtestmhtformat": [
+"11910D",
+"202020"
+],
+"newmasterpage": [
+"11910D",
+"202020"
+],
+"newmeasure": [
+"11910D",
+"202020"
+],
+"newmeasuregroup": [
+"11910D",
+"202020"
+],
+"newmethod": [
+"11910D",
+"5C2E91"
+],
+"newnamedset": [
+"11910D",
+"202020"
+],
+"newonehopquery": [
+"11910D",
+"202020"
+],
+"neworderedlist": [
+"11910D",
+"202020"
+],
+"newpackage": [
+"11910D",
+"202020"
+],
+"newparameter": [
+"11910D",
+"202020"
+],
+"newpartition": [
+"11910D",
+"202020"
+],
+"newperformancereport": [
+"11910D",
+"202020"
+],
+"newperformancetrend": [
+"11910D",
+"202020"
+],
+"newperspectiveview": [
+"11910D",
+"202020"
+],
+"newphysicalenvironment": [
+"11910D",
+"202020"
+],
+"newplugindocument": [
+"11910D",
+"202020"
+],
+"newproperty": [
+"11910D",
+"202020"
+],
+"newpullrequest": [
+"11910D",
+"202020"
+],
+"newquery": [
+"11910D",
+"202020",
+"B27C00"
+],
+"newqueryresultsrow": [
+"11910D"
+],
+"newrecording": [
+"11910D",
+"C50F1F"
+],
+"newrelationship": [
+"11910D",
+"202020"
+],
+"newrelationshipmenu": [
+"11910D",
+"202020"
+],
+"newreportingaction": [
+"006CBF",
+"11910D",
+"202020"
+],
+"newrightframe": [
+"11910D",
+"202020"
+],
+"newrow": [
+"11910D",
+"202020"
+],
+"newrule": [
+"11910D",
+"202020"
+],
+"newrulewarning": [
+"202020",
+"B27C00"
+],
+"newrunsettings": [
+"11910D",
+"202020"
+],
+"newschema": [
+"11910D",
+"202020"
+],
+"newscript": [
+"11910D",
+"202020"
+],
+"newsharedsteps": [
+"11910D",
+"202020"
+],
+"newsigningkey": [
+"11910D",
+"202020"
+],
+"newsmarttag": [
+"11910D",
+"202020"
+],
+"newstylesheet": [
+"11910D",
+"202020"
+],
+"newtable": [
+"11910D",
+"202020"
+],
+"newteamgitrepository": [
+"11910D",
+"202020",
+"DE590B"
+],
+"newteamproject": [
+"11910D",
+"202020"
+],
+"newtest": [
+"11910D",
+"159195",
+"202020"
+],
+"newtestconfiguration": [
+"11910D",
+"159195",
+"202020"
+],
+"newtestconfigurationvariable": [
+"006CBF",
+"11910D",
+"202020"
+],
+"newtestgroup": [
+"11910D",
+"159195",
+"202020"
+],
+"newtestlist": [
+"11910D",
+"159195",
+"202020"
+],
+"newtestplan": [
+"11910D",
+"159195",
+"202020"
+],
+"newtextannotation": [
+"11910D",
+"202020"
+],
+"newtoolwindow": [
+"11910D",
+"202020"
+],
+"newtopframe": [
+"11910D",
+"202020"
+],
+"newtransaction": [
+"11910D",
+"202020",
+"C50F1F"
+],
+"newtranslation": [
+"006CBF",
+"11910D",
+"202020"
+],
+"newtreequery": [
+"11910D",
+"202020"
+],
+"newtype": [
+"006CBF",
+"11910D"
+],
+"newuser": [
+"11910D",
+"202020"
+],
+"newvalidationrule": [
+"11910D",
+"202020"
+],
+"newvideo": [
+"006CBF",
+"11910D",
+"202020"
+],
+"newvirtualenvironment": [
+"11910D",
+"202020"
+],
+"newwebmethodaction": [
+"006CBF",
+"11910D",
+"5C2E91"
+],
+"newwebsite": [
+"006CBF",
+"11910D"
+],
+"newwebtest": [
+"006CBF",
+"11910D",
+"159195",
+"202020"
+],
+"newwebtestplugin": [
+"11910D",
+"159195",
+"202020"
+],
+"newwindow": [
+"11910D",
+"202020"
+],
+"newworkitem": [
+"11910D",
+"202020"
+],
+"next": [
+"202020"
+],
+"nextbookmark": [
+"006CBF",
+"202020"
+],
+"nextbookmarkinfile": [
+"006CBF",
+"202020"
+],
+"nextbookmarkinfolder": [
+"006CBF",
+"202020",
+"B27C00"
+],
+"nextdocument": [
+"006CBF",
+"202020"
+],
+"nexterror": [
+"006CBF",
+"C50F1F"
+],
+"nextframe": [
+"202020"
+],
+"nextpause": [
+"006CBF",
+"202020"
+],
+"noborder": [
+"202020"
+],
+"nodejsproject": [
+"5FA04E"
+],
+"noncompilablefile": [
+"202020"
+],
+"none": [
+"202020"
+],
+"nopersistscope": [
+"006CBF",
+"202020",
+"C50F1F"
+],
+"nostroke": [
+"202020"
+],
+"note": [
+"202020"
+],
+"notexecuted": [
+"11910D",
+"C50F1F"
+],
+"notificationalert": [
+"202020",
+"B27C00"
+],
+"notificationalertmute": [
+"202020",
+"B27C00",
+"C50F1F"
+],
+"notificationalertnocolor": [
+"202020"
+],
+"notificationalertnocolormute": [
+"202020",
+"C50F1F"
+],
+"notificationhub": [
+"006CBF",
+"202020"
+],
+"notificationhuberror": [
+"006CBF",
+"202020",
+"C50F1F"
+],
+"notificationhubgroup": [
+"006CBF",
+"202020"
+],
+"notificationhubgrouperror": [
+"006CBF",
+"202020",
+"C50F1F"
+],
+"notinstalled": [
+"202020",
+"C50F1F"
+],
+"npm": [
+"C50F1F"
+],
+"npmerror": [
+"202020",
+"C50F1F"
+],
+"npmnocolor": [
+"202020"
+],
+"npmprivate": [
+"202020"
+],
+"npmwarning": [
+"202020",
+"B27C00"
+],
+"nuget": [
+"004880"
+],
+"nugetnocolor": [
+"202020"
+],
+"nugetnocolorerror": [
+"202020",
+"C50F1F"
+],
+"nugetnocolorprivate": [
+"202020"
+],
+"nugetnocolorwarning": [
+"202020",
+"B27C00"
+],
+"numeric": [
+"202020"
+],
+"numericlistbox": [
+"006CBF",
+"202020"
+],
+"objectinternal": [
+"11910D",
+"202020"
+],
+"objectlifetimeview": [
+"202020",
+"B27C00"
+],
+"objectprivate": [
+"11910D",
+"202020"
+],
+"objectprotected": [
+"11910D",
+"202020"
+],
+"objectpublic": [
+"11910D",
+"202020"
+],
+"objectsealed": [
+"11910D",
+"202020"
+],
+"objectshortcut": [
+"11910D",
+"202020"
+],
+"odata": [
+"202020"
+],
+"odbc": [
+"006CBF",
+"202020"
+],
+"office2013": [
+"CE2C00"
+],
+"office2013application": [
+"414141",
+"EB3B00",
+"F0EFF1",
+"F6F6F6",
+"FFFFFF"
+],
+"officeaccess2010datasource": [
+"414141",
+"F0EFF1",
+"F6F6F6"
+],
+"officeaccess2013": [
+"A4373A"
+],
+"officeaccess2013datasource": [
+"414141",
+"A43639",
+"F0EFF1",
+"F6F6F6",
+"FFFFFF"
+],
+"officeexcel2010": [
+"414141",
+"F0EFF1",
+"F6F6F6"
+],
+"officeexcel2010connectionmanager": [
+"414141",
+"F0EFF1",
+"F6F6F6"
+],
+"officeexcel2010destination": [
+"00529C",
+"414141",
+"F0EFF1",
+"F6F6F6"
+],
+"officeexcel2010source": [
+"00529C",
+"414141",
+"F0EFF1",
+"F6F6F6"
+],
+"officeexcel2010table": [
+"414141",
+"F0EFF1",
+"F6F6F6"
+],
+"officeexcel2013": [
+"217346"
+],
+"officeexcel2013connectionmanager": [
+"207245",
+"414141",
+"F6F6F6",
+"FFFFFF"
+],
+"officeexcel2013destination": [
+"207245",
+"414141",
+"F6F6F6",
+"FFFFFF"
+],
+"officeexcel2013source": [
+"207245",
+"414141",
+"F6F6F6",
+"FFFFFF"
+],
+"officeexcel2013table": [
+"207245",
+"414141",
+"F0EFF1",
+"F6F6F6",
+"FFFFFF"
+],
+"officeinfopath2010": [
+"414141",
+"F0EFF1",
+"F6F6F6"
+],
+"officeinfopath2013": [
+"693789",
+"F6F6F6",
+"FFFFFF"
+],
+"officeoutlook2010": [
+"414141",
+"F0EFF1",
+"F6F6F6"
+],
+"officeoutlook2013": [
+"0072C6"
+],
+"officepowerpoint2010": [
+"414141",
+"F0EFF1",
+"F6F6F6"
+],
+"officepowerpoint2013": [
+"D24726"
+],
+"officeproject2010": [
+"414141",
+"F0EFF1",
+"F6F6F6"
+],
+"officeproject2013": [
+"31752F"
+],
+"officesharepoint2010": [
+"414141",
+"F0EFF1",
+"F6F6F6"
+],
+"officesharepoint2010application": [
+"414141",
+"F0EFF1",
+"F6F6F6"
+],
+"officesharepoint2010connection": [
+"00529C",
+"414141",
+"F0EFF1",
+"F6F6F6",
+"FFFFFF"
+],
+"officesharepoint2010datafile": [
+"414141",
+"424242",
+"F0EFF1",
+"F6F6F6",
+"FFFFFF"
+],
+"officesharepoint2010datasource": [
+"414141",
+"F0EFF1",
+"F6F6F6"
+],
+"officesharepoint2013": [
+"0072C6"
+],
+"officesharepoint2013application": [
+"2271C6",
+"414141",
+"F0EFF1",
+"F6F6F6",
+"FFFFFF"
+],
+"officesharepoint2013connection": [
+"2271C6",
+"414141",
+"F6F6F6",
+"FFFFFF"
+],
+"officesharepoint2013datafile": [
+"2271C6",
+"414141",
+"F0EFF1",
+"F6F6F6",
+"FFFFFF"
+],
+"officesharepoint2013datasource": [
+"2271C6",
+"414141",
+"F0EFF1",
+"F6F6F6",
+"FFFFFF"
+],
+"officesharepoint2013feature": [
+"2271C6",
+"414141",
+"F0EFF1",
+"F6F6F6",
+"FFFFFF"
+],
+"officesharepoint2013test": [
+"2271C6",
+"414141",
+"F0EFF1",
+"F6F6F6",
+"FFFFFF"
+],
+"officevisio2010": [
+"414141",
+"F0EFF1",
+"F6F6F6"
+],
+"officevisio2013": [
+"3854A3",
+"F6F6F6",
+"FFFFFF"
+],
+"officewebextension": [
+"414141",
+"F6F6F6",
+"FFFFFF"
+],
+"officeword2010": [
+"414141",
+"F0EFF1",
+"F6F6F6"
+],
+"officeword2013": [
+"2B579A"
+],
+"onelevelup": [
+"006CBF",
+"B27C00"
+],
+"onewaybridge": [
+"006CBF",
+"202020"
+],
+"onewayrelay": [
+"006CBF",
+"202020"
+],
+"onex": [
+"202020"
+],
+"online": [
+"159195"
+],
+"onlineitemtemplate": [
+"006CBF",
+"202020"
+],
+"onlinestatusavailable": [
+"11910D"
+],
+"onlinestatusaway": [
+"B27C00"
+],
+"onlinestatusbusy": [
+"C50F1F"
+],
+"onlinestatusoffline": [
+"202020"
+],
+"onlinestatuspresenting": [
+"C50F1F"
+],
+"onlinestatusunknown": [
+"202020"
+],
+"onpremisesdatabase": [
+"006CBF",
+"3487C7"
+],
+"opaquebackground": [
+"202020"
+],
+"open": [
+"202020"
+],
+"openapi": [
+"424143",
+"4D5A31",
+"6BA43A",
+"93D500"
+],
+"openattachment": [
+"006CBF",
+"202020"
+],
+"opendocumentfromcollection": [
+"006CBF",
+"202020"
+],
+"opendocumentgroup": [
+"006CBF",
+"202020"
+],
+"openfile": [
+"006CBF",
+"202020"
+],
+"openfiledialog": [
+"006CBF",
+"202020"
+],
+"openfolder": [
+"006CBF",
+"B27C00"
+],
+"openinvoketable": [
+"006CBF",
+"202020"
+],
+"openlink": [
+"006CBF",
+"202020"
+],
+"openlocalgitrepo": [
+"B27C00",
+"F05133"
+],
+"openperformanceresult": [
+"006CBF",
+"11910D",
+"202020"
+],
+"openprojectfolder": [
+"006CBF",
+"202020",
+"B27C00"
+],
+"openquery": [
+"006CBF",
+"202020",
+"B27C00"
+],
+"opentopic": [
+"006CBF",
+"202020"
+],
+"openvirtualenvironment": [
+"202020"
+],
+"openvirtualmachine": [
+"006CBF",
+"202020"
+],
+"openwebportal": [
+"006CBF",
+"202020"
+],
+"openwebsite": [
+"006CBF"
+],
+"operator": [
+"006CBF"
+],
+"operatorinternal": [
+"006CBF",
+"202020"
+],
+"operatorprivate": [
+"006CBF",
+"202020"
+],
+"operatorprotected": [
+"006CBF",
+"202020"
+],
+"operatorpublic": [
+"006CBF"
+],
+"operatorsealed": [
+"006CBF",
+"202020"
+],
+"operatorshortcut": [
+"006CBF",
+"202020"
+],
+"optimizepivottable": [
+"006CBF",
+"202020"
+],
+"orderascending": [
+"006CBF",
+"202020"
+],
+"orderdescending": [
+"006CBF",
+"202020"
+],
+"orderedlist": [
+"202020"
+],
+"orderedtest": [
+"159195",
+"202020"
+],
+"orientpathnone": [
+"202020"
+],
+"orientpathnormal": [
+"202020"
+],
+"orthographiccamera": [
+"202020"
+],
+"outgoingcodereview": [
+"006CBF",
+"202020"
+],
+"outlinedrectangle": [
+"202020"
+],
+"outlinedroundedrectangle": [
+"202020"
+],
+"output": [
+"006CBF",
+"202020"
+],
+"outputcolumn": [
+"006CBF",
+"202020"
+],
+"outputexcluded": [
+"006CBF",
+"202020",
+"C50F1F"
+],
+"outputparameter": [
+"006CBF",
+"202020"
+],
+"outputpin": [
+"006CBF",
+"202020"
+],
+"overlayalert": [
+"006CBF"
+],
+"overlaycomplete": [
+"11910D"
+],
+"overlaydeclaration": [
+"006CBF"
+],
+"overlayerror": [
+"C50F1F"
+],
+"overlayerrornocolor": [
+"202020"
+],
+"overlayexcluded": [
+"C50F1F"
+],
+"overlayexcludednocolor": [
+"202020"
+],
+"overlayfriend": [
+"202020"
+],
+"overlayinactive": [
+"202020"
+],
+"overlayinformation": [
+"006CBF"
+],
+"overlayinformationnocolor": [
+"202020"
+],
+"overlayinvalid": [
+"C50F1F"
+],
+"overlayinvalidnocolor": [
+"202020"
+],
+"overlaylock": [
+"202020"
+],
+"overlaylogindisabled": [
+"202020"
+],
+"overlayno": [
+"C50F1F"
+],
+"overlaynotavailable": [
+"202020"
+],
+"overlaynotloaded": [
+"006CBF"
+],
+"overlayoffline": [
+"202020"
+],
+"overlayok": [
+"11910D"
+],
+"overlayoknocolor": [
+"202020"
+],
+"overlayonline": [
+"159195"
+],
+"overlaypaused": [
+"006CBF"
+],
+"overlaypolicy": [
+"202020"
+],
+"overlayproperty": [
+"202020"
+],
+"overlayprotected": [
+"202020"
+],
+"overlayremote": [
+"006CBF"
+],
+"overlayrunning": [
+"11910D"
+],
+"overlaysealed": [
+"202020"
+],
+"overlaysearch": [
+"006CBF"
+],
+"overlayshortcut": [
+"202020"
+],
+"overlaystatic": [
+"202020"
+],
+"overlaystopped": [
+"C50F1F"
+],
+"overlaytimelinemarkblack": [
+"202020"
+],
+"overlaytimelinemarkgray": [
+"202020"
+],
+"overlaytimelinemarkpurple": [
+"5C2E91"
+],
+"overlaytimelinemarkred": [
+"C50F1F"
+],
+"overlayunknown": [
+"202020"
+],
+"overlayupdate": [
+"006CBF"
+],
+"overlayvulnerable": [
+"C50F1F"
+],
+"overlaywarning": [
+"B27C00"
+],
+"overlaywarningnocolor": [
+"202020"
+],
+"overloadbehavior": [
+"202020"
+],
+"overridden": [
+"202020",
+"3487C7"
+],
+"overriding": [
+"202020",
+"3487C7"
+],
+"overridingoverridden": [
+"202020",
+"3487C7"
+],
+"package": [
+"202020"
+],
+"packagedeployment": [
+"006CBF",
+"202020"
+],
+"packagefolderclosed": [
+"202020",
+"B27C00"
+],
+"packagefolderopened": [
+"202020",
+"B27C00"
+],
+"packagelayout": [
+"202020"
+],
+"packageproperty": [
+"202020"
+],
+"packagereference": [
+"202020"
+],
+"pagebody": [
+"006CBF",
+"202020"
+],
+"pagebodygroup": [
+"006CBF",
+"202020"
+],
+"pagebreak": [
+"202020"
+],
+"pagecatalogpart": [
+"202020"
+],
+"pagecontent": [
+"202020"
+],
+"pagefile": [
+"202020"
+],
+"pagefooter": [
+"006CBF",
+"202020"
+],
+"pagefootergroup": [
+"006CBF",
+"202020"
+],
+"pageguide": [
+"202020"
+],
+"pageheader": [
+"006CBF",
+"202020"
+],
+"pageheadergroup": [
+"006CBF",
+"202020"
+],
+"pageinspector": [
+"006CBF"
+],
+"pagelayout": [
+"202020"
+],
+"pagelock": [
+"202020"
+],
+"pagesize": [
+"006CBF",
+"202020"
+],
+"pagestyle": [
+"202020"
+],
+"pagetemplate": [
+"202020"
+],
+"pagetransition": [
+"202020"
+],
+"paginator": [
+"202020"
+],
+"paging": [
+"006CBF",
+"202020"
+],
+"pagingbulletedlist": [
+"006CBF",
+"202020"
+],
+"panel": [
+"202020"
+],
+"paneldragdroptarget": [
+"006CBF",
+"202020"
+],
+"pantool": [
+"202020"
+],
+"paragraphhardreturn": [
+"202020"
+],
+"parallel": [
+"202020"
+],
+"parallelcallstack": [
+"006CBF",
+"202020"
+],
+"parallelexecution": [
+"202020"
+],
+"parallelforeach": [
+"006CBF",
+"202020"
+],
+"parallelport": [
+"202020"
+],
+"parameter": [
+"202020"
+],
+"parametererror": [
+"202020",
+"C50F1F"
+],
+"parameterwarning": [
+"202020",
+"B27C00"
+],
+"parentchild": [
+"202020"
+],
+"parentchildattribute": [
+"006CBF",
+"202020"
+],
+"parentchildattributedisabled": [
+"006CBF",
+"202020"
+],
+"parsedynamicvalue": [
+"006CBF",
+"202020"
+],
+"part": [
+"202020"
+],
+"partiallycomplete": [
+"006CBF",
+"11910D",
+"202020"
+],
+"partition": [
+"202020"
+],
+"partitionfunction": [
+"202020"
+],
+"partitionfunctionerror": [
+"202020",
+"C50F1F"
+],
+"partitionfunctionwarning": [
+"202020",
+"B27C00"
+],
+"partitionscheme": [
+"202020"
+],
+"partitionschemeerror": [
+"202020",
+"C50F1F"
+],
+"partitionschemewarning": [
+"202020",
+"B27C00"
+],
+"partwarning": [
+"202020",
+"B27C00"
+],
+"passthroughbridge": [
+"006CBF",
+"202020"
+],
+"passwordbox": [
+"202020"
+],
+"passwordrecovery": [
+"006CBF",
+"202020"
+],
+"passwordstrength": [
+"202020"
+],
+"paste": [
+"202020"
+],
+"pasteappend": [
+"006CBF",
+"202020"
+],
+"pastereplace": [
+"006CBF",
+"202020"
+],
+"pastetable": [
+"202020"
+],
+"patchpackage": [
+"202020"
+],
+"path": [
+"202020"
+],
+"pathicon": [
+"202020"
+],
+"pathlistbox": [
+"202020"
+],
+"pathlistboxitem": [
+"006CBF",
+"202020"
+],
+"pathmany": [
+"202020"
+],
+"pathone": [
+"202020"
+],
+"pause": [
+"202020"
+],
+"pausephonelandscape": [
+"006CBF",
+"202020"
+],
+"pdbfile": [
+"202020"
+],
+"pdwdestination": [
+"006CBF",
+"3487C7"
+],
+"pencil": [
+"202020"
+],
+"pendingadd": [
+"11910D",
+"202020"
+],
+"pendingaddnode": [
+"11910D"
+],
+"pendingbranch": [
+"202020"
+],
+"pendingbranchnode": [
+"202020"
+],
+"pendingchange": [
+"006CBF",
+"202020"
+],
+"pendingchangenode": [
+"202020"
+],
+"pendingcodemap": [
+"202020"
+],
+"pendingdelete": [
+"202020",
+"C50F1F"
+],
+"pendingdeletenode": [
+"C50F1F"
+],
+"pendingmerge": [
+"11910D",
+"202020"
+],
+"pendingmergenode": [
+"202020"
+],
+"pendingrename": [
+"202020"
+],
+"pendingrenamenode": [
+"006CBF"
+],
+"pendingundelete": [
+"202020",
+"C50F1F"
+],
+"pendingundeletenode": [
+"202020"
+],
+"penfour": [
+"202020"
+],
+"penone": [
+"202020"
+],
+"pensparkle": [
+"202020"
+],
+"pentagon": [
+"202020"
+],
+"penthree": [
+"202020"
+],
+"pentool": [
+"202020"
+],
+"pentwo": [
+"202020"
+],
+"percentage": [
+"202020"
+],
+"performance": [
+"11910D",
+"202020"
+],
+"performanceerror": [
+"11910D",
+"202020",
+"C50F1F"
+],
+"performancegroup": [
+"11910D",
+"202020"
+],
+"performancelog": [
+"11910D",
+"202020"
+],
+"performancemethod": [
+"11910D",
+"202020",
+"5C2E91"
+],
+"performancereport": [
+"11910D",
+"202020"
+],
+"performancewaring": [
+"11910D",
+"202020",
+"B27C00"
+],
+"performancewizard": [
+"11910D",
+"202020"
+],
+"permission": [
+"202020"
+],
+"persist": [
+"006CBF",
+"202020"
+],
+"perspectivecamera": [
+"202020"
+],
+"perspectivesview": [
+"202020"
+],
+"perspectivetablegroup": [
+"202020"
+],
+"phone": [
+"202020"
+],
+"phoneclass": [
+"202020",
+"B27C00"
+],
+"phonecomponent": [
+"202020"
+],
+"phonedarktheme": [
+"202020"
+],
+"phonedirectthreed": [
+"202020"
+],
+"phonegroup": [
+"202020"
+],
+"phonehighresolution": [
+"006CBF",
+"11910D",
+"202020"
+],
+"phonehorizontalpage": [
+"006CBF",
+"202020"
+],
+"phonelandscape": [
+"202020"
+],
+"phonelandscapeflipped": [
+"202020"
+],
+"phonelibrary": [
+"202020"
+],
+"phonelighttheme": [
+"202020",
+"B27C00"
+],
+"phonelowresolution": [
+"006CBF",
+"11910D",
+"202020"
+],
+"phonemediumresolution": [
+"006CBF",
+"11910D",
+"202020"
+],
+"phonenumbereditor": [
+"006CBF",
+"202020"
+],
+"phonenumberviewer": [
+"202020"
+],
+"phonepanorama": [
+"006CBF",
+"202020",
+"B27C00"
+],
+"phoneportraitflipped": [
+"202020"
+],
+"phonepreviewthumbnail": [
+"006CBF",
+"202020",
+"B27C00"
+],
+"phonerotatetolandscapeleft": [
+"006CBF",
+"202020"
+],
+"phonerotatetolandscaperight": [
+"006CBF",
+"202020"
+],
+"phonerotatetoportaitleft": [
+"006CBF",
+"202020"
+],
+"phoneservice": [
+"202020"
+],
+"phonesimulation": [
+"006CBF",
+"202020"
+],
+"phonetool": [
+"202020"
+],
+"phoneusercontrol": [
+"202020"
+],
+"phoneverticalpage": [
+"006CBF",
+"202020"
+],
+"phonewarning": [
+"202020",
+"B27C00"
+],
+"phonewebconfig": [
+"006CBF",
+"202020"
+],
+"phonewebsite": [
+"006CBF",
+"202020"
+],
+"phonexaml": [
+"006CBF",
+"202020"
+],
+"phpfile": [
+"202020"
+],
+"pickbranch": [
+"006CBF",
+"11910D",
+"202020"
+],
+"pickcursor": [
+"202020"
+],
+"picker": [
+"202020"
+],
+"pickercontract": [
+"202020"
+],
+"picknode": [
+"11910D",
+"202020"
+],
+"pictureandtext": [
+"006CBF",
+"202020",
+"B27C00"
+],
+"piechart": [
+"202020",
+"3487C7"
+],
+"pin": [
+"202020"
+],
+"pinpropertyname": [
+"202020"
+],
+"pipeline": [
+"006CBF",
+"202020",
+"3487C7"
+],
+"pipelineview": [
+"202020"
+],
+"pivotchart": [
+"202020",
+"3487C7"
+],
+"pivotcontrol": [
+"006CBF",
+"202020"
+],
+"pivotproject": [
+"202020"
+],
+"pivottable": [
+"202020",
+"3487C7"
+],
+"pixelrunfile": [
+"202020"
+],
+"placeholder": [
+"202020"
+],
+"plan": [
+"202020"
+],
+"planepreview": [
+"202020"
+],
+"play": [
+"11910D"
+],
+"playbackpreview": [
+"006CBF",
+"11910D"
+],
+"playdatagenerator": [
+"006CBF",
+"11910D",
+"202020",
+"3487C7"
+],
+"playstep": [
+"11910D",
+"202020"
+],
+"playstepgroup": [
+"202020"
+],
+"playvideo": [
+"006CBF",
+"202020"
+],
+"pnpentity": [
+"202020"
+],
+"pointandfigurechart": [
+"202020",
+"3487C7"
+],
+"pointchart": [
+"202020",
+"3487C7"
+],
+"polarchart": [
+"202020",
+"3487C7"
+],
+"policy": [
+"202020"
+],
+"policyapplication": [
+"202020"
+],
+"policyfile": [
+"202020"
+],
+"policyfilewarning": [
+"202020",
+"B27C00"
+],
+"polygon": [
+"202020"
+],
+"popbrowsecontext": [
+"202020"
+],
+"popin": [
+"006CBF",
+"202020"
+],
+"popout": [
+"006CBF",
+"202020"
+],
+"popupcontrol": [
+"202020"
+],
+"port": [
+"202020"
+],
+"positionpage": [
+"006CBF",
+"202020"
+],
+"postdeploymentscript": [
+"202020"
+],
+"postdeploymentscripterror": [
+"202020",
+"C50F1F"
+],
+"postdeploymentscriptwarning": [
+"202020",
+"B27C00"
+],
+"potentialattribute": [
+"202020"
+],
+"potsmodem": [
+"202020"
+],
+"power": [
+"11910D",
+"202020"
+],
+"powerplatform": [
+"202020"
+],
+"powershellfile": [
+"202020",
+"3487C7"
+],
+"powershellinteractivewindow": [
+"202020",
+"3487C7"
+],
+"powersupply": [
+"11910D",
+"202020"
+],
+"precedenceconstraint": [
+"202020"
+],
+"predictfunction": [
+"006CBF",
+"202020"
+],
+"predictquerybuilder": [
+"11910D",
+"202020",
+"B27C00"
+],
+"preservecase": [
+"202020"
+],
+"previewanimatedtransition": [
+"11910D",
+"202020"
+],
+"previewcode": [
+"006CBF",
+"202020"
+],
+"previewsidebyside": [
+"006CBF",
+"202020"
+],
+"previewtab": [
+"202020",
+"B27C00"
+],
+"previous": [
+"202020"
+],
+"previousbookmark": [
+"006CBF",
+"202020"
+],
+"previousbookmarkinfile": [
+"006CBF",
+"202020"
+],
+"previousbookmarkinfolder": [
+"006CBF",
+"202020",
+"B27C00"
+],
+"previousdocument": [
+"006CBF",
+"202020"
+],
+"previouserror": [
+"006CBF",
+"C50F1F"
+],
+"previousframe": [
+"006CBF"
+],
+"primarykeyerror": [
+"202020",
+"C50F1F"
+],
+"primarykeywarning": [
+"202020",
+"B27C00"
+],
+"print": [
+"202020"
+],
+"printdialog": [
+"202020"
+],
+"printdirect": [
+"006CBF",
+"202020"
+],
+"printdocument": [
+"202020"
+],
+"printpreview": [
+"006CBF",
+"202020"
+],
+"printpreviewdialog": [
+"006CBF",
+"202020"
+],
+"printpreviewfourpages": [
+"202020"
+],
+"printpreviewmaxpages": [
+"202020"
+],
+"printpreviewonepage": [
+"202020"
+],
+"printpreviewsixpages": [
+"202020"
+],
+"printpreviewthreepages": [
+"202020"
+],
+"printpreviewtwopages": [
+"202020"
+],
+"printsetup": [
+"202020"
+],
+"privatebuildinstance": [
+"006CBF",
+"202020"
+],
+"privatemessagequeue": [
+"202020"
+],
+"procedure": [
+"202020"
+],
+"proceduremissing": [
+"202020"
+],
+"proceduresettings": [
+"202020"
+],
+"procedurewarning": [
+"202020",
+"B27C00"
+],
+"process": [
+"202020"
+],
+"processerror": [
+"202020",
+"C50F1F"
+],
+"processmodel": [
+"202020",
+"B27C00"
+],
+"processok": [
+"11910D",
+"202020"
+],
+"processor": [
+"202020"
+],
+"productionbreakpointalert": [
+"006CBF",
+"5C2E91"
+],
+"productionbreakpointavailable": [
+"202020"
+],
+"productionbreakpointdashed": [
+"202020"
+],
+"productionbreakpointerror": [
+"5C2E91",
+"C50F1F"
+],
+"productionbreakpointoff": [
+"5C2E91"
+],
+"productionbreakpointok": [
+"11910D",
+"5C2E91"
+],
+"productionbreakpointon": [
+"5C2E91"
+],
+"productionbreakpointwarning": [
+"5C2E91",
+"B27C00"
+],
+"productiontracepointalert": [
+"006CBF",
+"5C2E91"
+],
+"productiontracepointdashed": [
+"202020"
+],
+"productiontracepointerror": [
+"5C2E91",
+"C50F1F"
+],
+"productiontracepointoff": [
+"5C2E91"
+],
+"productiontracepointon": [
+"5C2E91"
+],
+"productiontracepointwarning": [
+"5C2E91",
+"B27C00"
+],
+"progressbar": [
+"006CBF",
+"202020"
+],
+"progressivepopup": [
+"202020"
+],
+"progressivesort": [
+"006CBF",
+"202020"
+],
+"projectalerts": [
+"202020",
+"B27C00"
+],
+"projectfilterfile": [
+"202020"
+],
+"projectimports": [
+"006CBF",
+"202020"
+],
+"promotevariable": [
+"006CBF"
+],
+"propertbrushgroup": [
+"202020"
+],
+"propertiesfolderclosed": [
+"202020",
+"B27C00"
+],
+"propertiesfolderopen": [
+"202020",
+"B27C00"
+],
+"property": [
+"202020"
+],
+"propertygrideditorpart": [
+"202020"
+],
+"propertyinternal": [
+"202020"
+],
+"propertykey": [
+"202020"
+],
+"propertymissing": [
+"202020"
+],
+"propertyprivate": [
+"202020"
+],
+"propertyprotected": [
+"202020"
+],
+"propertypublic": [
+"202020"
+],
+"propertysealed": [
+"202020"
+],
+"propertyshortcut": [
+"202020"
+],
+"propertysnippet": [
+"202020"
+],
+"providedinterface": [
+"202020"
+],
+"proxywebpartmanager": [
+"202020"
+],
+"publicmessagequeue": [
+"202020"
+],
+"publishallwebsites": [
+"006CBF"
+],
+"publishcurrentwebsite": [
+"006CBF",
+"202020"
+],
+"publishondemand": [
+"006CBF"
+],
+"publishwithgithubactions": [
+"006CBF"
+],
+"pull": [
+"202020"
+],
+"pullrequest": [
+"202020"
+],
+"push": [
+"202020"
+],
+"pushnotification": [
+"202020",
+"C50F1F"
+],
+"pushnotificationerror": [
+"202020",
+"C50F1F"
+],
+"pushnotificationgroup": [
+"202020",
+"C50F1F"
+],
+"pushpin": [
+"202020"
+],
+"pyapplication": [
+"B27C00"
+],
+"pyblankapplication": [
+"202020"
+],
+"pyblankwebsite": [
+"202020"
+],
+"pyclassfile": [
+"202020",
+"B27C00"
+],
+"pyclasslibrary": [
+"202020",
+"B27C00"
+],
+"pyconsole": [
+"B27C00"
+],
+"pyconsoleapplication": [
+"B27C00"
+],
+"pydebuginteractivewindow": [
+"11910D",
+"B27C00"
+],
+"pyfile": [
+"B27C00"
+],
+"pyfilenode": [
+"B27C00"
+],
+"pyinteractivewindow": [
+"202020"
+],
+"pympi": [
+"B27C00"
+],
+"pyprojectnode": [
+"202020",
+"B27C00"
+],
+"pyramidchart": [
+"202020",
+"3487C7"
+],
+"pysilverlight": [
+"B27C00"
+],
+"pysourcefile": [
+"202020",
+"B27C00"
+],
+"pythonpackage": [
+"B27C00"
+],
+"pywebapplication": [
+"202020",
+"B27C00"
+],
+"pywebservice": [
+"B27C00"
+],
+"pywebsite": [
+"202020",
+"B27C00"
+],
+"pyworker": [
+"202020",
+"B27C00"
+],
+"pywpfapplication": [
+"202020",
+"B27C00"
+],
+"queryextender": [
+"006CBF",
+"202020",
+"B27C00"
+],
+"querystringparameter": [
+"202020",
+"B27C00"
+],
+"queryview": [
+"202020",
+"B27C00"
+],
+"queryviewerror": [
+"202020",
+"B27C00",
+"C50F1F"
+],
+"queryviewmissing": [
+"202020",
+"B27C00"
+],
+"queryviewwarning": [
+"202020",
+"B27C00"
+],
+"questionmark": [
+"202020"
+],
+"quickfind": [
+"202020"
+],
+"quickrefresh": [
+"202020",
+"B27C00"
+],
+"quickreplace": [
+"006CBF",
+"202020"
+],
+"quote": [
+"202020"
+],
+"radarchart": [
+"202020",
+"3487C7"
+],
+"radiobutton": [
+"202020"
+],
+"radiobuttonlist": [
+"202020"
+],
+"rangechart": [
+"202020",
+"3487C7"
+],
+"rangecolumnchart": [
+"202020",
+"3487C7"
+],
+"rangevalidator": [
+"11910D",
+"202020"
+],
+"rating": [
+"B27C00"
+],
+"rawcodecoveragedatafile": [
+"202020"
+],
+"rbfilenode": [
+"C50F1F"
+],
+"rbnotsupported": [
+"C50F1F"
+],
+"rbprojectnode": [
+"202020",
+"C50F1F"
+],
+"readonlydatabase": [
+"202020",
+"3487C7"
+],
+"reason": [
+"006CBF",
+"202020"
+],
+"rebase": [
+"202020"
+],
+"recalculatepagebreaks": [
+"006CBF",
+"202020"
+],
+"receive": [
+"006CBF",
+"202020"
+],
+"receiveandsendreply": [
+"006CBF",
+"202020"
+],
+"receivereply": [
+"006CBF",
+"202020"
+],
+"recommendedtest": [
+"159195",
+"202020"
+],
+"record": [
+"C50F1F"
+],
+"recordalert": [
+"006CBF",
+"C50F1F"
+],
+"recorddot": [
+"C50F1F"
+],
+"recordingnotstarted": [
+"202020",
+"C50F1F"
+],
+"recordkeyframe": [
+"202020",
+"C50F1F"
+],
+"recordscreen": [
+"202020",
+"C50F1F"
+],
+"recordscreenandvoice": [
+"202020",
+"C50F1F"
+],
+"recordstep": [
+"202020",
+"C50F1F"
+],
+"rectangle": [
+"202020"
+],
+"rectangleselection": [
+"006CBF",
+"202020"
+],
+"rectangularscreenshot": [
+"202020"
+],
+"rectangularselection": [
+"006CBF",
+"202020"
+],
+"recursion": [
+"006CBF",
+"202020"
+],
+"recursivelycheckall": [
+"11910D",
+"202020"
+],
+"recursivelyuncheckall": [
+"202020",
+"C50F1F"
+],
+"redchannel": [
+"202020"
+],
+"redirectedrequest": [
+"202020"
+],
+"redo": [
+"202020"
+],
+"redomerge": [
+"006CBF",
+"202020"
+],
+"redonocolor": [
+"202020"
+],
+"reducebrightness": [
+"006CBF",
+"202020"
+],
+"reducecontrast": [
+"006CBF",
+"202020"
+],
+"refactoring": [
+"202020"
+],
+"reference": [
+"202020"
+],
+"referenceddimension": [
+"006CBF",
+"202020"
+],
+"referencedelement": [
+"202020"
+],
+"referenceerror": [
+"202020",
+"C50F1F"
+],
+"referencefolderclosed": [
+"202020",
+"B27C00"
+],
+"referencefolderopened": [
+"202020",
+"B27C00"
+],
+"referencegroup": [
+"202020"
+],
+"referencegrouperror": [
+"202020",
+"C50F1F"
+],
+"referencegroupwarning": [
+"202020",
+"B27C00"
+],
+"referenceprivate": [
+"202020"
+],
+"referencewarning": [
+"202020",
+"B27C00"
+],
+"refetch": [
+"202020"
+],
+"reformatselection": [
+"006CBF",
+"202020"
+],
+"refresh": [
+"202020"
+],
+"refreshphoneui": [
+"006CBF",
+"202020"
+],
+"refreshscript": [
+"006CBF",
+"202020"
+],
+"registerswindow": [
+"202020"
+],
+"registrationscript": [
+"202020"
+],
+"registry": [
+"202020"
+],
+"regularexpression": [
+"202020"
+],
+"regularexpressionbuilder": [
+"202020"
+],
+"regularexpressionvalidator": [
+"11910D",
+"202020"
+],
+"relationship": [
+"202020"
+],
+"reloadxml": [
+"006CBF",
+"202020"
+],
+"remotedebugger": [
+"11910D",
+"202020"
+],
+"remotedesktop": [
+"006CBF",
+"202020"
+],
+"remotefolder": [
+"006CBF",
+"B27C00"
+],
+"remotefolderopen": [
+"006CBF",
+"B27C00"
+],
+"remoteserver": [
+"202020"
+],
+"remoteserveraudit": [
+"006CBF",
+"202020"
+],
+"remoteservicebinding": [
+"202020"
+],
+"remoteservicebindingerror": [
+"202020",
+"C50F1F"
+],
+"remoteservicebindingwarning": [
+"202020",
+"B27C00"
+],
+"remove": [
+"C50F1F"
+],
+"removecommand": [
+"C50F1F"
+],
+"removefromcollection": [
+"202020",
+"C50F1F"
+],
+"removefromdictionary": [
+"202020",
+"C50F1F"
+],
+"removeguides": [
+"202020",
+"C50F1F"
+],
+"removehorizontalspacing": [
+"006CBF",
+"202020"
+],
+"removelink": [
+"202020",
+"C50F1F"
+],
+"removemapping": [
+"006CBF",
+"B27C00",
+"C50F1F"
+],
+"removenamespace": [
+"202020",
+"C50F1F"
+],
+"removenocolor": [
+"202020"
+],
+"removetest": [
+"159195",
+"202020",
+"C50F1F"
+],
+"removetestgroup": [
+"159195",
+"202020",
+"C50F1F"
+],
+"removeverticalspacing": [
+"006CBF",
+"202020"
+],
+"rename": [
+"202020"
+],
+"renameclass": [
+"202020",
+"B27C00"
+],
+"renameevent": [
+"202020",
+"B27C00"
+],
+"renamefield": [
+"006CBF",
+"202020"
+],
+"renamelocalserver": [
+"202020"
+],
+"renamemethod": [
+"202020",
+"5C2E91"
+],
+"renameproperty": [
+"202020"
+],
+"renameremoteserver": [
+"202020"
+],
+"renkochart": [
+"202020",
+"3487C7"
+],
+"reorderlist": [
+"006CBF",
+"202020"
+],
+"reorderparameters": [
+"006CBF",
+"202020"
+],
+"reordertablecolumn": [
+"006CBF",
+"202020"
+],
+"repair": [
+"006CBF",
+"202020"
+],
+"reparentbranch": [
+"006CBF",
+"202020"
+],
+"repeater": [
+"202020"
+],
+"repeatlastrun": [
+"11910D",
+"202020"
+],
+"repeatuntilfailure": [
+"202020",
+"C50F1F"
+],
+"replaceall": [
+"006CBF",
+"202020"
+],
+"replaceinfolder": [
+"006CBF",
+"B27C00"
+],
+"report": [
+"202020"
+],
+"reportdesign": [
+"202020",
+"B27C00"
+],
+"reportimage": [
+"202020"
+],
+"reportingaction": [
+"006CBF",
+"202020"
+],
+"reportparameter": [
+"202020"
+],
+"reportprojectwizard": [
+"202020"
+],
+"reportwarning": [
+"202020",
+"B27C00"
+],
+"repository": [
+"202020"
+],
+"repositoryuploaded": [
+"11910D",
+"202020"
+],
+"requestbridge": [
+"006CBF",
+"202020"
+],
+"requiredfieldvalidator": [
+"11910D",
+"202020"
+],
+"requiredinterface": [
+"202020"
+],
+"rerun": [
+"006CBF",
+"11910D"
+],
+"resamplepicture": [
+"006CBF",
+"202020",
+"B27C00"
+],
+"resizablecontrol": [
+"202020"
+],
+"resize": [
+"202020"
+],
+"resizegrip": [
+"202020"
+],
+"resourcesymbol": [
+"202020"
+],
+"resourcetemplate": [
+"006CBF",
+"202020",
+"B27C00"
+],
+"resourcetype": [
+"202020"
+],
+"resourceview": [
+"006CBF",
+"202020",
+"B27C00"
+],
+"restart": [
+"202020"
+],
+"restoredefaultview": [
+"006CBF",
+"202020"
+],
+"restoreimage": [
+"006CBF",
+"202020",
+"B27C00"
+],
+"restorelocalserver": [
+"006CBF",
+"202020"
+],
+"restoremtr": [
+"006CBF",
+"202020"
+],
+"restoreservicedependencies": [
+"006CBF",
+"202020"
+],
+"restoreservicedependencieswarning": [
+"006CBF",
+"202020",
+"B27C00"
+],
+"restoresnapshot": [
+"006CBF",
+"159195",
+"202020"
+],
+"resultstogrid": [
+"006CBF",
+"202020"
+],
+"resultstorulefile": [
+"202020"
+],
+"resultstotextfile": [
+"006CBF",
+"202020"
+],
+"resumephone": [
+"11910D",
+"202020"
+],
+"rethrow": [
+"006CBF",
+"202020"
+],
+"retrieve": [
+"006CBF",
+"202020"
+],
+"return": [
+"202020"
+],
+"returnapplicationinsights": [
+"006CBF",
+"5C2E91"
+],
+"returnparameter": [
+"006CBF",
+"202020"
+],
+"returnvalue": [
+"006CBF",
+"202020"
+],
+"returnvaluecollapsed": [
+"006CBF",
+"202020"
+],
+"returnvalueexpanded": [
+"006CBF",
+"202020"
+],
+"reuseexistingprops": [
+"006CBF",
+"202020"
+],
+"reverse": [
+"006CBF",
+"202020"
+],
+"reversegradient": [
+"202020"
+],
+"reverserun": [
+"006CBF"
+],
+"rgsregistrationscript": [
+"202020"
+],
+"ribbonmenu": [
+"202020"
+],
+"ribbonmenuaction": [
+"006CBF",
+"202020"
+],
+"richtextbox": [
+"006CBF",
+"202020"
+],
+"richtooltip": [
+"006CBF",
+"202020"
+],
+"rightarrowasterisk": [
+"202020"
+],
+"rightborder": [
+"202020"
+],
+"rightcarriagereturn": [
+"006CBF",
+"202020"
+],
+"rightcolumnoftwocolumnsleftsplit": [
+"202020"
+],
+"rightsideonly": [
+"202020"
+],
+"rigidrelationshiperror": [
+"006CBF",
+"C50F1F"
+],
+"rigidrelationshipinformation": [
+"006CBF"
+],
+"rigidrelationshipwarning": [
+"006CBF",
+"B27C00"
+],
+"rotate": [
+"006CBF",
+"202020"
+],
+"rotateleft": [
+"006CBF",
+"202020"
+],
+"rotateright": [
+"006CBF",
+"202020"
+],
+"roundcap": [
+"202020"
+],
+"roundedcorner": [
+"202020"
+],
+"roundedrectangle": [
+"202020"
+],
+"roundjoint": [
+"202020"
+],
+"routeservice": [
+"006CBF",
+"202020"
+],
+"routeserviceerror": [
+"006CBF",
+"202020",
+"C50F1F"
+],
+"routeservicewarning": [
+"006CBF",
+"202020",
+"B27C00"
+],
+"rowgroups": [
+"006CBF",
+"202020"
+],
+"rowlabels": [
+"006CBF",
+"202020"
+],
+"rss": [
+"DE590B"
+],
+"rsslink": [
+"006CBF",
+"DE590B"
+],
+"rttag": [
+"202020"
+],
+"rule": [
+"202020"
+],
+"ruleerror": [
+"202020",
+"C50F1F"
+],
+"ruler": [
+"B27C00"
+],
+"rulermeasure": [
+"006CBF",
+"B27C00"
+],
+"rulewarning": [
+"202020",
+"B27C00"
+],
+"run": [
+"11910D"
+],
+"runabovecells": [
+"006CBF",
+"11910D"
+],
+"runall": [
+"11910D"
+],
+"runbelowcells": [
+"006CBF",
+"11910D"
+],
+"runchecked": [
+"11910D",
+"202020"
+],
+"runfailedtest": [
+"11910D",
+"C50F1F"
+],
+"runfilter": [
+"11910D",
+"202020"
+],
+"runliveunittest": [
+"11910D",
+"B27C00"
+],
+"runmemorysampling": [
+"11910D",
+"202020"
+],
+"runoutline": [
+"11910D"
+],
+"runoutlinenocolor": [
+"202020"
+],
+"runpaused": [
+"11910D"
+],
+"runperformance": [
+"11910D",
+"202020"
+],
+"runperformancewithoutdebugging": [
+"11910D",
+"202020"
+],
+"runquery": [
+"11910D",
+"202020",
+"B27C00"
+],
+"runtest": [
+"11910D",
+"159195",
+"202020"
+],
+"runtestdialog": [
+"11910D",
+"202020"
+],
+"runthread": [
+"006CBF",
+"11910D",
+"5C2E91"
+],
+"runupdate": [
+"006CBF",
+"11910D"
+],
+"s": [
+"202020"
+],
+"samplesfolder": [
+"202020",
+"B27C00"
+],
+"sapdestination": [
+"006CBF",
+"202020"
+],
+"sapodata": [
+"202020"
+],
+"sapsource": [
+"006CBF",
+"202020"
+],
+"sassstylesheet": [
+"202020",
+"E43BA6"
+],
+"save": [
+"006CBF"
+],
+"saveall": [
+"006CBF"
+],
+"saveandclose": [
+"006CBF",
+"202020"
+],
+"saveas": [
+"006CBF",
+"202020"
+],
+"savefiledialog": [
+"006CBF",
+"202020"
+],
+"savetable": [
+"006CBF",
+"202020"
+],
+"scaffold": [
+"202020"
+],
+"scalarfunction": [
+"202020"
+],
+"scalarfunctionerror": [
+"202020",
+"C50F1F"
+],
+"scalarfunctionwarning": [
+"202020",
+"B27C00"
+],
+"scale": [
+"202020"
+],
+"scatterchart": [
+"202020",
+"3487C7"
+],
+"scatterlinechart": [
+"202020",
+"3487C7"
+],
+"scattersmoothlinechart": [
+"202020",
+"3487C7"
+],
+"scatterview": [
+"006CBF",
+"202020"
+],
+"schema": [
+"202020"
+],
+"schemaerror": [
+"202020",
+"3487C7",
+"C50F1F"
+],
+"schemaproperty": [
+"202020"
+],
+"schemawarning": [
+"202020",
+"3487C7",
+"B27C00"
+],
+"scissortest": [
+"006CBF",
+"202020"
+],
+"scope": [
+"202020"
+],
+"scoperoot": [
+"006CBF",
+"202020"
+],
+"screenshot": [
+"202020"
+],
+"screwdriver": [
+"006CBF",
+"202020"
+],
+"script": [
+"202020"
+],
+"scripterror": [
+"202020",
+"C50F1F"
+],
+"scriptgroup": [
+"202020"
+],
+"scriptlink": [
+"006CBF",
+"202020"
+],
+"scriptmanager": [
+"202020"
+],
+"scriptpreview": [
+"006CBF",
+"202020"
+],
+"scriptwarning": [
+"202020",
+"B27C00"
+],
+"scrollbararrowcollapsed": [
+"202020"
+],
+"scrollbararrowdownright": [
+"202020"
+],
+"scrollbox": [
+"006CBF",
+"202020"
+],
+"scrollviewer": [
+"006CBF",
+"202020",
+"B27C00"
+],
+"scsicontroller": [
+"202020"
+],
+"sdk": [
+"202020"
+],
+"sdkerror": [
+"202020",
+"C50F1F"
+],
+"sdkprivate": [
+"202020"
+],
+"sdkwarning": [
+"202020",
+"B27C00"
+],
+"search": [
+"202020"
+],
+"searchcontract": [
+"006CBF",
+"202020"
+],
+"searchfolderclosed": [
+"006CBF",
+"B27C00"
+],
+"searchfolderopened": [
+"006CBF",
+"B27C00"
+],
+"searchgo": [
+"202020"
+],
+"searchmember": [
+"006CBF",
+"202020"
+],
+"searchproperty": [
+"006CBF",
+"202020"
+],
+"searchsparkle": [
+"202020"
+],
+"secondoffourcolumns": [
+"202020"
+],
+"secondoffourrows": [
+"202020"
+],
+"secondofthreecolumns": [
+"202020"
+],
+"secondofthreerows": [
+"202020"
+],
+"secondoftwocolumns": [
+"202020"
+],
+"secondoftworows": [
+"202020"
+],
+"select": [
+"006CBF",
+"202020"
+],
+"selectall": [
+"202020"
+],
+"selectallrowsfromlefttable": [
+"202020"
+],
+"selectallrowsfromrighttable": [
+"202020"
+],
+"selectcell": [
+"006CBF",
+"202020"
+],
+"selectcolumn": [
+"006CBF",
+"202020"
+],
+"selectcolumns": [
+"006CBF",
+"202020"
+],
+"selectdocumentgroup": [
+"11910D",
+"202020"
+],
+"selectedclass": [
+"202020",
+"B27C00"
+],
+"selectedge": [
+"006CBF",
+"202020"
+],
+"selectface": [
+"006CBF",
+"202020"
+],
+"selectframe": [
+"202020"
+],
+"selectobject": [
+"006CBF"
+],
+"selectpoint": [
+"006CBF",
+"202020"
+],
+"selectrows": [
+"006CBF",
+"202020"
+],
+"selecttable": [
+"006CBF"
+],
+"selectwindowprocess": [
+"202020",
+"3487C7"
+],
+"selectxy": [
+"006CBF",
+"202020"
+],
+"semanticzoom": [
+"202020"
+],
+"send": [
+"202020"
+],
+"sendandreceivereply": [
+"006CBF",
+"202020"
+],
+"sendbackward": [
+"006CBF",
+"202020"
+],
+"sendreply": [
+"006CBF",
+"202020"
+],
+"sendsignalaction": [
+"202020"
+],
+"sendtest": [
+"006CBF",
+"202020"
+],
+"sendtoback": [
+"006CBF",
+"202020"
+],
+"sendtofsi": [
+"006CBF",
+"11910D",
+"202020"
+],
+"sendtoremoteagent": [
+"202020",
+"3487C7"
+],
+"sequence": [
+"006CBF",
+"202020"
+],
+"sequencecluster": [
+"202020"
+],
+"sequencediagram": [
+"006CBF",
+"202020"
+],
+"sequencefile": [
+"202020"
+],
+"serialkey": [
+"006CBF",
+"202020"
+],
+"serialport": [
+"202020"
+],
+"serverdatabase": [
+"202020",
+"3487C7"
+],
+"servermethod": [
+"202020",
+"5C2E91"
+],
+"serverreport": [
+"202020"
+],
+"serverrolemembership": [
+"202020"
+],
+"serverruntest": [
+"11910D",
+"202020"
+],
+"serversettings": [
+"202020"
+],
+"servertest": [
+"159195",
+"202020"
+],
+"servicebusqueuelisttrid": [
+"202020"
+],
+"servicebusqueuetrid": [
+"202020"
+],
+"servicebussubscriptionlisttrid": [
+"006CBF",
+"202020"
+],
+"servicebussubscriptiontrid": [
+"006CBF",
+"202020"
+],
+"servicebustopic": [
+"006CBF",
+"202020"
+],
+"servicebustopictridlist": [
+"006CBF",
+"202020"
+],
+"servicebusworker": [
+"202020"
+],
+"servicecontroller": [
+"11910D",
+"202020"
+],
+"serviceoperation": [
+"006CBF",
+"202020"
+],
+"servicequeuedestination": [
+"006CBF",
+"202020"
+],
+"servicequeuesource": [
+"006CBF",
+"202020"
+],
+"services": [
+"202020"
+],
+"setfield": [
+"006CBF",
+"202020"
+],
+"setiterationcount": [
+"006CBF",
+"202020"
+],
+"setlanguage": [
+"006CBF"
+],
+"setlistitem": [
+"11910D",
+"202020"
+],
+"setproactivecaching": [
+"006CBF",
+"202020"
+],
+"settings": [
+"202020"
+],
+"settingsfile": [
+"202020"
+],
+"settingsfileerror": [
+"202020",
+"C50F1F"
+],
+"settingsgroup": [
+"202020"
+],
+"settingsgrouperror": [
+"202020",
+"C50F1F"
+],
+"settingsgroupwarning": [
+"202020",
+"B27C00"
+],
+"settingspanel": [
+"202020"
+],
+"settingsstorage": [
+"202020",
+"3487C7"
+],
+"setworkflowstate": [
+"11910D",
+"202020"
+],
+"sftpdestination": [
+"006CBF",
+"202020"
+],
+"sftpsource": [
+"006CBF",
+"202020"
+],
+"shader": [
+"202020",
+"444444",
+"6A6A6A",
+"8F8F8F",
+"B4B4B4",
+"DADADA"
+],
+"shaderkill": [
+"202020",
+"444444",
+"6A6A6A",
+"8F8F8F",
+"B4B4B4",
+"C50F1F",
+"DADADA"
+],
+"shaderothers": [
+"202020",
+"444444",
+"6A6A6A",
+"8F8F8F",
+"B4B4B4",
+"DADADA"
+],
+"shaderspot": [
+"202020",
+"444444",
+"6A6A6A",
+"8F8F8F",
+"B4B4B4",
+"DADADA"
+],
+"shaderunit": [
+"202020"
+],
+"shape": [
+"202020"
+],
+"share": [
+"11910D",
+"202020"
+],
+"sharecontract": [
+"006CBF",
+"202020"
+],
+"shareddatasource": [
+"006CBF",
+"3487C7"
+],
+"sharedproject": [
+"202020"
+],
+"sharedprojecterror": [
+"202020",
+"C50F1F"
+],
+"sharedprojectprivate": [
+"202020"
+],
+"sharedprojectwarning": [
+"202020",
+"B27C00"
+],
+"sharedstepset": [
+"202020"
+],
+"sharelink": [
+"006CBF",
+"202020"
+],
+"sharesnapshot": [
+"159195",
+"202020"
+],
+"shelvependingchanges": [
+"006CBF",
+"202020"
+],
+"shortcut": [
+"202020"
+],
+"showallattributes": [
+"006CBF",
+"202020"
+],
+"showallcode": [
+"202020"
+],
+"showallconfigurations": [
+"202020"
+],
+"showallfiles": [
+"006CBF",
+"202020"
+],
+"showallthreads": [
+"006CBF",
+"5C2E91"
+],
+"showassignedconfigurations": [
+"202020"
+],
+"showbuiltins": [
+"202020"
+],
+"showcallergraph": [
+"006CBF",
+"202020"
+],
+"showcallgraph": [
+"006CBF",
+"202020"
+],
+"showconflicts": [
+"202020",
+"C50F1F"
+],
+"showdatapreview": [
+"006CBF",
+"202020"
+],
+"showdetailspane": [
+"202020"
+],
+"showdiagrampane": [
+"202020"
+],
+"showemptycells": [
+"006CBF",
+"202020"
+],
+"showfullhistory": [
+"202020"
+],
+"showgrid": [
+"202020"
+],
+"showhiddenelements": [
+"202020"
+],
+"showhotlines": [
+"202020",
+"C50F1F"
+],
+"showlayout": [
+"202020"
+],
+"showmembertypes": [
+"202020"
+],
+"showmethodpane": [
+"202020",
+"5C2E91"
+],
+"showorhidecomparisondata": [
+"006CBF",
+"11910D",
+"202020",
+"C50F1F"
+],
+"showorhidedeleteditems": [
+"202020"
+],
+"showorhidefolder": [
+"202020",
+"B27C00"
+],
+"showparentnodeonly": [
+"006CBF",
+"202020"
+],
+"showpropertiesontop": [
+"202020"
+],
+"showreferencedelements": [
+"202020"
+],
+"showreflexiveview": [
+"202020"
+],
+"showrelationshiplabels": [
+"202020"
+],
+"showresultspane": [
+"006CBF",
+"202020"
+],
+"showstartpage": [
+"006CBF",
+"202020"
+],
+"showstartwindow": [
+"006CBF",
+"202020"
+],
+"showtemplateregionlabel": [
+"006CBF",
+"202020"
+],
+"showtrimmedcalltree": [
+"202020"
+],
+"showvisualaids": [
+"202020"
+],
+"showworddiff": [
+"006CBF",
+"202020"
+],
+"shutdown": [
+"202020"
+],
+"sidebyside": [
+"202020"
+],
+"signaturefile": [
+"202020"
+],
+"signingkey": [
+"202020"
+],
+"silverlight": [
+"414141",
+"F6F6F6",
+"FFFFFF"
+],
+"silverlightapplication": [
+"414141",
+"F0EFF1",
+"F6F6F6",
+"FFFFFF"
+],
+"silverlightdictionary": [
+"414141",
+"F0EFF1",
+"F6F6F6",
+"FFFFFF"
+],
+"silverlightfolderclosed": [
+"424242",
+"DCB67A",
+"F0EFF1",
+"F6F6F6",
+"FFFFFF"
+],
+"silverlightfolderopened": [
+"424242",
+"DBB679",
+"EFEFF0",
+"F6F6F6",
+"FFFFFF"
+],
+"silverlightlibrary": [
+"414141",
+"F0EFF1",
+"F6F6F6",
+"FFFFFF"
+],
+"silverlightphone": [
+"414141",
+"F0EFF1",
+"F6F6F6",
+"FFFFFF"
+],
+"silverlighttemplate": [
+"414141",
+"F6F6F6",
+"FFFFFF"
+],
+"silverlightusercontrol": [
+"414141",
+"F6F6F6",
+"FFFFFF"
+],
+"silverlightvideo": [
+"414141",
+"F0EFF1",
+"F6F6F6",
+"FFFFFF"
+],
+"silverlightwebsite": [
+"202020"
+],
+"sitedefinition": [
+"202020"
+],
+"sitemap": [
+"202020"
+],
+"sixx": [
+"202020"
+],
+"sketchflowannotation": [
+"202020"
+],
+"sketchflowcompdim": [
+"202020"
+],
+"sketchflownavdim": [
+"202020"
+],
+"sketchflowremovescreen": [
+"202020",
+"C50F1F"
+],
+"sketchflowtransitioneffect": [
+"006CBF",
+"202020"
+],
+"skinfile": [
+"006CBF",
+"11910D",
+"202020",
+"C50F1F"
+],
+"slider": [
+"202020"
+],
+"slideshow": [
+"006CBF",
+"202020",
+"B27C00"
+],
+"small": [
+"202020"
+],
+"smarttag": [
+"202020"
+],
+"smtpconnection": [
+"202020"
+],
+"snaptogrid": [
+"006CBF",
+"202020"
+],
+"snippet": [
+"202020"
+],
+"snippetchecked": [
+"11910D",
+"202020"
+],
+"softwaredefinitionmodel": [
+"202020"
+],
+"solution": [
+"202020",
+"9529C2"
+],
+"solutionexplorerviews": [
+"202020",
+"9529C2"
+],
+"solutionfilter": [
+"424242",
+"5C2D91",
+"F6F6F6",
+"FFFFFF"
+],
+"solutionfolderswitch": [
+"006CBF",
+"202020",
+"B27C00"
+],
+"solutionnocolor": [
+"424242",
+"F6F6F6",
+"FFFFFF"
+],
+"solutionv11": [
+"414141",
+"672079",
+"F0EFF1",
+"F6F6F6",
+"FFFFFF"
+],
+"solutionv12": [
+"414141",
+"672079",
+"F0EFF1",
+"F6F6F6",
+"FFFFFF"
+],
+"solutionv14": [
+"414141",
+"672079",
+"F0EFF1",
+"F6F6F6",
+"FFFFFF"
+],
+"solutionv15": [
+"424242",
+"672179",
+"EFEFF0",
+"F6F6F6",
+"FFFFFF"
+],
+"sortascending": [
+"006CBF",
+"202020"
+],
+"sortbycolumn": [
+"006CBF",
+"202020"
+],
+"sortbynamespace": [
+"006CBF",
+"202020"
+],
+"sortbytype": [
+"006CBF",
+"202020"
+],
+"sortdescending": [
+"006CBF",
+"202020"
+],
+"sortingbygrouping": [
+"006CBF",
+"202020"
+],
+"sortlines": [
+"006CBF",
+"202020"
+],
+"sound": [
+"202020"
+],
+"sourcebrowserdatabase": [
+"202020",
+"3487C7"
+],
+"sourcecontrol": [
+"11910D",
+"B27C00"
+],
+"sourcecontroleditable": [
+"B27C00"
+],
+"sourcecontroleditablenode": [
+"006CBF"
+],
+"sourcecontrolexcluded": [
+"C50F1F"
+],
+"sourcecontrolexcludednode": [
+"C50F1F"
+],
+"sourcecontrolexplorer": [
+"11910D",
+"B27C00"
+],
+"sourcecontrolmanager": [
+"202020"
+],
+"sourcecontrolorphaned": [
+"11910D"
+],
+"sourcecontrolorphanednode": [
+"202020"
+],
+"sourcecontrolsites": [
+"006CBF",
+"B27C00"
+],
+"sourcefilegroup": [
+"202020"
+],
+"space": [
+"202020"
+],
+"spaceacross": [
+"202020"
+],
+"spacedown": [
+"202020"
+],
+"span": [
+"006CBF",
+"202020"
+],
+"sparkle": [
+"006CBF"
+],
+"sparklenocolor": [
+"202020"
+],
+"specialfolderclosed": [
+"202020",
+"B27C00"
+],
+"specialfolderopened": [
+"202020",
+"B27C00"
+],
+"spellcheck": [
+"11910D",
+"202020"
+],
+"spherepreview": [
+"202020"
+],
+"spinner": [
+"202020"
+],
+"splashscreen": [
+"202020"
+],
+"splineareachart": [
+"202020",
+"3487C7"
+],
+"splinechart": [
+"202020",
+"3487C7"
+],
+"splinerangechart": [
+"202020",
+"3487C7"
+],
+"split": [
+"202020"
+],
+"splitapplication": [
+"202020"
+],
+"splitbutton": [
+"202020"
+],
+"splitdocument": [
+"202020"
+],
+"splitkeyvaluepair": [
+"202020"
+],
+"splitpageitem": [
+"202020"
+],
+"splitscreenhorizontally": [
+"202020"
+],
+"splitscreenvertically": [
+"202020"
+],
+"splitter": [
+"202020"
+],
+"splittree": [
+"202020"
+],
+"spotlight": [
+"202020",
+"B27C00"
+],
+"spy": [
+"202020"
+],
+"sqldatabase": [
+"202020",
+"3487C7"
+],
+"sqlquerychecked": [
+"11910D",
+"202020"
+],
+"sqlqueryunchecked": [
+"202020"
+],
+"sqlserverobjectexplorer": [
+"202020",
+"5C2E91"
+],
+"squarecap": [
+"202020"
+],
+"sslash": [
+"202020"
+],
+"stackedareachart": [
+"202020",
+"3487C7"
+],
+"stackedareadashlinechart": [
+"202020",
+"3487C7"
+],
+"stackedbarchart": [
+"202020",
+"3487C7"
+],
+"stackedbardashlinechart": [
+"202020",
+"3487C7"
+],
+"stackedcolumnchart": [
+"202020",
+"3487C7"
+],
+"stackedcolumndashlinechart": [
+"202020",
+"3487C7"
+],
+"stackedlinechart": [
+"202020",
+"3487C7"
+],
+"stackpanel": [
+"202020"
+],
+"startgraphicdiagnostics": [
+"11910D",
+"159195",
+"202020"
+],
+"starthierarchy": [
+"11910D",
+"202020"
+],
+"startlogging": [
+"11910D",
+"159195",
+"202020"
+],
+"startpoint": [
+"202020"
+],
+"starttestgroupwithdebugger": [
+"11910D",
+"159195",
+"202020"
+],
+"starttestwithoutdebugger": [
+"11910D",
+"159195",
+"202020"
+],
+"starttime": [
+"11910D",
+"202020"
+],
+"startupapplication": [
+"11910D",
+"202020"
+],
+"startwebsite": [
+"006CBF",
+"11910D"
+],
+"startwithperformanceprofilingpaused": [
+"006CBF",
+"11910D",
+"202020"
+],
+"stash": [
+"202020"
+],
+"state": [
+"006CBF",
+"202020"
+],
+"stateindicator": [
+"202020"
+],
+"statemachine": [
+"202020"
+],
+"statistics": [
+"202020"
+],
+"statisticserror": [
+"202020",
+"C50F1F"
+],
+"statisticswarning": [
+"202020",
+"B27C00"
+],
+"statusalert": [
+"006CBF"
+],
+"statusalertoutline": [
+"006CBF"
+],
+"statuschangedinline": [
+"005DBA"
+],
+"statuserror": [
+"C50F1F"
+],
+"statuserrornew": [
+"11910D",
+"C50F1F"
+],
+"statuserrornocolor": [
+"202020"
+],
+"statuserroroutline": [
+"C50F1F"
+],
+"statusexcluded": [
+"C50F1F"
+],
+"statusexcludedoutline": [
+"202020"
+],
+"statusfilter": [
+"006CBF"
+],
+"statushelp": [
+"006CBF"
+],
+"statushelpoutline": [
+"006CBF"
+],
+"statushidden": [
+"202020"
+],
+"statusinformation": [
+"006CBF"
+],
+"statusinformationnocolor": [
+"202020"
+],
+"statusinformationoutline": [
+"006CBF"
+],
+"statusinformationoutlinenocolor": [
+"202020"
+],
+"statusinvalid": [
+"C50F1F"
+],
+"statusinvalidoutline": [
+"C50F1F"
+],
+"statusinvalidoutlinenocolor": [
+"202020"
+],
+"statusno": [
+"C50F1F"
+],
+"statusnonocolor": [
+"202020"
+],
+"statusnotstarted": [
+"202020"
+],
+"statusoffline": [
+"C50F1F"
+],
+"statusok": [
+"11910D"
+],
+"statusoknew": [
+"11910D"
+],
+"statusoknocolor": [
+"202020"
+],
+"statusokoutline": [
+"11910D"
+],
+"statuspaused": [
+"006CBF"
+],
+"statuspausedoutline": [
+"006CBF"
+],
+"statusready": [
+"202020"
+],
+"statusrequired": [
+"C50F1F"
+],
+"statusrequiredoutline": [
+"C50F1F"
+],
+"statusrunning": [
+"11910D"
+],
+"statusrunningnocolor": [
+"202020"
+],
+"statussecuritycritical": [
+"C50F1F"
+],
+"statussecurityok": [
+"11910D"
+],
+"statussecuritywarning": [
+"B27C00"
+],
+"statusstopped": [
+"C50F1F"
+],
+"statusstoppedoutline": [
+"202020"
+],
+"statusstrip": [
+"202020"
+],
+"statussuppressed": [
+"C50F1F"
+],
+"statussuppressedoutline": [
+"C50F1F"
+],
+"statusupdateavailable": [
+"006CBF"
+],
+"statuswarning": [
+"B27C00"
+],
+"statuswarningnocolor": [
+"202020"
+],
+"statuswarningoutline": [
+"B27C00"
+],
+"stenciltest": [
+"202020"
+],
+"step": [
+"202020"
+],
+"stepbackinto": [
+"006CBF"
+],
+"stepbackout": [
+"006CBF"
+],
+"stepbackover": [
+"006CBF"
+],
+"stepbackward": [
+"006CBF"
+],
+"stepforward": [
+"006CBF"
+],
+"stepinto": [
+"006CBF"
+],
+"steplinechart": [
+"202020",
+"3487C7"
+],
+"stepout": [
+"006CBF"
+],
+"stepover": [
+"006CBF"
+],
+"sticktothethread": [
+"006CBF",
+"5C2E91"
+],
+"stockchart": [
+"202020",
+"3487C7"
+],
+"stop": [
+"C50F1F"
+],
+"stopapplyingcodechanges": [
+"202020",
+"C50F1F"
+],
+"stopfilter": [
+"202020",
+"C50F1F"
+],
+"stoplogging": [
+"159195",
+"202020",
+"C50F1F"
+],
+"stopphonelandscape": [
+"202020",
+"C50F1F"
+],
+"stopquery": [
+"202020",
+"B27C00",
+"C50F1F"
+],
+"stoptime": [
+"202020",
+"C50F1F"
+],
+"storagecontainer": [
+"202020"
+],
+"storagecontainergroup": [
+"202020"
+],
+"storagedriver": [
+"202020"
+],
+"storagedriverpackage": [
+"202020"
+],
+"stored": [
+"006CBF",
+"202020"
+],
+"storedpackage": [
+"202020",
+"3487C7"
+],
+"storedprocedure": [
+"202020"
+],
+"storedprocedurechecked": [
+"202020"
+],
+"storedprocedureerror": [
+"202020",
+"C50F1F"
+],
+"storedprocedurescript": [
+"202020"
+],
+"storedprocedurewarning": [
+"202020",
+"B27C00"
+],
+"storevirtualmachine": [
+"006CBF",
+"202020"
+],
+"streamingsyncing": [
+"006CBF",
+"202020"
+],
+"streamingwarning": [
+"202020",
+"B27C00"
+],
+"strikethrough": [
+"202020"
+],
+"string": [
+"202020"
+],
+"stringdata": [
+"202020"
+],
+"stringquote": [
+"202020"
+],
+"stringregistryvalue": [
+"202020"
+],
+"stroke": [
+"202020"
+],
+"strokeopacity": [
+"202020"
+],
+"stronghierarchy": [
+"006CBF",
+"202020"
+],
+"strongnamekey": [
+"202020"
+],
+"structure": [
+"006CBF"
+],
+"structurecollection": [
+"006CBF"
+],
+"structureinternal": [
+"006CBF",
+"202020"
+],
+"structureprivate": [
+"006CBF",
+"202020"
+],
+"structureprotected": [
+"006CBF",
+"202020"
+],
+"structurepublic": [
+"006CBF"
+],
+"structuresealed": [
+"006CBF",
+"202020"
+],
+"structureshortcut": [
+"006CBF",
+"202020"
+],
+"styleblock": [
+"006CBF",
+"202020"
+],
+"stylesheet": [
+"202020",
+"C50F1F"
+],
+"subreport": [
+"202020"
+],
+"subreportparamater": [
+"202020"
+],
+"subscript": [
+"202020"
+],
+"substitution": [
+"006CBF",
+"202020"
+],
+"subtractfront": [
+"202020"
+],
+"subtractmember": [
+"006CBF",
+"202020"
+],
+"subtractmemberformula": [
+"006CBF",
+"202020"
+],
+"suggestedactionsexpander": [
+"202020"
+],
+"summary": [
+"202020"
+],
+"summaryview": [
+"202020"
+],
+"superscript": [
+"202020"
+],
+"switchfolders": [
+"006CBF",
+"B27C00"
+],
+"switchsourceortarget": [
+"202020"
+],
+"switchtodataview": [
+"202020",
+"3487C7"
+],
+"switchtodesignmode": [
+"006CBF",
+"202020"
+],
+"switchtopreview": [
+"006CBF",
+"202020"
+],
+"symlinkfile": [
+"006CBF",
+"202020"
+],
+"symmetrickey": [
+"006CBF",
+"202020"
+],
+"symmetrickeyerror": [
+"006CBF",
+"202020",
+"C50F1F"
+],
+"symmetrickeywarning": [
+"006CBF",
+"202020",
+"B27C00"
+],
+"sync": [
+"202020"
+],
+"synccontent": [
+"006CBF",
+"202020"
+],
+"syncdatabase": [
+"006CBF",
+"3487C7"
+],
+"synchronousmessage": [
+"006CBF",
+"202020"
+],
+"syncserver": [
+"006CBF",
+"202020"
+],
+"synonym": [
+"202020"
+],
+"synonymerror": [
+"202020",
+"C50F1F"
+],
+"synonymwarning": [
+"202020",
+"B27C00"
+],
+"systemdiagram": [
+"202020"
+],
+"systeminfo": [
+"006CBF",
+"202020"
+],
+"systemresources": [
+"202020"
+],
+"tab": [
+"006CBF",
+"202020"
+],
+"table": [
+"202020"
+],
+"tableadapter": [
+"006CBF",
+"202020",
+"3487C7"
+],
+"tablealignbottom": [
+"202020"
+],
+"tablealignmiddle": [
+"202020"
+],
+"tablealigntop": [
+"202020"
+],
+"tableerror": [
+"202020",
+"C50F1F"
+],
+"tablefilldown": [
+"006CBF",
+"202020"
+],
+"tablefillleft": [
+"006CBF",
+"202020"
+],
+"tablefillright": [
+"006CBF",
+"202020"
+],
+"tablefunction": [
+"202020"
+],
+"tablefunctionerror": [
+"202020",
+"C50F1F"
+],
+"tablefunctionwarning": [
+"202020",
+"B27C00"
+],
+"tablegroup": [
+"202020"
+],
+"tablegrouperror": [
+"202020",
+"C50F1F"
+],
+"tableheader": [
+"006CBF",
+"202020"
+],
+"tablekey": [
+"202020"
+],
+"tablemissing": [
+"202020"
+],
+"tableok": [
+"11910D",
+"202020"
+],
+"tablescript": [
+"202020"
+],
+"tabletlaptop": [
+"202020"
+],
+"tabletsettings": [
+"202020"
+],
+"tabletwarning": [
+"202020",
+"B27C00"
+],
+"tableviewnameonly": [
+"202020"
+],
+"tablewarning": [
+"202020",
+"B27C00"
+],
+"tablewizard": [
+"202020"
+],
+"tag": [
+"202020"
+],
+"tagsnippet": [
+"202020"
+],
+"takesnapshot": [
+"202020"
+],
+"takesourceversion": [
+"006CBF",
+"202020"
+],
+"tapedrive": [
+"006CBF",
+"202020"
+],
+"targetfile": [
+"202020"
+],
+"targetfileerror": [
+"202020",
+"C50F1F"
+],
+"targetfileprivate": [
+"202020"
+],
+"targetfilewarning": [
+"202020",
+"B27C00"
+],
+"task": [
+"11910D",
+"202020"
+],
+"taskcontenttype": [
+"202020"
+],
+"tasklist": [
+"202020"
+],
+"tasklistid": [
+"202020"
+],
+"team": [
+"202020"
+],
+"teamfoundationserver": [
+"202020"
+],
+"teamgitrepository": [
+"424242",
+"EFEFF0",
+"F05133",
+"F6F6F6",
+"FFFFFF"
+],
+"teamproject": [
+"202020"
+],
+"teamprojectcollection": [
+"202020"
+],
+"teamprojectcollectionoffline": [
+"202020",
+"C50F1F"
+],
+"teamprojectrepositoryfolder": [
+"202020",
+"B27C00"
+],
+"teapotpreview": [
+"202020"
+],
+"template": [
+"202020"
+],
+"templatecolumn": [
+"202020"
+],
+"templateinternal": [
+"202020"
+],
+"templateprivate": [
+"202020"
+],
+"templateprotected": [
+"202020"
+],
+"templatepublic": [
+"202020"
+],
+"templatesealed": [
+"202020"
+],
+"templateshortcut": [
+"202020"
+],
+"termextraction": [
+"006CBF",
+"202020"
+],
+"terminalreadonly": [
+"202020"
+],
+"terminalreadwrite": [
+"006CBF",
+"202020"
+],
+"terminateprocess": [
+"202020",
+"C50F1F"
+],
+"test": [
+"159195",
+"202020"
+],
+"testapplication": [
+"159195",
+"202020"
+],
+"testcontroller": [
+"159195",
+"202020"
+],
+"testcoveredexception": [
+"C50F1F"
+],
+"testcoveredfailing": [
+"C50F1F"
+],
+"testcoveredfailingexception": [
+"C50F1F"
+],
+"testcoveredfailingstale": [
+"202020",
+"C50F1F"
+],
+"testcoveredpassing": [
+"11910D"
+],
+"testcoveredpassingstale": [
+"11910D",
+"202020"
+],
+"testgroup": [
+"159195",
+"202020"
+],
+"testlist": [
+"159195",
+"202020"
+],
+"testmanager": [
+"159195",
+"202020"
+],
+"testmethodexcluded": [
+"202020"
+],
+"testmethodexcludedstale": [
+"202020"
+],
+"testmethodfailing": [
+"159195",
+"202020",
+"C50F1F"
+],
+"testmethodnotcovered": [
+"006CBF",
+"159195",
+"202020"
+],
+"testmethodpassing": [
+"11910D",
+"159195",
+"202020"
+],
+"testmethodstale": [
+"159195",
+"202020"
+],
+"testnotcovered": [
+"006CBF"
+],
+"testnotcoveredstale": [
+"006CBF",
+"202020"
+],
+"testnotinlist": [
+"159195",
+"202020",
+"C50F1F"
+],
+"testpass": [
+"159195",
+"202020"
+],
+"testplan": [
+"159195",
+"202020"
+],
+"testplanproperty": [
+"159195",
+"202020"
+],
+"testplans": [
+"202020",
+"B27C00"
+],
+"testproperty": [
+"159195",
+"202020"
+],
+"testresult": [
+"11910D",
+"159195",
+"202020",
+"C50F1F"
+],
+"testresultdetails": [
+"159195",
+"202020"
+],
+"testrun": [
+"11910D",
+"159195",
+"202020"
+],
+"testrunner": [
+"202020"
+],
+"testrunproperty": [
+"11910D",
+"202020"
+],
+"testsettings": [
+"159195",
+"202020"
+],
+"testsuite": [
+"159195",
+"202020",
+"B27C00"
+],
+"testsuiterequirement": [
+"159195",
+"202020",
+"B27C00"
+],
+"testvariable": [
+"006CBF",
+"159195",
+"202020"
+],
+"textandimage": [
+"006CBF",
+"202020",
+"B27C00"
+],
+"textarea": [
+"202020"
+],
+"textblock": [
+"202020"
+],
+"textbox": [
+"202020"
+],
+"textcenter": [
+"202020"
+],
+"textelement": [
+"202020"
+],
+"textfile": [
+"202020"
+],
+"textjustify": [
+"202020"
+],
+"textleft": [
+"202020"
+],
+"textlineheight": [
+"006CBF",
+"202020"
+],
+"textright": [
+"202020"
+],
+"textspaceafter": [
+"006CBF",
+"202020"
+],
+"textspacebefore": [
+"006CBF",
+"202020"
+],
+"texturepicker": [
+"202020",
+"3487C7"
+],
+"tfsserver": [
+"202020"
+],
+"thirdoffourcolumns": [
+"202020"
+],
+"thirdoffourrows": [
+"202020"
+],
+"thirdofthreecolumns": [
+"202020"
+],
+"thirdofthreerows": [
+"202020"
+],
+"thisline": [
+"006CBF",
+"202020"
+],
+"thread": [
+"006CBF",
+"5C2E91"
+],
+"threadstopped": [
+"006CBF",
+"5C2E91",
+"C50F1F"
+],
+"threecolumns": [
+"202020"
+],
+"threedextrude": [
+"006CBF",
+"202020"
+],
+"threedpolygonsubdivision": [
+"202020"
+],
+"threedscene": [
+"202020"
+],
+"threelinebreakchart": [
+"202020",
+"3487C7"
+],
+"threerows": [
+"202020"
+],
+"thresholdrule": [
+"202020"
+],
+"throw": [
+"202020"
+],
+"tiffile": [
+"202020"
+],
+"time": [
+"202020"
+],
+"timeline": [
+"006CBF",
+"202020"
+],
+"timelinemarkblack": [
+"202020"
+],
+"timelinemarkgray": [
+"202020"
+],
+"timelinemarkpurple": [
+"5C2E91"
+],
+"timelinemarkred": [
+"C50F1F"
+],
+"timeout": [
+"202020",
+"C50F1F"
+],
+"timepicker": [
+"006CBF",
+"202020"
+],
+"timepickerlist": [
+"006CBF",
+"202020"
+],
+"timepickerscroller": [
+"006CBF",
+"202020"
+],
+"timer": [
+"202020"
+],
+"titletag": [
+"202020"
+],
+"toggleallbreakpoints": [
+"202020"
+],
+"toggleallbreakpointsredgroup": [
+"C50F1F"
+],
+"togglebutton": [
+"202020"
+],
+"toggleguides": [
+"202020"
+],
+"togglepivot": [
+"006CBF",
+"202020"
+],
+"togglepivotfreeform": [
+"202020"
+],
+"togglestackview": [
+"006CBF",
+"202020"
+],
+"toggleviewbyschema": [
+"006CBF",
+"202020"
+],
+"togglewireframe": [
+"202020"
+],
+"toggleworld": [
+"202020"
+],
+"toolbar": [
+"202020"
+],
+"toolbarpanel": [
+"006CBF",
+"202020"
+],
+"toolbartray": [
+"006CBF",
+"202020"
+],
+"toolbox": [
+"202020",
+"C50F1F"
+],
+"toolstripalignment": [
+"202020"
+],
+"toolstripcontainer": [
+"202020"
+],
+"toolstrippanelbottom": [
+"202020"
+],
+"toolstrippanelleft": [
+"202020"
+],
+"toolstrippanelright": [
+"202020"
+],
+"toolstrippaneltop": [
+"202020"
+],
+"tooltip": [
+"006CBF",
+"202020"
+],
+"toolwindow": [
+"202020"
+],
+"topborder": [
+"202020"
+],
+"topicdestination": [
+"006CBF",
+"202020"
+],
+"topicsource": [
+"006CBF",
+"202020"
+],
+"topleftoftwocolumnsleftsplit": [
+"202020"
+],
+"topleftoftworowstopsplit": [
+"202020"
+],
+"topleftoftworowstwocolumns": [
+"202020"
+],
+"toprightoftworowstopsplit": [
+"202020"
+],
+"toprightoftworowstwocolumns": [
+"202020"
+],
+"toprighttwocolumnsrightsplit": [
+"202020"
+],
+"toprowoftworowsbottomsplit": [
+"202020"
+],
+"touchabledevice": [
+"202020"
+],
+"tracepointdependent": [
+"C50F1F"
+],
+"tracepointdependentdisabled": [
+"C50F1F"
+],
+"tracepointdependenterror": [
+"C50F1F"
+],
+"tracepointdependentwarning": [
+"5C2E91",
+"B27C00",
+"C50F1F"
+],
+"tracepointdisabled": [
+"C50F1F"
+],
+"tracepointenabled": [
+"C50F1F"
+],
+"tracepointerror": [
+"C50F1F"
+],
+"tracepointwarning": [
+"B27C00",
+"C50F1F"
+],
+"tracetransferinto": [
+"006CBF",
+"11910D",
+"202020"
+],
+"tracetransferout": [
+"006CBF",
+"11910D",
+"202020"
+],
+"transactedreceivescope": [
+"006CBF",
+"202020"
+],
+"transactionalcomponent": [
+"202020"
+],
+"transactionnode": [
+"202020",
+"C50F1F"
+],
+"transactionscope": [
+"202020"
+],
+"transferdatabaseobject": [
+"006CBF",
+"202020"
+],
+"transfererrormessage": [
+"006CBF",
+"202020",
+"B27C00"
+],
+"transferjob": [
+"006CBF",
+"202020"
+],
+"transferlogin": [
+"006CBF",
+"202020"
+],
+"transferstoredprocedure": [
+"006CBF",
+"202020"
+],
+"transform": [
+"006CBF",
+"202020"
+],
+"transformlistitem": [
+"006CBF",
+"202020"
+],
+"transformpositioncursor": [
+"202020"
+],
+"transformrelative": [
+"202020"
+],
+"transitioningcontent": [
+"202020"
+],
+"translate": [
+"202020"
+],
+"translationview": [
+"006CBF",
+"202020"
+],
+"transparentbackground": [
+"202020"
+],
+"trash": [
+"202020"
+],
+"treelist": [
+"202020"
+],
+"treemap": [
+"006CBF",
+"202020"
+],
+"treeview": [
+"202020"
+],
+"triangle": [
+"202020"
+],
+"trigger": [
+"202020",
+"B27C00"
+],
+"triggeractionlistactive": [
+"11910D",
+"202020"
+],
+"triggeractionlistinactive": [
+"202020",
+"C50F1F"
+],
+"triggerdisabled": [
+"202020",
+"B27C00"
+],
+"triggererror": [
+"202020",
+"B27C00",
+"C50F1F"
+],
+"triggersactivewhenon": [
+"202020"
+],
+"triggerscript": [
+"202020",
+"B27C00"
+],
+"triggerwarning": [
+"202020",
+"B27C00"
+],
+"trycatch": [
+"006CBF",
+"202020"
+],
+"tsapplication": [
+"006CBF"
+],
+"tscordovamultidevice": [
+"DE590B"
+],
+"tsfilenode": [
+"006CBF"
+],
+"tsprojectnode": [
+"006CBF",
+"202020"
+],
+"tssourcefile": [
+"006CBF",
+"202020"
+],
+"turnofftablewidth": [
+"202020"
+],
+"tv": [
+"202020"
+],
+"twocolumns": [
+"202020"
+],
+"twocolumnsleftsplit": [
+"202020"
+],
+"twocolumnsrightsplit": [
+"202020"
+],
+"tworows": [
+"202020"
+],
+"tworowsbottomsplit": [
+"202020"
+],
+"tworowstopsplit": [
+"202020"
+],
+"tworowstwocolumns": [
+"202020"
+],
+"twowaydatabinding": [
+"006CBF",
+"3487C7"
+],
+"twowayendpoint": [
+"006CBF"
+],
+"twowayrelay": [
+"006CBF",
+"202020"
+],
+"twox": [
+"202020"
+],
+"txlineage": [
+"006CBF",
+"202020"
+],
+"txmergejoin": [
+"11910D",
+"202020"
+],
+"txprecentagesampling": [
+"202020"
+],
+"txrowcount": [
+"202020"
+],
+"txrowsampling": [
+"202020"
+],
+"tye": [
+"0457D2",
+"0597FF"
+],
+"tyeconfigure": [
+"0457D2",
+"0597FF",
+"202020"
+],
+"tyeplay": [
+"0457D2",
+"0597FF",
+"11910D"
+],
+"type": [
+"006CBF"
+],
+"typedefinition": [
+"006CBF",
+"202020"
+],
+"typedefinitioninternal": [
+"006CBF",
+"202020"
+],
+"typedefinitionprivate": [
+"006CBF",
+"202020"
+],
+"typedefinitionprotected": [
+"006CBF",
+"202020"
+],
+"typedefinitionpublic": [
+"006CBF",
+"202020"
+],
+"typedefinitionsealed": [
+"006CBF",
+"202020"
+],
+"typedefinitionshortcut": [
+"006CBF",
+"202020"
+],
+"typeinternal": [
+"006CBF",
+"202020"
+],
+"typeprivate": [
+"006CBF",
+"202020"
+],
+"typeprotected": [
+"006CBF",
+"202020"
+],
+"typepublic": [
+"006CBF"
+],
+"typesealed": [
+"006CBF",
+"202020"
+],
+"typeshortcut": [
+"006CBF",
+"202020"
+],
+"uacshield": [
+"1493DF",
+"2C74AD",
+"DC9F06",
+"FFCD00"
+],
+"ui": [
+"202020"
+],
+"uieditor": [
+"202020"
+],
+"uiexplorer": [
+"202020"
+],
+"umlmodel": [
+"202020"
+],
+"unblockingstack": [
+"202020"
+],
+"uncomment": [
+"202020",
+"C50F1F"
+],
+"uncommentcode": [
+"006CBF",
+"202020"
+],
+"underline": [
+"202020"
+],
+"undo": [
+"202020"
+],
+"undocheckboxlist": [
+"006CBF",
+"202020"
+],
+"undocheckedoutitem": [
+"006CBF",
+"202020"
+],
+"undock": [
+"202020"
+],
+"undonocolor": [
+"202020"
+],
+"unfreezecolumn": [
+"006CBF",
+"202020",
+"C50F1F"
+],
+"ungroup": [
+"006CBF",
+"202020"
+],
+"ungroupclause": [
+"006CBF",
+"202020"
+],
+"uninstall": [
+"202020",
+"C50F1F"
+],
+"union": [
+"006CBF",
+"202020"
+],
+"unioninternal": [
+"006CBF",
+"202020"
+],
+"unionprivate": [
+"006CBF",
+"202020"
+],
+"unionprotected": [
+"006CBF",
+"202020"
+],
+"unionpublic": [
+"006CBF",
+"202020"
+],
+"unionsealed": [
+"006CBF",
+"202020"
+],
+"unionshortcut": [
+"006CBF",
+"202020"
+],
+"uniquekey": [
+"202020"
+],
+"uniquekeyerror": [
+"202020",
+"C50F1F"
+],
+"uniquekeywarning": [
+"202020",
+"B27C00"
+],
+"unitepath": [
+"202020"
+],
+"unitofmeasure": [
+"202020",
+"B27C00"
+],
+"universalplatform": [
+"202020"
+],
+"unknownapplication": [
+"006CBF",
+"202020"
+],
+"unknownmember": [
+"006CBF",
+"202020"
+],
+"unlink": [
+"202020"
+],
+"unlinkvertical": [
+"202020"
+],
+"unlock": [
+"202020"
+],
+"unnestrelateddocuments": [
+"202020"
+],
+"unnesttreeview": [
+"202020",
+"C50F1F"
+],
+"unpin": [
+"202020"
+],
+"unrealengine": [
+"202020"
+],
+"unshelvependingchanges": [
+"006CBF",
+"202020"
+],
+"unsubscribe": [
+"202020",
+"C50F1F"
+],
+"unsyncedcommits": [
+"202020"
+],
+"updateanimation": [
+"006CBF",
+"202020"
+],
+"updatedatabase": [
+"006CBF",
+"3487C7"
+],
+"updatedatabaseerror": [
+"202020",
+"3487C7",
+"C50F1F"
+],
+"updatedatabaseok": [
+"11910D",
+"202020",
+"3487C7"
+],
+"updatelistitem": [
+"006CBF",
+"202020"
+],
+"updatepanel": [
+"006CBF",
+"202020"
+],
+"updatescript": [
+"006CBF",
+"202020"
+],
+"upload": [
+"202020"
+],
+"uploaddatabase": [
+"006CBF",
+"3487C7"
+],
+"uploaddocument": [
+"006CBF",
+"202020"
+],
+"uploadnocolor": [
+"202020"
+],
+"uploadparameter": [
+"006CBF",
+"202020"
+],
+"urlinputbox": [
+"006CBF",
+"202020"
+],
+"usagebasedoptimization": [
+"11910D",
+"202020"
+],
+"usb": [
+"202020"
+],
+"usecase": [
+"202020"
+],
+"user": [
+"202020"
+],
+"userapplication": [
+"202020"
+],
+"userbuild": [
+"006CBF",
+"202020"
+],
+"usercontrol": [
+"202020"
+],
+"userdatatype": [
+"202020",
+"3487C7"
+],
+"userdefineddatatype": [
+"202020"
+],
+"userdefineddatatypeerror": [
+"202020",
+"C50F1F"
+],
+"userdefineddatatypewarning": [
+"202020",
+"B27C00"
+],
+"userdefinedtabletype": [
+"202020"
+],
+"userdefinedtypeerror": [
+"202020",
+"3487C7",
+"C50F1F"
+],
+"userdefinedtypewarning": [
+"202020",
+"3487C7",
+"B27C00"
+],
+"usererror": [
+"202020",
+"C50F1F"
+],
+"userfeedback": [
+"202020"
+],
+"userfunction": [
+"202020"
+],
+"useritemtemplate": [
+"202020"
+],
+"userprojecttemplate": [
+"202020"
+],
+"usertask": [
+"202020"
+],
+"userwarning": [
+"202020",
+"B27C00"
+],
+"userwizard": [
+"202020"
+],
+"utility": [
+"202020"
+],
+"validateaggregation": [
+"11910D",
+"202020"
+],
+"validatedocument": [
+"11910D",
+"202020"
+],
+"validatedscript": [
+"202020",
+"3487C7"
+],
+"validatedscripterror": [
+"202020",
+"3487C7",
+"C50F1F"
+],
+"validatedscriptexcluded": [
+"202020",
+"3487C7",
+"C50F1F"
+],
+"validatedscriptwarning": [
+"202020",
+"3487C7",
+"B27C00"
+],
+"validatemodel": [
+"11910D",
+"202020"
+],
+"validateshelveset": [
+"11910D",
+"202020"
+],
+"validateteststep": [
+"11910D",
+"202020"
+],
+"validatewarning": [
+"11910D",
+"B27C00"
+],
+"validationrule": [
+"11910D",
+"202020"
+],
+"validationsummary": [
+"11910D",
+"202020"
+],
+"valuetype": [
+"006CBF"
+],
+"valuetypeinternal": [
+"006CBF",
+"202020"
+],
+"valuetypeprivate": [
+"006CBF",
+"202020"
+],
+"valuetypeprotected": [
+"006CBF",
+"202020"
+],
+"valuetypepublic": [
+"006CBF"
+],
+"valuetypesealed": [
+"006CBF",
+"202020"
+],
+"valuetypeshortcut": [
+"006CBF",
+"202020"
+],
+"variableproperty": [
+"202020"
+],
+"vbaapplication": [
+"006CBF",
+"202020"
+],
+"vbapplication": [
+"006CBF"
+],
+"vbassemblyinfofile": [
+"006CBF"
+],
+"vbbdcmodel": [
+"006CBF",
+"202020"
+],
+"vbblankapplication": [
+"202020"
+],
+"vbblankfile": [
+"202020"
+],
+"vbblankphone": [
+"202020"
+],
+"vbblankwebsite": [
+"202020"
+],
+"vbclasscollection": [
+"006CBF",
+"202020"
+],
+"vbclassfile": [
+"006CBF",
+"202020"
+],
+"vbclasslibrary": [
+"006CBF",
+"202020"
+],
+"vbcloudbusinessapp": [
+"006CBF"
+],
+"vbcodtest": [
+"006CBF",
+"202020"
+],
+"vbcolumn": [
+"006CBF"
+],
+"vbconsole": [
+"006CBF"
+],
+"vbconsoletest": [
+"006CBF",
+"202020"
+],
+"vbcontenttype": [
+"006CBF",
+"202020"
+],
+"vbdatabaselibrary": [
+"202020",
+"3487C7"
+],
+"vbdeploymentmodule": [
+"006CBF",
+"202020"
+],
+"vbdevicetest": [
+"006CBF",
+"202020"
+],
+"vbdynamicwebsite": [
+"006CBF",
+"202020"
+],
+"vbeventreceiver": [
+"006CBF",
+"202020"
+],
+"vbextension": [
+"006CBF"
+],
+"vbfilenode": [
+"006CBF"
+],
+"vbfixedlayoutapplication": [
+"006CBF",
+"202020"
+],
+"vbgridapplication": [
+"006CBF",
+"202020"
+],
+"vbhubapplication": [
+"006CBF",
+"202020"
+],
+"vbinteractivewindow": [
+"202020"
+],
+"vbinterfacecollection": [
+"006CBF",
+"202020"
+],
+"vbinterop": [
+"006CBF",
+"202020"
+],
+"vblibrary": [
+"006CBF"
+],
+"vblightswitch": [
+"006CBF"
+],
+"vblightswitchlibrary": [
+"006CBF",
+"202020"
+],
+"vblistdefinition": [
+"006CBF",
+"202020"
+],
+"vbmenuitemcustomaction": [
+"006CBF",
+"202020"
+],
+"vbnavigationapplication": [
+"006CBF",
+"202020"
+],
+"vbpackage": [
+"006CBF"
+],
+"vbphone": [
+"006CBF"
+],
+"vbphonehub": [
+"006CBF",
+"202020"
+],
+"vbphonelibrary": [
+"006CBF",
+"202020"
+],
+"vbphonepivot": [
+"006CBF",
+"202020"
+],
+"vbphonetest": [
+"006CBF",
+"202020"
+],
+"vbphonewebsite": [
+"006CBF",
+"202020"
+],
+"vbprojectnode": [
+"006CBF",
+"202020"
+],
+"vbrazorfile": [
+"006CBF",
+"202020"
+],
+"vbreport": [
+"202020"
+],
+"vbribboncustomaction": [
+"006CBF",
+"202020"
+],
+"vbservicebusworker": [
+"202020"
+],
+"vbsharedproject": [
+"006CBF"
+],
+"vbsilverlight": [
+"006CBF"
+],
+"vbsilverlightlibrary": [
+"006CBF",
+"202020"
+],
+"vbsilverlightphone": [
+"006CBF",
+"202020"
+],
+"vbsilverlighttest": [
+"006CBF",
+"202020"
+],
+"vbsilverlightwebsite": [
+"006CBF",
+"202020"
+],
+"vbsitedefinition": [
+"202020"
+],
+"vbsourcefile": [
+"006CBF",
+"202020"
+],
+"vbsplitapplication": [
+"006CBF",
+"202020"
+],
+"vbtablet": [
+"006CBF"
+],
+"vbtest": [
+"006CBF",
+"202020"
+],
+"vbtestapplication": [
+"006CBF",
+"202020"
+],
+"vbtestlibrary": [
+"006CBF",
+"202020"
+],
+"vbwcf": [
+"006CBF"
+],
+"vbwebapplication": [
+"006CBF",
+"202020"
+],
+"vbwebpart": [
+"006CBF",
+"202020"
+],
+"vbwebservice": [
+"006CBF"
+],
+"vbwebsitetemplate": [
+"006CBF",
+"202020"
+],
+"vbwf": [
+"006CBF"
+],
+"vbwindowslibrary": [
+"006CBF",
+"202020"
+],
+"vbwindowsservice": [
+"202020"
+],
+"vbworkertemplate": [
+"006CBF",
+"202020"
+],
+"vbworkflow": [
+"006CBF"
+],
+"vbworkflowactivity": [
+"006CBF"
+],
+"vbworkflowassociationform": [
+"006CBF",
+"202020"
+],
+"vbworkflowdiagram": [
+"006CBF"
+],
+"vbworkflowinitiationform": [
+"006CBF",
+"202020"
+],
+"vbworkflowmanageractivity": [
+"006CBF"
+],
+"vbwpfapplication": [
+"006CBF",
+"202020"
+],
+"vbwpflibrary": [
+"006CBF",
+"202020"
+],
+"vbwpfusercontrol": [
+"006CBF",
+"202020"
+],
+"vbwpfwebsite": [
+"006CBF",
+"202020"
+],
+"verifiedpublisher": [
+"006CBF"
+],
+"version": [
+"202020"
+],
+"versioninformation": [
+"202020"
+],
+"verticalscrollbar": [
+"006CBF",
+"202020"
+],
+"verticalslicers": [
+"006CBF",
+"202020"
+],
+"videocamera": [
+"202020"
+],
+"videocard": [
+"202020"
+],
+"videorecording": [
+"202020",
+"C50F1F"
+],
+"view": [
+"202020"
+],
+"viewback": [
+"202020",
+"3487C7"
+],
+"viewbottom": [
+"202020",
+"3487C7"
+],
+"viewbox": [
+"006CBF",
+"202020"
+],
+"viewbyschema": [
+"006CBF",
+"202020"
+],
+"viewdefinition": [
+"202020"
+],
+"viewdock": [
+"006CBF",
+"202020"
+],
+"viewerror": [
+"202020",
+"C50F1F"
+],
+"viewfront": [
+"202020",
+"3487C7"
+],
+"viewfull": [
+"202020"
+],
+"viewinbrowser": [
+"202020"
+],
+"viewlandscape": [
+"202020"
+],
+"viewleft": [
+"202020",
+"3487C7"
+],
+"viewportrait": [
+"202020"
+],
+"viewremotesite": [
+"006CBF"
+],
+"viewremove": [
+"202020",
+"C50F1F"
+],
+"viewright": [
+"202020",
+"3487C7"
+],
+"viewtop": [
+"202020",
+"3487C7"
+],
+"viewwarning": [
+"202020",
+"B27C00"
+],
+"virtualmachine": [
+"202020"
+],
+"virtualmachineerror": [
+"202020",
+"C50F1F"
+],
+"virtualmachinegroup": [
+"202020"
+],
+"virtualmachinegrouperror": [
+"202020",
+"C50F1F"
+],
+"virtualmachinelibrary": [
+"202020"
+],
+"virtualmachineok": [
+"11910D",
+"202020"
+],
+"virtualmachinerefresh": [
+"006CBF",
+"202020"
+],
+"virtualmachinestopped": [
+"202020",
+"C50F1F"
+],
+"visible": [
+"202020"
+],
+"visibleborders": [
+"202020"
+],
+"visiblefilled": [
+"202020"
+],
+"visualaidsdisabled": [
+"202020",
+"C50F1F"
+],
+"visualstudio": [
+"9529C2"
+],
+"visualstudioaboutboxbackground": [
+"5C2D91",
+"FFFFFF"
+],
+"visualstudioblend": [
+"20AC9D"
+],
+"visualstudiocode": [
+"0078B9",
+"0086D1",
+"25B0F3"
+],
+"visualstudiodownload": [
+"414141",
+"672079",
+"F0EFF1",
+"F6F6F6",
+"FFFFFF"
+],
+"visualstudioexpressweb": [
+"11910D"
+],
+"visualstudioexpresswindows": [
+"545454"
+],
+"visualstudioexpresswindows8": [
+"00ADEF"
+],
+"visualstudioexpresswindowsphone": [
+"C50F1F"
+],
+"visualstudiofeedback": [
+"00BCF2",
+"9529C2"
+],
+"visualstudioonline": [
+"017ACC"
+],
+"visualstudiosettingsfile": [
+"202020",
+"9529C2"
+],
+"visualstudioshell": [
+"202020"
+],
+"visualstudiosplashscreenbackground": [
+"1E1E1E",
+"2D2D30",
+"4C4C4F",
+"FFFFFF"
+],
+"visualstudiotoolsaboutbox": [
+"006CBF",
+"202020"
+],
+"visualstudioupdate": [
+"414141",
+"672079",
+"F6F6F6",
+"FFFFFF"
+],
+"visualstudiowindowsdesktop": [
+"00467E"
+],
+"visualtotals": [
+"11910D",
+"202020"
+],
+"vocabularyfile": [
+"202020"
+],
+"volume": [
+"202020"
+],
+"waitforcustomevent": [
+"006CBF",
+"B27C00"
+],
+"waitforfieldchange": [
+"006CBF",
+"202020"
+],
+"waitforitemevent": [
+"006CBF",
+"202020"
+],
+"watch": [
+"202020"
+],
+"wcf": [
+"202020"
+],
+"wcfdata": [
+"006CBF",
+"3487C7"
+],
+"weakhierarchy": [
+"202020"
+],
+"web": [
+"006CBF"
+],
+"webadmin": [
+"006CBF",
+"202020"
+],
+"webapi": [
+"006CBF",
+"202020"
+],
+"webapplication": [
+"006CBF",
+"202020"
+],
+"webbrowseritem": [
+"006CBF",
+"202020"
+],
+"webconfiguration": [
+"006CBF",
+"202020"
+],
+"webcontract": [
+"006CBF"
+],
+"webcontrollibrary": [
+"006CBF",
+"202020"
+],
+"webcustomascxcontrol": [
+"006CBF",
+"202020"
+],
+"webcustomcontrol": [
+"006CBF"
+],
+"webdestination": [
+"006CBF"
+],
+"webfile": [
+"006CBF",
+"202020"
+],
+"webfileerror": [
+"006CBF",
+"202020",
+"C50F1F"
+],
+"webfolderclosed": [
+"424242",
+"DCB67A",
+"F0EFF1",
+"F6F6F6",
+"FFFFFF"
+],
+"webfolderopened": [
+"006CBF",
+"B27C00"
+],
+"weblog": [
+"006CBF",
+"159195",
+"202020"
+],
+"webmethodaction": [
+"006CBF",
+"5C2E91"
+],
+"webpart": [
+"006CBF",
+"202020"
+],
+"webpartmanager": [
+"202020"
+],
+"webpartpagemenu": [
+"202020"
+],
+"webpartzone": [
+"202020"
+],
+"webphone": [
+"006CBF",
+"202020"
+],
+"webproperty": [
+"006CBF",
+"202020"
+],
+"webreferencefolder": [
+"006CBF",
+"B27C00"
+],
+"webscript": [
+"006CBF",
+"202020"
+],
+"webserver": [
+"006CBF",
+"202020"
+],
+"webservice": [
+"006CBF"
+],
+"websetupproject": [
+"006CBF",
+"202020"
+],
+"websubfolder": [
+"006CBF",
+"B27C00"
+],
+"webtest": [
+"006CBF",
+"159195",
+"202020"
+],
+"webtestplugin": [
+"159195",
+"202020"
+],
+"weburl": [
+"006CBF"
+],
+"webusercontrol": [
+"006CBF",
+"202020"
+],
+"webwarning": [
+"006CBF",
+"B27C00"
+],
+"weightedmember": [
+"202020"
+],
+"weightedmemberformula": [
+"202020"
+],
+"welcomeuserguide": [
+"202020"
+],
+"welcomewebonline": [
+"006CBF",
+"202020"
+],
+"welcomewebtutorial": [
+"006CBF",
+"202020"
+],
+"wf": [
+"202020"
+],
+"wfc": [
+"202020"
+],
+"wfservice": [
+"202020"
+],
+"while": [
+"006CBF",
+"202020"
+],
+"wholeword": [
+"202020"
+],
+"win32application": [
+"202020"
+],
+"windows": [
+"0078D7",
+"FFFFFF"
+],
+"windowsapplicationpackagingproject": [
+"202020"
+],
+"windowsazure": [
+"006CBF"
+],
+"windowscreenshot": [
+"202020"
+],
+"windowsform": [
+"202020",
+"5C2E91"
+],
+"windowsformlibrary": [
+"202020"
+],
+"windowsformtoolbox": [
+"202020",
+"C50F1F"
+],
+"windowsphone": [
+"00178F",
+"FFFFFF"
+],
+"windowsservice": [
+"202020"
+],
+"windowsservicestop": [
+"202020",
+"C50F1F"
+],
+"windowsservicewarning": [
+"202020",
+"B27C00"
+],
+"wireframeview": [
+"202020"
+],
+"wizard": [
+"202020",
+"B27C00"
+],
+"wmiconnection": [
+"202020"
+],
+"wordwrap": [
+"006CBF",
+"202020"
+],
+"workassomeoneelse": [
+"006CBF",
+"202020"
+],
+"workerservicefile": [
+"202020"
+],
+"workflowassociationform": [
+"006CBF",
+"11910D",
+"202020"
+],
+"workflowinitiationform": [
+"006CBF",
+"11910D",
+"202020"
+],
+"workflowinterop": [
+"11910D",
+"202020"
+],
+"workflowstartassociation": [
+"11910D",
+"202020",
+"B27C00"
+],
+"workitem": [
+"11910D",
+"202020"
+],
+"workitemgroup": [
+"11910D",
+"202020"
+],
+"workitemquery": [
+"11910D",
+"202020",
+"B27C00"
+],
+"worldlocal": [
+"202020",
+"5C2E91"
+],
+"wpfapplication": [
+"006CBF",
+"202020"
+],
+"wpfcustomcontrol": [
+"006CBF",
+"202020"
+],
+"wpfdesigner": [
+"006CBF",
+"202020"
+],
+"wpffile": [
+"006CBF",
+"202020"
+],
+"wpfflowfile": [
+"006CBF",
+"202020"
+],
+"wpflibrary": [
+"006CBF",
+"202020"
+],
+"wpfpagefunction": [
+"202020"
+],
+"wpfresourcedictionary": [
+"006CBF",
+"202020"
+],
+"wpftoolbox": [
+"006CBF",
+"202020",
+"C50F1F"
+],
+"wpfusercontrol": [
+"006CBF",
+"202020"
+],
+"wpfwebsite": [
+"006CBF",
+"202020"
+],
+"wrappanel": [
+"006CBF",
+"202020"
+],
+"writeable": [
+"006CBF",
+"202020"
+],
+"writebackpartition": [
+"006CBF",
+"202020"
+],
+"writetoconsole": [
+"006CBF",
+"202020"
+],
+"writetodatabase": [
+"006CBF",
+"3487C7"
+],
+"writetohistory": [
+"006CBF",
+"202020"
+],
+"wwaproject": [
+"006CBF",
+"202020"
+],
+"xamlbindingerror": [
+"202020",
+"C50F1F"
+],
+"xamlbindingerrornocolor": [
+"202020"
+],
+"xamlbindingok": [
+"11910D",
+"202020"
+],
+"xmlattribute": [
+"202020"
+],
+"xmlattributehighconfidence": [
+"11910D",
+"202020"
+],
+"xmlattributelowconfidence": [
+"006CBF",
+"202020"
+],
+"xmlcdatatag": [
+"202020"
+],
+"xmlcommenttag": [
+"202020"
+],
+"xmldescendant": [
+"202020"
+],
+"xmldescendanthighconfidence": [
+"11910D",
+"202020"
+],
+"xmldescendantlowconfidence": [
+"006CBF",
+"202020"
+],
+"xmldocumenttypedefinitionfile": [
+"202020"
+],
+"xmlelement": [
+"202020"
+],
+"xmlelementhighconfidence": [
+"11910D",
+"202020"
+],
+"xmlelementlowconfidence": [
+"006CBF",
+"202020"
+],
+"xmlfile": [
+"202020"
+],
+"xmlnamespace": [
+"202020"
+],
+"xmlprocessinstructiontag": [
+"202020"
+],
+"xmlschema": [
+"202020"
+],
+"xmlschemaerror": [
+"202020",
+"C50F1F"
+],
+"xmlschemawarning": [
+"202020",
+"B27C00"
+],
+"xmltransformation": [
+"006CBF",
+"202020"
+],
+"xna": [
+"8C9DA7",
+"F4793B"
+],
+"xpath": [
+"006CBF",
+"202020"
+],
+"xrayview": [
+"202020"
+],
+"xsltransform": [
+"006CBF",
+"202020"
+],
+"xslttemplate": [
+"202020"
+],
+"xworldfile": [
+"202020"
+],
+"yamlfile": [
+"202020",
+"C50F1F"
+],
+"yield": [
+"202020"
+],
+"zoom": [
+"202020"
+],
+"zoomcontrol": [
+"202020"
+],
+"zoomcontrollock": [
+"202020"
+],
+"zoomin": [
+"006CBF",
+"202020"
+],
+"zoomlock": [
+"202020"
+],
+"zoomoriginalsize": [
+"202020"
+],
+"zoomout": [
+"006CBF",
+"202020"
+],
+"zoomtofit": [
+"006CBF",
+"202020"
+],
+"zoomtoggle": [
+"006CBF",
+"202020"
+],
+"zoomtowidth": [
+"006CBF",
+"202020"
+]
+},
+"cnt": {
+"202020": 7474,
+"006CBF": 1654,
+"B27C00": 446,
+"159195": 123,
+"11910D": 586,
+"3487C7": 264,
+"8661C5": 45,
+"5C2E91": 162,
+"C50F1F": 379,
+"DE590B": 38,
+"34A853": 2,
+"7C52AB": 1,
+"9A70C9": 1,
+"CCA2EB": 1,
+"E0B6F5": 1,
+"B88EE7": 1,
+"79D7F2": 3,
+"0095D7": 2,
+"9CEBFF": 10,
+"53B1E0": 1,
+"0072C6": 6,
+"00BCF2": 4,
+"682878": 1,
+"1BA1E2": 1,
+"652D90": 1,
+"007ACC": 4,
+"FCB714": 4,
+"76BC2D": 2,
+"949494": 8,
+"0078D4": 13,
+"005BA1": 4,
+"50E6FF": 17,
+"767676": 2,
+"A67AF4": 6,
+"773ADC": 4,
+"F4F4F4": 2,
+"32BEDD": 19,
+"4F4F4F": 1,
+"A3A3A3": 3,
+"B3B3B3": 1,
+"BFBFBF": 3,
+"37C2B1": 6,
+"258277": 4,
+"F0EFF1": 71,
+"424242": 26,
+"5E9624": 1,
+"5B9FEE": 1,
+"848484": 3,
+"1490DF": 1,
+"FEA11B": 1,
+"F28300": 3,
+"B77AF4": 1,
+"9659E8": 1,
+"341A6E": 1,
+"198AB3": 1,
+"555555": 1,
+"3999C6": 2,
+"32D4F5": 4,
+"C3F1FF": 1,
+"DFDFDF": 7,
+"2FA2C8": 3,
+"00539C": 3,
+"B796F9": 2,
+"DD5900": 1,
+"FF8C00": 1,
+"F2F2F2": 1,
+"5FB832": 2,
+"5EA0EF": 1,
+"C1C1C1": 1,
+"7A7A7A": 2,
+"1355F4": 1,
+"47C2FC": 1,
+"4CE7ED": 1,
+"512BD4": 2,
+"FFFFFF": 67,
+"5C2D91": 29,
+"20AC9D": 9,
+"00ACEE": 1,
+"FFCC2F": 2,
+"2BAF2B": 1,
+"EF5734": 1,
+"543729": 2,
+"CECECE": 2,
+"CC0000": 1,
+"73D216": 1,
+"3465A4": 1,
+"A33FB1": 84,
+"F2C661": 3,
+"9ADE49": 3,
+"56B60E": 2,
+"0D7012": 2,
+"E1E1E1": 1,
+"BABABA": 1,
+"A7A7A7": 1,
+"818181": 1,
+"6E6E6E": 1,
+"5B5B5B": 1,
+"474747": 1,
+"343434": 1,
+"0091E2": 1,
+"F6F6F6": 59,
+"0095D6": 1,
+"00467E": 3,
+"F05133": 6,
+"4285F4": 1,
+"FBBC05": 1,
+"EA4335": 1,
+"5AC5C5": 2,
+"244B5A": 1,
+"1EBBEE": 1,
+"0077A0": 2,
+"A7A9AC": 1,
+"005295": 1,
+"414141": 105,
+"F5F5F5": 1,
+"EFEEF0": 1,
+"309D90": 1,
+"444444": 6,
+"6A6A6A": 6,
+"8F8F8F": 6,
+"B4B4B4": 6,
+"DADADA": 6,
+"F25022": 1,
+"7FBA00": 1,
+"00A4EF": 1,
+"FFB900": 1,
+"201BA6": 2,
+"2D29C7": 1,
+"3530C3": 1,
+"6D71D1": 1,
+"C0BFF5": 1,
+"E3E4FF": 1,
+"302EC9": 2,
+"CACAFB": 1,
+"7F7EAF": 1,
+"672079": 7,
+"5FA04E": 1,
+"004880": 1,
+"CE2C00": 1,
+"EB3B00": 1,
+"A4373A": 1,
+"A43639": 1,
+"00529C": 5,
+"217346": 1,
+"207245": 4,
+"693789": 1,
+"D24726": 1,
+"31752F": 1,
+"2271C6": 7,
+"3854A3": 1,
+"2B579A": 1,
+"93D500": 1,
+"6BA43A": 1,
+"4D5A31": 1,
+"424143": 1,
+"E43BA6": 1,
+"DCB67A": 4,
+"DBB679": 1,
+"EFEFF0": 3,
+"9529C2": 9,
+"672179": 1,
+"005DBA": 1,
+"0597FF": 3,
+"0457D2": 3,
+"1493DF": 1,
+"FFCD00": 2,
+"2C74AD": 1,
+"DC9F06": 1,
+"0078B9": 1,
+"0086D1": 1,
+"25B0F3": 1,
+"545454": 2,
+"00ADEF": 2,
+"017ACC": 2,
+"2D2D30": 1,
+"1E1E1E": 1,
+"4C4C4F": 1,
+"0078D7": 1,
+"00178F": 4,
+"8C9DA7": 1,
+"F4793B": 1
+}
+}

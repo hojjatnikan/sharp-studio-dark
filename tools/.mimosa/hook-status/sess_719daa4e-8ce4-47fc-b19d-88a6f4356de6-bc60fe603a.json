@@ -1,14 +1,14 @@
 {
   "schemaVersion": "mimosa-hook-status/v1",
-  "recordedAt": "2026-09-23T17:48:06.986Z",
+  "recordedAt": "2026-09-30T18:38:02.204Z",
   "sessionId": "sess_719daa4e-8ce4-47fc-b19d-88a6f4356de6",
   "event": "PostToolUse",
   "toolName": "Edit",
-  "file": "C:\\Users\\h.nikan\\.zcode\\workspace\\default\\rider-vs-theme\\README.md",
+  "file": "C:\\Users\\h.nikan\\.zcode\\workspace\\default\\rider-vs-theme\\sharp-studio-dark\\src\\main\\resources\\META-INF\\plugin.xml",
   "outcome": "clear",
   "coverage": "complete",
   "findingCount": 0,
-  "durationMs": 5,
+  "durationMs": 8,
   "hostState": "hook_complete",
   "reportHint": ".mimosa/reports/"
 }

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\h.nikan\\.zcode\\workspace\\default\\rider-vs-theme\\build\\sample\\VsThemeSample\\VsThemeSample.csproj",
+      "projectUniqueName": "C:\\Users\\h.nikan\\.zcode\\workspace\\default\\rider-vs-theme\\sharp-studio-dark\\build\\sample\\VsThemeSample\\VsThemeSample.csproj",
       "projectName": "VsThemeSample",
-      "projectPath": "C:\\Users\\h.nikan\\.zcode\\workspace\\default\\rider-vs-theme\\build\\sample\\VsThemeSample\\VsThemeSample.csproj",
+      "projectPath": "C:\\Users\\h.nikan\\.zcode\\workspace\\default\\rider-vs-theme\\sharp-studio-dark\\build\\sample\\VsThemeSample\\VsThemeSample.csproj",
       "packagesPath": "C:\\Users\\h.nikan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\h.nikan\\.zcode\\workspace\\default\\rider-vs-theme\\build\\sample\\VsThemeSample\\obj\\",
+      "outputPath": "C:\\Users\\h.nikan\\.zcode\\workspace\\default\\rider-vs-theme\\sharp-studio-dark\\build\\sample\\VsThemeSample\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "c:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
